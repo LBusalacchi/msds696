@@ -1,0 +1,6251 @@
+topic,variety
+Topic 0,Bordeaux-style Red Blend
+Topic 0,Red Blend
+Topic 0,Pinot Noir
+Topic 0,Portuguese Red
+Topic 0,Barbera
+Topic 0,Red Blend
+Topic 0,Nebbiolo
+Topic 0,Gamay
+Topic 0,Bordeaux-style Red Blend
+Topic 0,Barbera
+Topic 0,Sagrantino
+Topic 0,Cabernet Sauvignon
+Topic 0,Barbera
+Topic 0,Sagrantino
+Topic 0,Teroldego
+Topic 0,Syrah
+Topic 0,Gamay
+Topic 0,Red Blend
+Topic 0,Pinot Noir
+Topic 0,Gamay
+Topic 0,Red Blend
+Topic 0,Portuguese Red
+Topic 0,Syrah
+Topic 0,Portuguese Red
+Topic 0,Portuguese Red
+Topic 1,Ribolla Gialla
+Topic 1,Xarel-lo
+Topic 1,Riesling
+Topic 1,Riesling
+Topic 1,Grillo
+Topic 1,Sauvignon Blanc
+Topic 1,Pinot Grigio
+Topic 1,Turbiana
+Topic 1,Chardonnay
+Topic 1,Verdejo
+Topic 1,White Blend
+Topic 1,Grüner Veltliner
+Topic 1,Steen
+Topic 1,Insolia
+Topic 1,Grillo
+Topic 1,Chardonnay
+Topic 1,Welschriesling
+Topic 1,Pansa Blanca
+Topic 1,White Blend
+Topic 1,Verdejo
+Topic 1,White Blend
+Topic 1,Albariño
+Topic 1,Pinot Grigio
+Topic 1,Grüner Veltliner
+Topic 1,Garganega
+Topic 2,Red Blend
+Topic 2,Portuguese Red
+Topic 2,Bordeaux-style Red Blend
+Topic 2,Bordeaux-style Red Blend
+Topic 2,Chardonnay
+Topic 2,Gamay
+Topic 2,Bordeaux-style Red Blend
+Topic 2,Portuguese Red
+Topic 2,Portuguese Red
+Topic 2,Gamay
+Topic 2,Bordeaux-style Red Blend
+Topic 2,Portuguese Red
+Topic 2,Bordeaux-style Red Blend
+Topic 2,Pinot Noir
+Topic 2,Bordeaux-style Red Blend
+Topic 2,Portuguese Red
+Topic 2,Pinot Noir
+Topic 2,Portuguese Red
+Topic 2,Gamay
+Topic 2,Pinot Noir
+Topic 2,Provence red blend
+Topic 2,Chardonnay
+Topic 2,Bordeaux-style Red Blend
+Topic 2,Riesling
+Topic 2,Bordeaux-style Red Blend
+Topic 3,Cabernet Sauvignon
+Topic 3,Grenache
+Topic 3,Syrah
+Topic 3,Cabernet Sauvignon
+Topic 3,Pinot Noir
+Topic 3,Pinot Noir
+Topic 3,Sangiovese
+Topic 3,Pinot Noir
+Topic 3,Red Blend
+Topic 3,White Blend
+Topic 3,Zinfandel
+Topic 3,Cabernet Sauvignon
+Topic 3,Cabernet Sauvignon
+Topic 3,Syrah
+Topic 3,Zinfandel
+Topic 3,Pinot Noir
+Topic 3,Merlot
+Topic 3,Pinot Noir
+Topic 3,Cabernet Sauvignon
+Topic 3,Zinfandel
+Topic 3,Pinot Noir
+Topic 3,Zinfandel
+Topic 3,Zinfandel
+Topic 3,Red Blend
+Topic 3,White Blend
+Topic 4,Rosé
+Topic 4,Pinot Noir
+Topic 4,Gamay
+Topic 4,Bordeaux-style Red Blend
+Topic 4,Pinot Noir
+Topic 4,Portuguese Red
+Topic 4,Bordeaux-style Red Blend
+Topic 4,Merlot
+Topic 4,Gamay
+Topic 4,Gamay
+Topic 4,Pied de Perdrix
+Topic 4,Pinot Noir
+Topic 4,Rosé
+Topic 4,Pinot Noir
+Topic 4,Portuguese Red
+Topic 4,Malbec
+Topic 4,Sangiovese
+Topic 4,Red Blend
+Topic 4,Gamay
+Topic 4,Rosé
+Topic 4,Rosé
+Topic 4,Portuguese Red
+Topic 4,Portuguese Red
+Topic 4,Rosé
+Topic 4,Pinot Noir
+Topic 5,Cabernet Sauvignon
+Topic 5,Red Blend
+Topic 5,Petite Sirah
+Topic 5,Malbec
+Topic 5,Bordeaux-style Red Blend
+Topic 5,Cabernet Sauvignon
+Topic 5,Tempranillo
+Topic 5,Pinot Noir
+Topic 5,Bordeaux-style White Blend
+Topic 5,Port
+Topic 5,Portuguese Red
+Topic 5,Pinot Noir
+Topic 5,Portuguese Red
+Topic 5,Garnacha-Syrah
+Topic 5,Merlot
+Topic 5,Bordeaux-style Red Blend
+Topic 5,Bordeaux-style Red Blend
+Topic 5,Bordeaux-style Red Blend
+Topic 5,Chardonnay
+Topic 5,Red Blend
+Topic 5,Red Blend
+Topic 5,Portuguese Red
+Topic 5,Bordeaux-style Red Blend
+Topic 5,Bordeaux-style Red Blend
+Topic 5,Bordeaux-style Red Blend
+Topic 6,Garnacha
+Topic 6,Cabernet Sauvignon-Syrah
+Topic 6,Cabernet Sauvignon-Malbec
+Topic 6,Cabernet Franc
+Topic 6,Merlot
+Topic 6,Carmenère
+Topic 6,Shiraz
+Topic 6,Malbec
+Topic 6,Chardonnay
+Topic 6,Tempranillo
+Topic 6,Red Blend
+Topic 6,Merlot
+Topic 6,Zinfandel
+Topic 6,Malbec
+Topic 6,Malbec
+Topic 6,Carmenère
+Topic 6,Sauvignon Blanc
+Topic 6,Cabernet Sauvignon
+Topic 6,Cabernet Sauvignon
+Topic 6,Red Blend
+Topic 6,Viura
+Topic 6,Sauvignon Blanc
+Topic 6,Cabernet Sauvignon
+Topic 6,Carmenère
+Topic 6,Sauvignon Blanc
+Topic 7,Syrah
+Topic 7,Shiraz
+Topic 7,Rosé
+Topic 7,Pinot Noir
+Topic 7,Barbera
+Topic 7,Austrian Red Blend
+Topic 7,Pinot Noir
+Topic 7,Chardonnay
+Topic 7,Bordeaux-style Red Blend
+Topic 7,Bordeaux-style Red Blend
+Topic 7,Red Blend
+Topic 7,Malbec-Tannat
+Topic 7,Cabernet Sauvignon
+Topic 7,Malbec
+Topic 7,Chardonnay
+Topic 7,Bordeaux-style Red Blend
+Topic 7,Pinot Noir
+Topic 7,Cabernet Sauvignon-Shiraz
+Topic 7,Tempranillo
+Topic 7,Bordeaux-style Red Blend
+Topic 7,Malbec
+Topic 7,Bordeaux-style Red Blend
+Topic 7,Bordeaux-style Red Blend
+Topic 7,Pinot Noir
+Topic 7,Port
+Topic 8,Merlot
+Topic 8,Red Blend
+Topic 8,Merlot
+Topic 8,Touriga Nacional
+Topic 8,Grenache
+Topic 8,Portuguese Red
+Topic 8,Malbec
+Topic 8,Pinot Blanc
+Topic 8,Merlot
+Topic 8,Syrah
+Topic 8,Syrah
+Topic 8,Bordeaux-style Red Blend
+Topic 8,Bordeaux-style Red Blend
+Topic 8,Shiraz
+Topic 8,Portuguese White
+Topic 8,Bordeaux-style Red Blend
+Topic 8,Bordeaux-style Red Blend
+Topic 8,Rhône-style Red Blend
+Topic 8,Merlot
+Topic 8,Chardonnay
+Topic 8,Pinot Noir
+Topic 8,Bordeaux-style Red Blend
+Topic 8,Chardonnay
+Topic 8,Sauvignon Blanc
+Topic 8,Bordeaux-style Red Blend
+Topic 9,Zinfandel
+Topic 9,Merlot
+Topic 9,Merlot
+Topic 9,Merlot
+Topic 9,Chardonnay
+Topic 9,Syrah
+Topic 9,Rosé
+Topic 9,Pinot Noir
+Topic 9,Sauvignon Blanc
+Topic 9,Merlot
+Topic 9,Gewürztraminer
+Topic 9,Sangiovese
+Topic 9,"Corvina, Rondinella, Molinara"
+Topic 9,Merlot
+Topic 9,Merlot
+Topic 9,Bordeaux-style Red Blend
+Topic 9,Pinot Grigio
+Topic 9,Merlot
+Topic 9,Sauvignon Blanc
+Topic 9,Pinot Noir
+Topic 9,Pinot Noir
+Topic 9,Merlot
+Topic 9,Grenache
+Topic 9,Zinfandel
+Topic 9,Bordeaux-style Red Blend
+Topic 10,Tempranillo
+Topic 10,Rosé
+Topic 10,Red Blend
+Topic 10,Chardonnay
+Topic 10,Merlot
+Topic 10,Cabernet Franc
+Topic 10,Red Blend
+Topic 10,Pinot Noir
+Topic 10,Cabernet Sauvignon
+Topic 10,Chardonnay-Semillon
+Topic 10,Zinfandel
+Topic 10,Pinot Noir
+Topic 10,Pinot Noir
+Topic 10,Rosé
+Topic 10,Pinot Noir
+Topic 10,Kadarka
+Topic 10,Chardonnay
+Topic 10,Chardonnay
+Topic 10,Chardonnay
+Topic 10,Tempranillo
+Topic 10,Red Blend
+Topic 10,Tempranillo
+Topic 10,Champagne Blend
+Topic 10,Red Blend
+Topic 10,Sangiovese
+Topic 11,Cabernet Sauvignon
+Topic 11,Malbec
+Topic 11,Petite Sirah
+Topic 11,Red Blend
+Topic 11,Petite Sirah
+Topic 11,Merlot
+Topic 11,Cabernet Sauvignon
+Topic 11,Red Blend
+Topic 11,"Corvina, Rondinella, Molinara"
+Topic 11,Cabernet Sauvignon
+Topic 11,Red Blend
+Topic 11,Cabernet Sauvignon
+Topic 11,Syrah
+Topic 11,Malbec
+Topic 11,Petite Sirah
+Topic 11,Petite Sirah
+Topic 11,Cabernet Sauvignon
+Topic 11,Cabernet Sauvignon
+Topic 11,Zinfandel
+Topic 11,Cabernet Franc
+Topic 11,Malbec
+Topic 11,Merlot
+Topic 11,Red Blend
+Topic 11,Bordeaux-style Red Blend
+Topic 11,Cabernet Sauvignon
+Topic 12,Merlot
+Topic 12,Charbono
+Topic 12,Gamay
+Topic 12,Gamay
+Topic 12,Bordeaux-style Red Blend
+Topic 12,Bordeaux-style Red Blend
+Topic 12,Pinot Noir
+Topic 12,Pinot Noir
+Topic 12,Bordeaux-style Red Blend
+Topic 12,Pinot Noir
+Topic 12,Merlot
+Topic 12,Bordeaux-style Red Blend
+Topic 12,Red Blend
+Topic 12,Pinot Noir
+Topic 12,Cabernet Franc
+Topic 12,Bordeaux-style Red Blend
+Topic 12,Gamay
+Topic 12,Pinot Noir
+Topic 12,Portuguese Red
+Topic 12,Bordeaux-style Red Blend
+Topic 12,Zinfandel
+Topic 12,Pinot Noir
+Topic 12,Sangiovese Grosso
+Topic 12,Pinot Noir
+Topic 12,Syrah
+Topic 13,Cabernet Sauvignon
+Topic 13,Zinfandel
+Topic 13,Austrian Red Blend
+Topic 13,Pinot Noir
+Topic 13,Bordeaux-style Red Blend
+Topic 13,Malbec
+Topic 13,Portuguese Red
+Topic 13,Bordeaux-style White Blend
+Topic 13,Inzolia
+Topic 13,Merlot
+Topic 13,Bordeaux-style Red Blend
+Topic 13,Cabernet Merlot
+Topic 13,Greco
+Topic 13,Petit Verdot
+Topic 13,Pinot Noir
+Topic 13,Turbiana
+Topic 13,Red Blend
+Topic 13,Catarratto
+Topic 13,Bordeaux-style Red Blend
+Topic 13,Zweigelt
+Topic 13,Cabernet Sauvignon
+Topic 13,Chardonnay
+Topic 13,Malbec
+Topic 13,Bordeaux-style Red Blend
+Topic 13,Riesling
+Topic 14,Bordeaux-style Red Blend
+Topic 14,Bordeaux-style Red Blend
+Topic 14,Zinfandel
+Topic 14,Bordeaux-style Red Blend
+Topic 14,Malbec
+Topic 14,Bordeaux-style Red Blend
+Topic 14,Bordeaux-style Red Blend
+Topic 14,Nebbiolo
+Topic 14,Bordeaux-style Red Blend
+Topic 14,Bordeaux-style Red Blend
+Topic 14,Cabernet Sauvignon
+Topic 14,Norton
+Topic 14,Cabernet Sauvignon
+Topic 14,Carignan-Grenache
+Topic 14,Gamay
+Topic 14,Bordeaux-style Red Blend
+Topic 14,Malbec
+Topic 14,Cabernet Franc
+Topic 14,Saperavi-Merlot
+Topic 14,Bordeaux-style Red Blend
+Topic 14,Cabernet Sauvignon
+Topic 14,Riesling
+Topic 14,Malbec
+Topic 14,Bordeaux-style Red Blend
+Topic 14,Cabernet Sauvignon
+Topic 15,Chardonnay
+Topic 15,Rosé
+Topic 15,Sauvignon Blanc
+Topic 15,Cabernet Franc
+Topic 15,Sangiovese
+Topic 15,Pinot Grigio
+Topic 15,Merlot
+Topic 15,Merlot
+Topic 15,Merlot
+Topic 15,Sauvignon Blanc
+Topic 15,Sauvignon Blanc
+Topic 15,Grüner Veltliner
+Topic 15,Red Blend
+Topic 15,Sauvignon Blanc
+Topic 15,Sauvignon Blanc
+Topic 15,Chardonnay
+Topic 15,Sauvignon Blanc
+Topic 15,Carmenère
+Topic 15,Montepulciano
+Topic 15,Bordeaux-style White Blend
+Topic 15,Sauvignon Blanc
+Topic 15,Tempranillo
+Topic 15,Sauvignon Blanc
+Topic 15,Sauvignon Blanc
+Topic 15,Cabernet Sauvignon
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,Castelão
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,Rosé
+Topic 16,Pinot Grigio
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,Chardonnay
+Topic 16,G-S-M
+Topic 16,Red Blend
+Topic 16,Marsanne
+Topic 17,Bordeaux-style Red Blend
+Topic 17,Bordeaux-style Red Blend
+Topic 17,Chardonnay
+Topic 17,Bordeaux-style Red Blend
+Topic 17,Bordeaux-style Red Blend
+Topic 17,Bordeaux-style Red Blend
+Topic 17,Chardonnay
+Topic 17,Bordeaux-style White Blend
+Topic 17,Bordeaux-style Red Blend
+Topic 17,Bordeaux-style Red Blend
+Topic 17,Bordeaux-style White Blend
+Topic 17,Rhône-style White Blend
+Topic 17,Bordeaux-style Red Blend
+Topic 17,Chardonnay
+Topic 17,Chardonnay
+Topic 17,Bordeaux-style Red Blend
+Topic 17,Bordeaux-style White Blend
+Topic 17,Chardonnay
+Topic 17,Chardonnay
+Topic 17,Chardonnay
+Topic 17,Bordeaux-style Red Blend
+Topic 17,Cabernet Sauvignon
+Topic 17,Bordeaux-style Red Blend
+Topic 17,Bordeaux-style Red Blend
+Topic 17,Bordeaux-style Red Blend
+Topic 18,Gewürztraminer
+Topic 18,Riesling
+Topic 18,Bordeaux-style Red Blend
+Topic 18,Zinfandel
+Topic 18,Auxerrois
+Topic 18,Zinfandel
+Topic 18,Chardonnay
+Topic 18,Rosé
+Topic 18,Grüner Veltliner
+Topic 18,Rosé
+Topic 18,Champagne Blend
+Topic 18,Cabernet Sauvignon
+Topic 18,Chardonnay
+Topic 18,Bordeaux-style Red Blend
+Topic 18,Rosé
+Topic 18,Chardonnay
+Topic 18,Red Blend
+Topic 18,Bordeaux-style Red Blend
+Topic 18,Riesling
+Topic 18,Vermentino
+Topic 18,Sauvignon Blanc
+Topic 18,Viognier
+Topic 18,Pinot Gris
+Topic 18,Gewürztraminer
+Topic 18,Portuguese White
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style White Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style White Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style White Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 19,Bordeaux-style Red Blend
+Topic 20,Gewürztraminer
+Topic 20,Red Blend
+Topic 20,Portuguese White
+Topic 20,Cabernet Franc
+Topic 20,Bordeaux-style White Blend
+Topic 20,Garnacha
+Topic 20,Bordeaux-style Red Blend
+Topic 20,Cabernet Sauvignon
+Topic 20,Portuguese Red
+Topic 20,Champagne Blend
+Topic 20,Gewürztraminer
+Topic 20,Pinot Noir
+Topic 20,Portuguese Red
+Topic 20,Petite Sirah
+Topic 20,Pinot Noir
+Topic 20,Pinot Noir
+Topic 20,Riesling
+Topic 20,Pinot Noir
+Topic 20,Pinot Noir
+Topic 20,Malbec
+Topic 20,Cabernet Sauvignon
+Topic 20,Syrah
+Topic 20,Red Blend
+Topic 20,Portuguese Red
+Topic 20,Touriga Nacional
+Topic 21,Cabernet Sauvignon
+Topic 21,Red Blend
+Topic 21,Cabernet Sauvignon
+Topic 21,Cabernet Sauvignon
+Topic 21,Red Blend
+Topic 21,Merlot
+Topic 21,Portuguese White
+Topic 21,Cabernet Sauvignon
+Topic 21,Rhône-style White Blend
+Topic 21,Viognier
+Topic 21,Sauvignon Blanc
+Topic 21,Cabernet Sauvignon
+Topic 21,Cabernet Sauvignon
+Topic 21,Bordeaux-style Red Blend
+Topic 21,Bordeaux-style Red Blend
+Topic 21,Pinot Blanc
+Topic 21,Cabernet Sauvignon
+Topic 21,Zinfandel
+Topic 21,Pinot Noir
+Topic 21,Pinot Noir
+Topic 21,Zinfandel
+Topic 21,Merlot
+Topic 21,Bordeaux-style Red Blend
+Topic 21,Rosé
+Topic 21,Shiraz
+Topic 22,Sangiovese
+Topic 22,Bordeaux-style Red Blend
+Topic 22,Cabernet Sauvignon
+Topic 22,Champagne Blend
+Topic 22,Riesling
+Topic 22,Gamay Noir
+Topic 22,Pinot Grigio
+Topic 22,Claret
+Topic 22,White Blend
+Topic 22,Pinot Noir
+Topic 22,Chardonnay
+Topic 22,Bordeaux-style Red Blend
+Topic 22,Chardonnay
+Topic 22,Bastardo
+Topic 22,Pinot Noir
+Topic 22,Red Blend
+Topic 22,Riesling
+Topic 22,Bordeaux-style Red Blend
+Topic 22,Portuguese Red
+Topic 22,Rosé
+Topic 22,Portuguese White
+Topic 22,Pinot Noir
+Topic 22,Rosé
+Topic 22,Sangiovese
+Topic 22,Champagne Blend
+Topic 23,Sangiovese
+Topic 23,Bordeaux-style Red Blend
+Topic 23,Cabernet Sauvignon
+Topic 23,Bordeaux-style Red Blend
+Topic 23,Bordeaux-style Red Blend
+Topic 23,Bordeaux-style Red Blend
+Topic 23,Syrah
+Topic 23,Bordeaux-style Red Blend
+Topic 23,Bordeaux-style Red Blend
+Topic 23,Rhône-style Red Blend
+Topic 23,Bordeaux-style White Blend
+Topic 23,Merlot
+Topic 23,Merlot-Cabernet Sauvignon
+Topic 23,Cabernet Sauvignon
+Topic 23,Pinot Noir
+Topic 23,Bordeaux-style Red Blend
+Topic 23,Pinot Noir
+Topic 23,"Corvina, Rondinella, Molinara"
+Topic 23,Pinot Noir
+Topic 23,Bordeaux-style Red Blend
+Topic 23,Bordeaux-style Red Blend
+Topic 23,Bordeaux-style Red Blend
+Topic 23,Merlot
+Topic 23,Loin de l'Oeil
+Topic 23,Cabernet Sauvignon
+Topic 24,Bordeaux-style Red Blend
+Topic 24,Red Blend
+Topic 24,Zinfandel
+Topic 24,Zinfandel
+Topic 24,Bordeaux-style Red Blend
+Topic 24,Shiraz
+Topic 24,Cabernet Sauvignon-Syrah
+Topic 24,Cabernet Sauvignon
+Topic 24,Pinot Noir
+Topic 24,Merlot
+Topic 24,Merlot
+Topic 24,Chardonnay
+Topic 24,Red Blend
+Topic 24,Rosé
+Topic 24,Pinot Noir
+Topic 24,Bordeaux-style Red Blend
+Topic 24,Merlot
+Topic 24,Bordeaux-style Red Blend
+Topic 24,Petite Verdot
+Topic 24,Merlot
+Topic 24,Rosé
+Topic 24,Lagrein
+Topic 24,Cabernet Sauvignon
+Topic 24,Rhône-style White Blend
+Topic 24,Red Blend
+Topic 25,Bordeaux-style Red Blend
+Topic 25,Chardonnay
+Topic 25,Chardonnay
+Topic 25,Bordeaux-style Red Blend
+Topic 25,Riesling
+Topic 25,Sangiovese
+Topic 25,Chardonnay
+Topic 25,Syrah
+Topic 25,Chardonnay
+Topic 25,Bordeaux-style Red Blend
+Topic 25,Red Blend
+Topic 25,Merlot
+Topic 25,Bordeaux-style Red Blend
+Topic 25,Red Blend
+Topic 25,Chardonnay
+Topic 25,Gewürztraminer
+Topic 25,Cabernet Blend
+Topic 25,Riesling
+Topic 25,Zinfandel
+Topic 25,Merlot
+Topic 25,Bordeaux-style Red Blend
+Topic 25,Syrah
+Topic 25,"Corvina, Rondinella, Molinara"
+Topic 25,White Blend
+Topic 25,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Chardonnay
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style White Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style White Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Merlot
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style White Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 26,Bordeaux-style Red Blend
+Topic 27,Albariño
+Topic 27,Chenin Blanc-Chardonnay
+Topic 27,Grüner Veltliner
+Topic 27,Pinot Grigio
+Topic 27,Pinotage
+Topic 27,Zinfandel
+Topic 27,Sangiovese
+Topic 27,Riesling
+Topic 27,White Blend
+Topic 27,Macabeo-Chardonnay
+Topic 27,Verdejo
+Topic 27,Chardonnay
+Topic 27,Chenin Blanc
+Topic 27,Pinot Gris
+Topic 27,Verdejo
+Topic 27,Portuguese Red
+Topic 27,Chenin Blanc
+Topic 27,Chardonnay
+Topic 27,Champagne Blend
+Topic 27,Pinot Noir
+Topic 27,White Blend
+Topic 27,Chardonnay
+Topic 27,Champagne Blend
+Topic 27,Auxerrois
+Topic 27,Grenache
+Topic 28,Sauvignon Blanc
+Topic 28,Albariño
+Topic 28,Bordeaux-style White Blend
+Topic 28,Grenache Blanc
+Topic 28,Pinot Gris
+Topic 28,Sauvignon Blanc
+Topic 28,Viura
+Topic 28,Riesling
+Topic 28,Fumé Blanc
+Topic 28,Red Blend
+Topic 28,Rosé
+Topic 28,Rosé
+Topic 28,Bobal
+Topic 28,Chardonnay
+Topic 28,Rosado
+Topic 28,Greco
+Topic 28,Sauvignon Blanc-Semillon
+Topic 28,Riesling
+Topic 28,Verdejo
+Topic 28,Bordeaux-style White Blend
+Topic 28,Bordeaux-style White Blend
+Topic 28,Chardonnay
+Topic 28,White Blend
+Topic 28,Chardonnay
+Topic 28,Chardonnay
+Topic 29,Merlot
+Topic 29,Petite Sirah
+Topic 29,Pinot Noir
+Topic 29,Merlot
+Topic 29,Claret
+Topic 29,Barbera
+Topic 29,Sauvignon Blanc
+Topic 29,Syrah
+Topic 29,Cabernet Sauvignon
+Topic 29,Syrah
+Topic 29,Chardonnay
+Topic 29,Gewürztraminer
+Topic 29,Red Blend
+Topic 29,Pinot Noir
+Topic 29,Bordeaux-style White Blend
+Topic 29,Viognier
+Topic 29,Pinot Blanc
+Topic 29,Chardonnay
+Topic 29,Cabernet Sauvignon
+Topic 29,Rosé
+Topic 29,Portuguese White
+Topic 29,Petit Verdot
+Topic 29,Portuguese White
+Topic 29,Moscato
+Topic 29,Austrian Red Blend
+Topic 30,Bordeaux-style White Blend
+Topic 30,Bordeaux-style Red Blend
+Topic 30,White Blend
+Topic 30,Bordeaux-style Red Blend
+Topic 30,Cserszegi Fűszeres
+Topic 30,Bordeaux-style Red Blend
+Topic 30,Riesling
+Topic 30,Chardonnay
+Topic 30,Bordeaux-style Red Blend
+Topic 30,Bordeaux-style Red Blend
+Topic 30,Bordeaux-style Red Blend
+Topic 30,Bordeaux-style Red Blend
+Topic 30,Bordeaux-style Red Blend
+Topic 30,Bordeaux-style Red Blend
+Topic 30,Sauvignon Blanc
+Topic 30,Sauvignon Blanc
+Topic 30,Bordeaux-style White Blend
+Topic 30,Feteascǎ Regalǎ
+Topic 30,Sauvignon Blanc
+Topic 30,Cabernet Sauvignon
+Topic 30,Sauvignon Blanc
+Topic 30,Bordeaux-style Red Blend
+Topic 30,Bordeaux-style White Blend
+Topic 30,Cabernet Sauvignon
+Topic 30,Bordeaux-style Red Blend
+Topic 31,Cabernet Sauvignon
+Topic 31,Rosé
+Topic 31,Sangiovese
+Topic 31,Syrah
+Topic 31,Cserszegi Fűszeres
+Topic 31,Loureiro
+Topic 31,Cabernet Sauvignon
+Topic 31,Sangiovese
+Topic 31,Sangiovese
+Topic 31,Prosecco
+Topic 31,Prosecco
+Topic 31,Pinot Noir
+Topic 31,Malbec
+Topic 31,Sangiovese
+Topic 31,Portuguese White
+Topic 31,Portuguese White
+Topic 31,Cabernet Blend
+Topic 31,Moscato
+Topic 31,Portuguese Red
+Topic 31,Sauvignon Blanc
+Topic 31,Chardonnay
+Topic 31,Sangiovese
+Topic 31,Chardonnay
+Topic 31,White Blend
+Topic 31,Pinot Bianco
+Topic 32,Bordeaux-style Red Blend
+Topic 32,Bordeaux-style Red Blend
+Topic 32,Chardonnay
+Topic 32,Bordeaux-style Red Blend
+Topic 32,Bordeaux-style Red Blend
+Topic 32,Portuguese White
+Topic 32,Chardonnay
+Topic 32,Pinot Noir
+Topic 32,Red Blend
+Topic 32,Bordeaux-style White Blend
+Topic 32,Bordeaux-style Red Blend
+Topic 32,Malbec
+Topic 32,Portuguese Red
+Topic 32,Chardonnay
+Topic 32,Portuguese Red
+Topic 32,Bordeaux-style White Blend
+Topic 32,Bordeaux-style Red Blend
+Topic 32,Chardonnay
+Topic 32,Pinot Noir
+Topic 32,Bordeaux-style Red Blend
+Topic 32,Portuguese Red
+Topic 32,Bordeaux-style Red Blend
+Topic 32,Portuguese White
+Topic 32,Port
+Topic 32,Bordeaux-style Red Blend
+Topic 33,Zinfandel
+Topic 33,Viognier
+Topic 33,Sauvignon Blanc
+Topic 33,Chardonnay
+Topic 33,Chardonnay
+Topic 33,Zinfandel
+Topic 33,Cabernet Sauvignon
+Topic 33,Sauvignon Blanc
+Topic 33,White Blend
+Topic 33,Portuguese White
+Topic 33,Nebbiolo
+Topic 33,Bordeaux-style Red Blend
+Topic 33,Pinot Noir
+Topic 33,Zweigelt
+Topic 33,Merlot
+Topic 33,Riesling
+Topic 33,Shiraz
+Topic 33,Muscat
+Topic 33,Red Blend
+Topic 33,Gros and Petit Manseng
+Topic 33,Champagne Blend
+Topic 33,Bordeaux-style Red Blend
+Topic 33,Red Blend
+Topic 33,Portuguese White
+Topic 33,Chardonnay
+Topic 34,Bordeaux-style Red Blend
+Topic 34,Bordeaux-style White Blend
+Topic 34,Sauvignon Blanc
+Topic 34,Bordeaux-style Red Blend
+Topic 34,Bordeaux-style White Blend
+Topic 34,Sauvignon Blanc
+Topic 34,Gamay
+Topic 34,Gamay
+Topic 34,Scheurebe
+Topic 34,Bordeaux-style Red Blend
+Topic 34,Bordeaux-style Red Blend
+Topic 34,Portuguese White
+Topic 34,Pinot Grigio
+Topic 34,Syrah
+Topic 34,Champagne Blend
+Topic 34,Chardonnay
+Topic 34,Chardonnay
+Topic 34,Bordeaux-style White Blend
+Topic 34,Rosé
+Topic 34,Sparkling Blend
+Topic 34,Rosé
+Topic 34,Cabernet Sauvignon
+Topic 34,Syrah
+Topic 34,Bordeaux-style Red Blend
+Topic 34,Bordeaux-style White Blend
+Topic 35,Merlot
+Topic 35,Merlot
+Topic 35,Bordeaux-style Red Blend
+Topic 35,Syrah
+Topic 35,Zinfandel
+Topic 35,Bonarda
+Topic 35,Riesling
+Topic 35,Sauvignon Blanc
+Topic 35,Rosado
+Topic 35,Tinta de Toro
+Topic 35,Port
+Topic 35,Sauvignon Blanc
+Topic 35,Chardonnay
+Topic 35,Riesling
+Topic 35,Cabernet Sauvignon
+Topic 35,Chenin Blanc
+Topic 35,Rhône-style Red Blend
+Topic 35,Barbera
+Topic 35,Rosé
+Topic 35,Chardonnay
+Topic 35,Port
+Topic 35,Chardonnay
+Topic 35,Chardonnay
+Topic 35,Müller-Thurgau
+Topic 35,Merlot
+Topic 36,Zinfandel
+Topic 36,Portuguese Red
+Topic 36,Zinfandel
+Topic 36,Portuguese Red
+Topic 36,Rosé
+Topic 36,Zinfandel
+Topic 36,Zinfandel
+Topic 36,Zinfandel
+Topic 36,Chardonnay
+Topic 36,Zinfandel
+Topic 36,Zinfandel
+Topic 36,Rhône-style Red Blend
+Topic 36,Zinfandel
+Topic 36,"Corvina, Rondinella, Molinara"
+Topic 36,Grenache
+Topic 36,Merlot
+Topic 36,Sparkling Blend
+Topic 36,Grenache
+Topic 36,Cabernet Sauvignon
+Topic 36,Zinfandel
+Topic 36,Syrah
+Topic 36,Portuguese Red
+Topic 36,Zinfandel
+Topic 36,Chardonnay
+Topic 36,Sauvignon Blanc
+Topic 37,Bordeaux-style Red Blend
+Topic 37,Champagne Blend
+Topic 37,Sangiovese
+Topic 37,Champagne Blend
+Topic 37,Syrah-Grenache
+Topic 37,Bordeaux-style Red Blend
+Topic 37,Chardonnay
+Topic 37,Bordeaux-style Red Blend
+Topic 37,Port
+Topic 37,Port
+Topic 37,Portuguese White
+Topic 37,Bordeaux-style Red Blend
+Topic 37,Syrah
+Topic 37,Bordeaux-style Red Blend
+Topic 37,Riesling
+Topic 37,Cabernet Sauvignon
+Topic 37,Bordeaux-style Red Blend
+Topic 37,Bordeaux-style Red Blend
+Topic 37,Pinot Noir
+Topic 37,Chardonnay
+Topic 37,Sangiovese
+Topic 37,Bordeaux-style Red Blend
+Topic 37,Champagne Blend
+Topic 37,Bordeaux-style Red Blend
+Topic 37,Cabernet Sauvignon
+Topic 38,Syrah
+Topic 38,Rosé
+Topic 38,Bordeaux-style White Blend
+Topic 38,Rosé
+Topic 38,Sparkling Blend
+Topic 38,Malbec
+Topic 38,Sauvignon Blanc
+Topic 38,Cabernet Franc
+Topic 38,White Blend
+Topic 38,Syrah-Grenache
+Topic 38,Riesling
+Topic 38,Chardonnay
+Topic 38,Cabernet Sauvignon
+Topic 38,Champagne Blend
+Topic 38,Red Blend
+Topic 38,Chardonnay
+Topic 38,Bordeaux-style White Blend
+Topic 38,Pinot Noir
+Topic 38,Chardonnay
+Topic 38,Zinfandel
+Topic 38,Red Blend
+Topic 38,Red Blend
+Topic 38,Zinfandel
+Topic 38,Riesling
+Topic 38,Chardonnay
+Topic 39,Grüner Veltliner
+Topic 39,Carmenère
+Topic 39,Weissburgunder
+Topic 39,Pinot Gris
+Topic 39,Chardonnay
+Topic 39,Bordeaux-style White Blend
+Topic 39,Pinot Gris
+Topic 39,Chardonnay
+Topic 39,Sauvignon Blanc
+Topic 39,Sauvignon Blanc
+Topic 39,White Blend
+Topic 39,Champagne Blend
+Topic 39,Sauvignon Blanc
+Topic 39,Bordeaux-style White Blend
+Topic 39,Portuguese White
+Topic 39,Chardonnay
+Topic 39,Chardonnay
+Topic 39,Grüner Veltliner
+Topic 39,Rosé
+Topic 39,Rosé
+Topic 39,Red Blend
+Topic 39,Port
+Topic 39,Rosé
+Topic 39,Carmenère
+Topic 39,Grüner Veltliner
+Topic 40,Port
+Topic 40,Barbera
+Topic 40,Pinot Blanc
+Topic 40,Sangiovese
+Topic 40,Shiraz
+Topic 40,Pinot Noir
+Topic 40,Champagne Blend
+Topic 40,Merlot
+Topic 40,Sauvignon Blanc
+Topic 40,Rosé
+Topic 40,Bordeaux-style Red Blend
+Topic 40,Riesling
+Topic 40,Merlot
+Topic 40,Sangiovese Grosso
+Topic 40,Champagne Blend
+Topic 40,Barbera
+Topic 40,Champagne Blend
+Topic 40,Chardonnay
+Topic 40,Rosé
+Topic 40,Shiraz
+Topic 40,Viognier
+Topic 40,Zinfandel
+Topic 40,Athiri
+Topic 40,Portuguese Red
+Topic 40,Cabernet Sauvignon
+Topic 41,Rosé
+Topic 41,Rhône-style Red Blend
+Topic 41,Cabernet Sauvignon
+Topic 41,Mourvèdre
+Topic 41,Merlot
+Topic 41,Portuguese White
+Topic 41,Cabernet Sauvignon
+Topic 41,Nero d'Avola
+Topic 41,Merlot
+Topic 41,Bordeaux-style White Blend
+Topic 41,Cabernet Sauvignon
+Topic 41,Pinot Noir
+Topic 41,Zinfandel
+Topic 41,Montepulciano
+Topic 41,Pinot Grigio
+Topic 41,Tempranillo
+Topic 41,Shiraz
+Topic 41,Tempranillo Blend
+Topic 41,Bordeaux-style Red Blend
+Topic 41,Syrah
+Topic 41,Chenin Blanc
+Topic 41,Sauvignon Blanc
+Topic 41,Grüner Veltliner
+Topic 41,Grüner Veltliner
+Topic 41,Red Blend
+Topic 42,Chardonnay
+Topic 42,Chenin Blanc
+Topic 42,Champagne Blend
+Topic 42,Pinot Gris
+Topic 42,Cabernet Sauvignon
+Topic 42,Assyrtico
+Topic 42,Gewürztraminer
+Topic 42,Chardonnay
+Topic 42,Syrah
+Topic 42,Merlot
+Topic 42,Bordeaux-style Red Blend
+Topic 42,Bordeaux-style White Blend
+Topic 42,Red Blend
+Topic 42,Champagne Blend
+Topic 42,Bordeaux-style Red Blend
+Topic 42,Pinot Noir
+Topic 42,Champagne Blend
+Topic 42,Rosé
+Topic 42,Port
+Topic 42,Nebbiolo
+Topic 42,Red Blend
+Topic 42,Cabernet Sauvignon
+Topic 42,Pinot Noir
+Topic 42,Bordeaux-style White Blend
+Topic 42,Red Blend
+Topic 43,Malbec
+Topic 43,Rosé
+Topic 43,Sparkling Blend
+Topic 43,Red Blend
+Topic 43,Rosé
+Topic 43,Rosé
+Topic 43,Sparkling Blend
+Topic 43,Bordeaux-style Red Blend
+Topic 43,Chardonnay
+Topic 43,Pinot Blanc
+Topic 43,Tempranillo Blend
+Topic 43,Rhône-style Red Blend
+Topic 43,Zinfandel
+Topic 43,Bordeaux-style Red Blend
+Topic 43,Chardonnay
+Topic 43,Champagne Blend
+Topic 43,G-S-M
+Topic 43,Pinot Noir
+Topic 43,Port
+Topic 43,Port
+Topic 43,Portuguese White
+Topic 43,Pinot Gris
+Topic 43,Pinot Noir
+Topic 43,Chardonnay
+Topic 43,Red Blend
+Topic 44,Chardonnay
+Topic 44,Pinot Gris
+Topic 44,Pinot Noir
+Topic 44,Malbec
+Topic 44,Moscato
+Topic 44,Chardonnay
+Topic 44,Chardonnay
+Topic 44,Chardonnay
+Topic 44,Pinot Noir
+Topic 44,Tempranillo
+Topic 44,Dolcetto
+Topic 44,Merlot
+Topic 44,Cabernet Sauvignon
+Topic 44,Chardonnay
+Topic 44,Pinot Noir
+Topic 44,Chardonnay
+Topic 44,Viognier
+Topic 44,Sparkling Blend
+Topic 44,Cabernet Sauvignon
+Topic 44,Bordeaux-style Red Blend
+Topic 44,Rosé
+Topic 44,Sparkling Blend
+Topic 44,Cabernet Sauvignon
+Topic 44,Syrah
+Topic 44,Syrah
+Topic 45,Rosé
+Topic 45,Rosé
+Topic 45,Lambrusco
+Topic 45,Cabernet Sauvignon
+Topic 45,Cabernet Sauvignon
+Topic 45,Pinot Noir
+Topic 45,Pinot Noir
+Topic 45,Malbec
+Topic 45,Pinot Noir
+Topic 45,Red Blend
+Topic 45,Sparkling Blend
+Topic 45,Merlot
+Topic 45,Malbec
+Topic 45,Nebbiolo
+Topic 45,Rosé
+Topic 45,Zinfandel
+Topic 45,Pinot Nero
+Topic 45,Syrah
+Topic 45,Spätburgunder
+Topic 45,Cabernet Sauvignon
+Topic 45,Tempranillo
+Topic 45,Sauvignon Blanc
+Topic 45,Syrah
+Topic 45,Cabernet Sauvignon
+Topic 45,Syrah
+Topic 46,Cabernet Sauvignon-Shiraz
+Topic 46,Pinot Noir
+Topic 46,Port
+Topic 46,Pinot Noir
+Topic 46,Pinot Noir
+Topic 46,Blaufränkisch
+Topic 46,Gamay
+Topic 46,Pinot Noir
+Topic 46,Meritage
+Topic 46,Malbec
+Topic 46,Champagne Blend
+Topic 46,Cabernet Sauvignon
+Topic 46,Touriga Nacional
+Topic 46,Chardonnay
+Topic 46,Shiraz
+Topic 46,Pinot Noir
+Topic 46,Portuguese Red
+Topic 46,Cabernet Sauvignon
+Topic 46,Bordeaux-style Red Blend
+Topic 46,Cabernet Sauvignon
+Topic 46,Portuguese Red
+Topic 46,Chardonnay
+Topic 46,Chardonnay
+Topic 46,Bordeaux-style Red Blend
+Topic 46,Portuguese Red
+Topic 47,Red Blend
+Topic 47,Aragonez
+Topic 47,Merlot
+Topic 47,Cabernet Sauvignon
+Topic 47,Rosé
+Topic 47,Pinot Gris
+Topic 47,Pinot Noir
+Topic 47,Merlot
+Topic 47,Red Blend
+Topic 47,Zinfandel
+Topic 47,Riesling
+Topic 47,Chardonnay
+Topic 47,Rosé
+Topic 47,White Blend
+Topic 47,Cabernet Franc
+Topic 47,Rosé
+Topic 47,Merlot
+Topic 47,Rosé
+Topic 47,"Corvina, Rondinella, Molinara"
+Topic 47,Riesling
+Topic 47,Zinfandel
+Topic 47,Rosé
+Topic 47,Sauvignon Blanc
+Topic 47,Tempranillo
+Topic 47,Syrah
+Topic 48,Sauvignon Blanc
+Topic 48,White Blend
+Topic 48,Portuguese Red
+Topic 48,Riesling
+Topic 48,Rosé
+Topic 48,Riesling
+Topic 48,Syrah
+Topic 48,Rosé
+Topic 48,Grüner Veltliner
+Topic 48,Chardonnay
+Topic 48,Bordeaux-style Red Blend
+Topic 48,Chardonnay
+Topic 48,Pinot Noir
+Topic 48,Pinot Gris
+Topic 48,Savatiano
+Topic 48,Pinot Blanc
+Topic 48,Cabernet Sauvignon
+Topic 48,Chardonnay
+Topic 48,Merlot
+Topic 48,Rhône-style White Blend
+Topic 48,Merlot
+Topic 48,Merlot
+Topic 48,Portuguese White
+Topic 48,Sauvignon Blanc
+Topic 48,Fumé Blanc
+Topic 49,Merlot
+Topic 49,Carmenère
+Topic 49,Alicante Bouschet
+Topic 49,Cabernet Sauvignon
+Topic 49,Cabernet Sauvignon
+Topic 49,Malbec
+Topic 49,Cabernet Sauvignon
+Topic 49,Pinot Noir
+Topic 49,Sauvignon
+Topic 49,Riesling
+Topic 49,Cabernet Sauvignon
+Topic 49,Merlot
+Topic 49,Pinot Noir
+Topic 49,Pinot Noir
+Topic 49,Zweigelt
+Topic 49,Portuguese Red
+Topic 49,Bordeaux-style Red Blend
+Topic 49,Tempranillo Blend
+Topic 49,White Blend
+Topic 49,Cabernet Sauvignon
+Topic 49,Carricante
+Topic 49,Malbec
+Topic 49,Syrah
+Topic 49,Cabernet Sauvignon
+Topic 49,Meritage
+Topic 50,Fumé Blanc
+Topic 50,Cabernet Sauvignon
+Topic 50,Sauvignon Blanc
+Topic 50,Chardonnay
+Topic 50,Merlot
+Topic 50,White Blend
+Topic 50,Chardonnay
+Topic 50,Chardonnay
+Topic 50,Syrah
+Topic 50,Pinot Noir
+Topic 50,Pinot Noir
+Topic 50,Chardonnay
+Topic 50,Chardonnay
+Topic 50,Grenache
+Topic 50,Chardonnay
+Topic 50,Monastrell
+Topic 50,Chardonnay
+Topic 50,Tempranillo
+Topic 50,Syrah
+Topic 50,Grüner Veltliner
+Topic 50,Pinot Noir
+Topic 50,Sauvignon Blanc
+Topic 50,Dolcetto
+Topic 50,Merlot
+Topic 50,Cabernet Sauvignon
+Topic 51,Sauvignon Blanc
+Topic 51,Riesling
+Topic 51,Chardonnay
+Topic 51,White Blend
+Topic 51,Chenin Blanc
+Topic 51,Portuguese Red
+Topic 51,Chardonnay
+Topic 51,Red Blend
+Topic 51,Red Blend
+Topic 51,Tempranillo
+Topic 51,Rosé
+Topic 51,White Blend
+Topic 51,Gewürztraminer
+Topic 51,Chardonnay
+Topic 51,Sauvignon Blanc
+Topic 51,Sparkling Blend
+Topic 51,Pinot Gris
+Topic 51,Sangiovese
+Topic 51,Nero d'Avola
+Topic 51,Cabernet Sauvignon
+Topic 51,Sauvignon Blanc
+Topic 51,Merlot
+Topic 51,Chardonnay
+Topic 51,White Blend
+Topic 51,Pinot Gris
+Topic 52,Chardonnay
+Topic 52,Cabernet Blend
+Topic 52,Chardonnay
+Topic 52,Chardonnay
+Topic 52,Malbec
+Topic 52,Chardonnay
+Topic 52,Malbec
+Topic 52,Merlot
+Topic 52,Pinot Blanc
+Topic 52,Champagne Blend
+Topic 52,Gamay
+Topic 52,Shiraz
+Topic 52,Red Blend
+Topic 52,Chardonnay
+Topic 52,Chardonnay
+Topic 52,Pinot Noir
+Topic 52,Cabernet Sauvignon
+Topic 52,Cabernet Sauvignon
+Topic 52,Merlot
+Topic 52,Cabernet Sauvignon
+Topic 52,Chardonnay
+Topic 52,Rosé
+Topic 52,Chardonnay
+Topic 52,Portuguese Red
+Topic 52,Chardonnay
+Topic 53,Pinot Noir
+Topic 53,Chardonnay
+Topic 53,Chardonnay
+Topic 53,Merlot
+Topic 53,Bobal
+Topic 53,Chardonnay
+Topic 53,Chardonnay
+Topic 53,Chardonnay
+Topic 53,Champagne Blend
+Topic 53,Chardonnay
+Topic 53,Chardonnay
+Topic 53,Chardonnay
+Topic 53,Chardonnay
+Topic 53,Chardonnay
+Topic 53,Zinfandel
+Topic 53,Viognier
+Topic 53,Chardonnay
+Topic 53,Grenache Blanc
+Topic 53,Chardonnay
+Topic 53,Pinot Noir
+Topic 53,Chardonnay
+Topic 53,Chardonnay
+Topic 53,Cabernet Sauvignon
+Topic 53,Pinot Grigio
+Topic 53,Chardonnay
+Topic 54,Greco
+Topic 54,Zinfandel
+Topic 54,Rosé
+Topic 54,Chardonnay
+Topic 54,Shiraz
+Topic 54,Barbera
+Topic 54,Sangiovese
+Topic 54,Merlot
+Topic 54,Sangiovese
+Topic 54,Pinot Noir
+Topic 54,Syrah
+Topic 54,"Corvina, Rondinella, Molinara"
+Topic 54,Cabernet Sauvignon
+Topic 54,Sparkling Blend
+Topic 54,Bordeaux-style Red Blend
+Topic 54,Syrah
+Topic 54,Zinfandel
+Topic 54,Barbera
+Topic 54,Bovale
+Topic 54,Bordeaux-style White Blend
+Topic 54,Red Blend
+Topic 54,Petite Sirah
+Topic 54,Riesling
+Topic 54,Rosé
+Topic 54,Pinot Noir
+Topic 55,Syrah
+Topic 55,Syrah
+Topic 55,Cabernet Franc
+Topic 55,Red Blend
+Topic 55,Tempranillo
+Topic 55,Tempranillo
+Topic 55,Pinot Noir
+Topic 55,Merlot
+Topic 55,Sangiovese
+Topic 55,Pinot Noir
+Topic 55,Pinot Gris
+Topic 55,Syrah
+Topic 55,Tempranillo-Cabernet Sauvignon
+Topic 55,Sangiovese
+Topic 55,Lambrusco
+Topic 55,Garganega
+Topic 55,Pinot Noir
+Topic 55,Cabernet Sauvignon
+Topic 55,Malbec
+Topic 55,Syrah
+Topic 55,Shiraz
+Topic 55,White Blend
+Topic 55,Riesling
+Topic 55,Tempranillo
+Topic 55,Garnacha
+Topic 56,Sauvignon Blanc
+Topic 56,Red Blend
+Topic 56,Grüner Veltliner
+Topic 56,Nero d'Avola
+Topic 56,Sauvignon Blanc
+Topic 56,Barbera
+Topic 56,Grüner Veltliner
+Topic 56,Sauvignon Blanc
+Topic 56,Bordeaux-style Red Blend
+Topic 56,Malbec
+Topic 56,Riesling
+Topic 56,Syrah
+Topic 56,Chardonnay
+Topic 56,Carignano
+Topic 56,Rosé
+Topic 56,Zinfandel
+Topic 56,Barbera
+Topic 56,Shiraz
+Topic 56,Cabernet Sauvignon
+Topic 56,Cabernet Sauvignon
+Topic 56,Chardonnay
+Topic 56,Chardonnay
+Topic 56,Sauvignon
+Topic 56,Cabernet Sauvignon
+Topic 56,Weissburgunder
+Topic 57,Pinot Noir
+Topic 57,Carmenère
+Topic 57,Shiraz
+Topic 57,Zinfandel
+Topic 57,Bordeaux-style Red Blend
+Topic 57,Tempranillo
+Topic 57,Syrah
+Topic 57,Carmenère
+Topic 57,Pinot Noir
+Topic 57,Cabernet Sauvignon
+Topic 57,Carmenère
+Topic 57,Red Blend
+Topic 57,Barbera
+Topic 57,Merlot
+Topic 57,Red Blend
+Topic 57,Sauvignon Blanc
+Topic 57,Tempranillo-Cabernet Sauvignon
+Topic 57,Carmenère
+Topic 57,Rosé
+Topic 57,Pinot Noir
+Topic 57,Chardonnay
+Topic 57,Cabernet Sauvignon
+Topic 57,Red Blend
+Topic 57,Carmenère
+Topic 57,Pinot Gris
+Topic 58,Chardonnay
+Topic 58,Cabernet Sauvignon
+Topic 58,Pinot Noir
+Topic 58,Sparkling Blend
+Topic 58,Riesling
+Topic 58,Sparkling Blend
+Topic 58,Viognier
+Topic 58,Red Blend
+Topic 58,Pinot Noir
+Topic 58,Chardonnay
+Topic 58,Red Blend
+Topic 58,Riesling
+Topic 58,Riesling
+Topic 58,Moscato
+Topic 58,Cabernet Sauvignon
+Topic 58,Chardonnay
+Topic 58,Barbera
+Topic 58,Sauvignon Blanc
+Topic 58,Malbec
+Topic 58,Riesling
+Topic 58,Zinfandel
+Topic 58,White Blend
+Topic 58,Montepulciano
+Topic 58,Pinot Noir
+Topic 58,Sauvignon Blanc
+Topic 59,Cabernet Sauvignon
+Topic 59,Bordeaux-style Red Blend
+Topic 59,Syrah
+Topic 59,Pinot Blanc-Pinot Noir
+Topic 59,Sauvignon Blanc
+Topic 59,Zinfandel
+Topic 59,Syrah
+Topic 59,Portuguese Red
+Topic 59,Chenin Blanc
+Topic 59,Champagne Blend
+Topic 59,Bordeaux-style White Blend
+Topic 59,Petite Sirah
+Topic 59,Bordeaux-style Red Blend
+Topic 59,Champagne Blend
+Topic 59,Pinot Noir
+Topic 59,Bordeaux-style Red Blend
+Topic 59,Tempranillo
+Topic 59,Champagne Blend
+Topic 59,Grüner Veltliner
+Topic 59,Cabernet Sauvignon
+Topic 59,Pinot Noir
+Topic 59,Red Blend
+Topic 59,Red Blend
+Topic 59,Bordeaux-style Red Blend
+Topic 59,Cabernet Sauvignon
+Topic 60,Zinfandel
+Topic 60,Syrah
+Topic 60,Malbec
+Topic 60,Cabernet Sauvignon
+Topic 60,Bordeaux-style Red Blend
+Topic 60,Pinot Noir
+Topic 60,Pinot Noir
+Topic 60,Pinot Noir
+Topic 60,Zinfandel
+Topic 60,Pinot Noir
+Topic 60,Bordeaux-style Red Blend
+Topic 60,Pinot Noir
+Topic 60,Pinot Noir
+Topic 60,Pinot Noir
+Topic 60,Pinot Noir
+Topic 60,Rhône-style Red Blend
+Topic 60,Bordeaux-style Red Blend
+Topic 60,Pinot Noir
+Topic 60,Zinfandel
+Topic 60,Cabernet Sauvignon
+Topic 60,Portuguese Red
+Topic 60,Cabernet Sauvignon
+Topic 60,Petit Verdot
+Topic 60,Pinot Noir
+Topic 60,Syrah
+Topic 61,Shiraz
+Topic 61,Cabernet Sauvignon
+Topic 61,Žilavka
+Topic 61,Red Blend
+Topic 61,Red Blend
+Topic 61,Sauvignon Blanc
+Topic 61,Syrah
+Topic 61,Chardonnay
+Topic 61,Rhône-style Red Blend
+Topic 61,Chardonnay
+Topic 61,Cabernet Sauvignon
+Topic 61,Red Blend
+Topic 61,Bordeaux-style Red Blend
+Topic 61,Merlot
+Topic 61,Chardonnay-Viognier
+Topic 61,Viura-Chardonnay
+Topic 61,Bordeaux-style Red Blend
+Topic 61,Portuguese White
+Topic 61,Chardonnay
+Topic 61,Merlot
+Topic 61,Riesling
+Topic 61,Portuguese White
+Topic 61,Tempranillo
+Topic 61,Dolcetto
+Topic 61,Chardonnay
+Topic 62,Sparkling Blend
+Topic 62,Bordeaux-style Red Blend
+Topic 62,Sauvignon Blanc
+Topic 62,Pinot Noir
+Topic 62,Portuguese Red
+Topic 62,Mourvèdre
+Topic 62,Shiraz
+Topic 62,Gamay
+Topic 62,Bordeaux-style Red Blend
+Topic 62,Sparkling Blend
+Topic 62,Gamay
+Topic 62,Garnacha
+Topic 62,Savagnin
+Topic 62,Bordeaux-style Red Blend
+Topic 62,Bordeaux-style Red Blend
+Topic 62,Chardonnay-Semillon
+Topic 62,Cabernet Sauvignon
+Topic 62,Gamay
+Topic 62,Cabernet Sauvignon
+Topic 62,Pinot Noir
+Topic 62,Champagne Blend
+Topic 62,Fiano
+Topic 62,Chardonnay
+Topic 62,Tempranillo
+Topic 62,Cabernet Sauvignon
+Topic 63,Portuguese Red
+Topic 63,Cabernet Sauvignon
+Topic 63,Cabernet Sauvignon
+Topic 63,Syrah
+Topic 63,Syrah
+Topic 63,Syrah
+Topic 63,Portuguese Red
+Topic 63,Bordeaux-style Red Blend
+Topic 63,Portuguese Red
+Topic 63,Cabernet Sauvignon
+Topic 63,Cabernet Sauvignon
+Topic 63,Petite Sirah
+Topic 63,Pinot Gris
+Topic 63,Portuguese Red
+Topic 63,Pinot Noir
+Topic 63,Bordeaux-style Red Blend
+Topic 63,Chardonnay
+Topic 63,Bordeaux-style Red Blend
+Topic 63,Zinfandel
+Topic 63,Bordeaux-style Red Blend
+Topic 63,Bordeaux-style Red Blend
+Topic 63,Cabernet Sauvignon
+Topic 63,Cabernet Sauvignon
+Topic 63,Port
+Topic 63,Sparkling Blend
+Topic 64,Red Blend
+Topic 64,Bordeaux-style Red Blend
+Topic 64,White Blend
+Topic 64,Bordeaux-style Red Blend
+Topic 64,Merlot
+Topic 64,Zinfandel
+Topic 64,Red Blend
+Topic 64,Bordeaux-style Red Blend
+Topic 64,Pinot Grigio
+Topic 64,Viognier
+Topic 64,Pinot Noir
+Topic 64,Grüner Veltliner
+Topic 64,Bordeaux-style Red Blend
+Topic 64,Chardonnay
+Topic 64,Chardonnay
+Topic 64,Pinot Grigio
+Topic 64,Bordeaux-style Red Blend
+Topic 64,Sauvignon Blanc
+Topic 64,Merlot
+Topic 64,Tempranillo
+Topic 64,Cabernet Sauvignon
+Topic 64,Pinot Gris
+Topic 64,Pinot Noir
+Topic 64,Pinot Noir
+Topic 64,Cabernet Sauvignon
+Topic 65,Red Blend
+Topic 65,Red Blend
+Topic 65,White Blend
+Topic 65,Red Blend
+Topic 65,Merlot
+Topic 65,Chardonnay
+Topic 65,Zinfandel
+Topic 65,Verdejo
+Topic 65,Cinsault
+Topic 65,Cabernet Sauvignon
+Topic 65,Pinot Noir
+Topic 65,Sparkling Blend
+Topic 65,Cabernet Sauvignon
+Topic 65,Merlot
+Topic 65,Shiraz
+Topic 65,Bordeaux-style Red Blend
+Topic 65,Bonarda
+Topic 65,Merlot
+Topic 65,Chardonnay
+Topic 65,Rhône-style Red Blend
+Topic 65,Cabernet Sauvignon
+Topic 65,Viognier
+Topic 65,Sauvignon Blanc
+Topic 65,Bordeaux-style Red Blend
+Topic 65,Bordeaux-style Red Blend
+Topic 66,Sangiovese Grosso
+Topic 66,Shiraz
+Topic 66,Sauvignon Blanc
+Topic 66,Malbec
+Topic 66,Primitivo
+Topic 66,Grenache
+Topic 66,Mourvèdre
+Topic 66,Pinot Noir
+Topic 66,Rhône-style White Blend
+Topic 66,Malbec
+Topic 66,Cabernet Sauvignon
+Topic 66,Merlot
+Topic 66,Rosé
+Topic 66,Cabernet Sauvignon
+Topic 66,Sauvignon Blanc
+Topic 66,Merlot
+Topic 66,Albariño
+Topic 66,Cabernet Sauvignon
+Topic 66,Merlot
+Topic 66,Pinot Noir
+Topic 66,Cabernet Sauvignon-Merlot
+Topic 66,Red Blend
+Topic 66,Grüner Veltliner
+Topic 66,Prosecco
+Topic 66,Merlot
+Topic 67,Malbec
+Topic 67,Red Blend
+Topic 67,Red Blend
+Topic 67,Rhône-style Red Blend
+Topic 67,Red Blend
+Topic 67,Sangiovese
+Topic 67,Portuguese Red
+Topic 67,Pinot Noir
+Topic 67,Red Blend
+Topic 67,Pinot Noir
+Topic 67,Cabernet Sauvignon
+Topic 67,Cabernet Sauvignon
+Topic 67,Red Blend
+Topic 67,Zweigelt
+Topic 67,Merlot
+Topic 67,Shiraz
+Topic 67,Riesling
+Topic 67,Tinta de Toro
+Topic 67,Sangiovese
+Topic 67,Syrah
+Topic 67,Red Blend
+Topic 67,Cabernet Sauvignon
+Topic 67,Nerello Mascalese
+Topic 67,White Blend
+Topic 67,Sangiovese
+Topic 68,Sauvignon Blanc
+Topic 68,Chardonnay
+Topic 68,Sparkling Blend
+Topic 68,Cabernet Sauvignon
+Topic 68,Red Blend
+Topic 68,Cabernet Sauvignon
+Topic 68,Cabernet Sauvignon
+Topic 68,Pinot Noir
+Topic 68,Bordeaux-style Red Blend
+Topic 68,Pinot Noir
+Topic 68,Grüner Veltliner
+Topic 68,Cabernet Sauvignon
+Topic 68,Pinot Noir
+Topic 68,Pinot Noir
+Topic 68,Chardonnay
+Topic 68,Chardonnay
+Topic 68,Pinot Noir
+Topic 68,Bordeaux-style Red Blend
+Topic 68,Pinot Noir
+Topic 68,Bordeaux-style Red Blend
+Topic 68,Sauvignon Blanc
+Topic 68,Malbec
+Topic 68,Sangiovese
+Topic 68,Portuguese White
+Topic 68,Red Blend
+Topic 69,Austrian white blend
+Topic 69,Chardonnay
+Topic 69,Gewürztraminer
+Topic 69,Syrah
+Topic 69,Bordeaux-style Red Blend
+Topic 69,Chardonnay
+Topic 69,Pinot Gris
+Topic 69,Pinot Blanc
+Topic 69,White Blend
+Topic 69,Grüner Veltliner
+Topic 69,Pinot Gris
+Topic 69,Chardonnay
+Topic 69,Portuguese Red
+Topic 69,Chardonnay
+Topic 69,Chardonnay
+Topic 69,Chardonnay
+Topic 69,White Blend
+Topic 69,Chardonnay
+Topic 69,Pinot Gris
+Topic 69,Posip
+Topic 69,Pinot Nero
+Topic 69,Rhône-style Red Blend
+Topic 69,Sparkling Blend
+Topic 69,Pinot Gris
+Topic 69,Morillon
+Topic 70,Portuguese Red
+Topic 70,Bordeaux-style Red Blend
+Topic 70,Cabernet Sauvignon
+Topic 70,Red Blend
+Topic 70,Red Blend
+Topic 70,Pinot Noir
+Topic 70,Rosé
+Topic 70,Syrah
+Topic 70,Pinot Noir
+Topic 70,Cabernet Sauvignon
+Topic 70,Portuguese Red
+Topic 70,Pinot Noir
+Topic 70,Pinot Noir
+Topic 70,Bordeaux-style Red Blend
+Topic 70,Portuguese Red
+Topic 70,Bordeaux-style Red Blend
+Topic 70,Syrah
+Topic 70,Red Blend
+Topic 70,Portuguese Red
+Topic 70,Pinot Noir
+Topic 70,Sauvignon Blanc
+Topic 70,Syrah
+Topic 70,Syrah
+Topic 70,Malvasia
+Topic 70,Pinot Noir
+Topic 71,Posip
+Topic 71,Roditis
+Topic 71,Semillon-Sauvignon Blanc
+Topic 71,Pinot Grigio
+Topic 71,Chardonnay
+Topic 71,Rhône-style White Blend
+Topic 71,Grüner Veltliner
+Topic 71,Grüner Veltliner
+Topic 71,Chardonnay
+Topic 71,Chardonnay
+Topic 71,Riesling
+Topic 71,Friulano
+Topic 71,Pinot Grigio
+Topic 71,Greco
+Topic 71,Rhône-style White Blend
+Topic 71,Pinot Blanc
+Topic 71,Riesling
+Topic 71,Grüner Veltliner
+Topic 71,Pinot Blanc
+Topic 71,Alsace white blend
+Topic 71,Pinot Gris
+Topic 71,Riesling
+Topic 71,Portuguese White
+Topic 71,Chardonnay
+Topic 71,White Blend
+Topic 72,Chardonnay-Semillon
+Topic 72,Chardonnay
+Topic 72,Chardonnay
+Topic 72,Chardonnay
+Topic 72,Pinot Gris
+Topic 72,Pinot Blanc
+Topic 72,Chardonnay
+Topic 72,Chardonnay
+Topic 72,Sauvignon Blanc
+Topic 72,Semillon-Sauvignon Blanc
+Topic 72,Chardonnay
+Topic 72,Chardonnay
+Topic 72,Grüner Veltliner
+Topic 72,Riesling
+Topic 72,Chardonnay
+Topic 72,Chardonnay
+Topic 72,Sauvignon Blanc
+Topic 72,Chardonnay
+Topic 72,Chardonnay
+Topic 72,Grillo
+Topic 72,Pinot Gris
+Topic 72,Alsace white blend
+Topic 72,Chardonnay
+Topic 72,White Blend
+Topic 72,Pinot Gris
+Topic 73,Bordeaux-style Red Blend
+Topic 73,Chardonnay
+Topic 73,Pinot Noir
+Topic 73,Pinot Noir
+Topic 73,Syrah
+Topic 73,Cabernet Sauvignon
+Topic 73,Pinot Noir
+Topic 73,Grüner Veltliner
+Topic 73,Pinot Noir
+Topic 73,Grenache
+Topic 73,Chardonnay
+Topic 73,Chardonnay
+Topic 73,Cabernet Sauvignon
+Topic 73,Portuguese Red
+Topic 73,Cabernet Sauvignon
+Topic 73,Pinot Noir
+Topic 73,Pinot Noir
+Topic 73,Cabernet Sauvignon
+Topic 73,Cabernet Sauvignon
+Topic 73,Pinot Noir
+Topic 73,Nerello Mascalese
+Topic 73,Pinot Noir
+Topic 73,Pinot Noir
+Topic 73,Cabernet Sauvignon
+Topic 73,Chardonnay
+Topic 74,Chardonnay
+Topic 74,Bordeaux-style Red Blend
+Topic 74,Bordeaux-style White Blend
+Topic 74,Rhône-style Red Blend
+Topic 74,Red Blend
+Topic 74,Sauvignon Blanc
+Topic 74,Syrah
+Topic 74,Pinot Noir
+Topic 74,Chardonnay
+Topic 74,Bordeaux-style Red Blend
+Topic 74,Pinot Noir
+Topic 74,Pinot Noir
+Topic 74,Chardonnay
+Topic 74,Bordeaux-style Red Blend
+Topic 74,Port
+Topic 74,Port
+Topic 74,Bordeaux-style Red Blend
+Topic 74,Sangiovese Grosso
+Topic 74,Rhône-style Red Blend
+Topic 74,Chardonnay
+Topic 74,Port
+Topic 74,Champagne Blend
+Topic 74,Sauvignon Blanc
+Topic 74,Aligoté
+Topic 74,Alvarinho
+Topic 75,Bordeaux-style Red Blend
+Topic 75,Bordeaux-style Red Blend
+Topic 75,Pinot Gris
+Topic 75,Bordeaux-style Red Blend
+Topic 75,Bordeaux-style Red Blend
+Topic 75,White Blend
+Topic 75,Cabernet Sauvignon
+Topic 75,Sauvignon Blanc
+Topic 75,Chardonnay
+Topic 75,Pinot Noir
+Topic 75,Viognier
+Topic 75,Chardonnay
+Topic 75,Chardonnay
+Topic 75,Semillon-Sauvignon Blanc
+Topic 75,Malbec
+Topic 75,Pinot Noir
+Topic 75,Marsanne
+Topic 75,Grüner Veltliner
+Topic 75,Pinot Noir
+Topic 75,Bordeaux-style Red Blend
+Topic 75,Chardonnay
+Topic 75,Chardonnay
+Topic 75,Cabernet Sauvignon
+Topic 75,Pinot Gris
+Topic 75,Bordeaux-style Red Blend
+Topic 76,Cabernet Sauvignon
+Topic 76,Cabernet Sauvignon
+Topic 76,Cabernet Sauvignon
+Topic 76,Cabernet Sauvignon
+Topic 76,Nerello Mascalese
+Topic 76,Pinot Noir
+Topic 76,Primitivo
+Topic 76,Tempranillo
+Topic 76,Tempranillo
+Topic 76,Cabernet Sauvignon
+Topic 76,Cabernet Sauvignon
+Topic 76,Red Blend
+Topic 76,Cabernet Sauvignon
+Topic 76,Cabernet Sauvignon
+Topic 76,Cabernet Sauvignon
+Topic 76,Barbera
+Topic 76,Pinot Noir
+Topic 76,Pinot Gris
+Topic 76,Cabernet Sauvignon
+Topic 76,Syrah
+Topic 76,Merlot
+Topic 76,Nebbiolo
+Topic 76,Portuguese Red
+Topic 76,Bordeaux-style Red Blend
+Topic 76,Rosé
+Topic 77,Muscat Blanc
+Topic 77,Syrah
+Topic 77,Cabernet Sauvignon
+Topic 77,Viognier
+Topic 77,Syrah
+Topic 77,Merlot
+Topic 77,Syrah
+Topic 77,Pinot Noir
+Topic 77,Pinot Noir
+Topic 77,Riesling
+Topic 77,Viognier
+Topic 77,Arneis
+Topic 77,Chardonnay
+Topic 77,Cabernet Sauvignon
+Topic 77,Pinot Noir
+Topic 77,Sangiovese Grosso
+Topic 77,Red Blend
+Topic 77,Rosé
+Topic 77,Chardonnay
+Topic 77,Chardonnay
+Topic 77,Chardonnay
+Topic 77,Red Blend
+Topic 77,G-S-M
+Topic 77,White Blend
+Topic 77,Pinot Noir
+Topic 78,Syrah
+Topic 78,Chardonnay
+Topic 78,Rosé
+Topic 78,Pinot Noir
+Topic 78,Bordeaux-style Red Blend
+Topic 78,Moscato
+Topic 78,Pinot Noir
+Topic 78,Pinot Noir
+Topic 78,Cabernet Sauvignon
+Topic 78,Chardonnay
+Topic 78,Bordeaux-style Red Blend
+Topic 78,Chardonnay
+Topic 78,Chardonnay
+Topic 78,Pinot Noir
+Topic 78,Tempranillo-Cabernet Sauvignon
+Topic 78,Port
+Topic 78,Riesling
+Topic 78,Albariño
+Topic 78,Grenache
+Topic 78,Rosé
+Topic 78,Red Blend
+Topic 78,Red Blend
+Topic 78,Grüner Veltliner
+Topic 78,Chardonnay
+Topic 78,Pinot Noir
+Topic 79,St. Laurent
+Topic 79,Chardonnay
+Topic 79,Merlot
+Topic 79,Cabernet Sauvignon
+Topic 79,White Blend
+Topic 79,Bordeaux-style Red Blend
+Topic 79,Pinot Gris
+Topic 79,Vinhão
+Topic 79,Cabernet Sauvignon
+Topic 79,Bordeaux-style White Blend
+Topic 79,Bordeaux-style Red Blend
+Topic 79,Pinot Noir
+Topic 79,Portuguese Red
+Topic 79,Pinot Noir
+Topic 79,Trincadeira
+Topic 79,Portuguese Red
+Topic 79,Gamay
+Topic 79,Chardonnay
+Topic 79,Bordeaux-style Red Blend
+Topic 79,Cabernet Sauvignon
+Topic 79,Pinot Noir
+Topic 79,Cabernet Sauvignon
+Topic 79,Chardonnay
+Topic 79,Chardonnay
+Topic 79,Grüner Veltliner
+Topic 80,White Blend
+Topic 80,Chardonnay
+Topic 80,Rhône-style White Blend
+Topic 80,Chardonnay
+Topic 80,Chardonnay
+Topic 80,Roussanne
+Topic 80,Chardonnay
+Topic 80,Sparkling Blend
+Topic 80,Albana
+Topic 80,Chardonnay
+Topic 80,White Blend
+Topic 80,Chardonnay
+Topic 80,Assyrtico
+Topic 80,Chardonnay
+Topic 80,Chardonnay
+Topic 80,White Blend
+Topic 80,Chardonnay
+Topic 80,Grenache Blanc
+Topic 80,Sparkling Blend
+Topic 80,Cabernet Sauvignon-Merlot
+Topic 80,Gewürztraminer
+Topic 80,Sparkling Blend
+Topic 80,Chardonnay
+Topic 80,Syrah
+Topic 80,Chardonnay
+Topic 81,Champagne Blend
+Topic 81,Pinot Noir
+Topic 81,Chardonnay
+Topic 81,Pinot Gris
+Topic 81,Cabernet Sauvignon
+Topic 81,Pinot Blanc
+Topic 81,Merlot
+Topic 81,Gamay
+Topic 81,Chardonnay
+Topic 81,Chardonnay
+Topic 81,Bordeaux-style Red Blend
+Topic 81,Rosé
+Topic 81,Bordeaux-style Red Blend
+Topic 81,White Blend
+Topic 81,Cabernet Sauvignon
+Topic 81,Bordeaux-style Red Blend
+Topic 81,Portuguese White
+Topic 81,Syrah
+Topic 81,Portuguese Red
+Topic 81,Grüner Veltliner
+Topic 81,Negrette
+Topic 81,Bordeaux-style White Blend
+Topic 81,Portuguese Red
+Topic 81,Portuguese Red
+Topic 81,Bordeaux-style Red Blend
+Topic 82,Bordeaux-style Red Blend
+Topic 82,Bordeaux-style Red Blend
+Topic 82,Red Blend
+Topic 82,Bordeaux-style Red Blend
+Topic 82,Champagne Blend
+Topic 82,Rosé
+Topic 82,Loureiro
+Topic 82,Portuguese Red
+Topic 82,Pinot Noir
+Topic 82,Viognier
+Topic 82,Portuguese White
+Topic 82,Portuguese White
+Topic 82,Merlot
+Topic 82,Bordeaux-style Red Blend
+Topic 82,Chardonnay
+Topic 82,White Blend
+Topic 82,Pinot Noir
+Topic 82,Champagne Blend
+Topic 82,Portuguese Red
+Topic 82,Portuguese Red
+Topic 82,Syrah
+Topic 82,Grüner Veltliner
+Topic 82,Pinot Noir
+Topic 82,Zweigelt
+Topic 82,Sauvignon Blanc
+Topic 83,Grechetto
+Topic 83,Rhône-style White Blend
+Topic 83,Sauvignon Blanc
+Topic 83,Pinot Noir
+Topic 83,Sauvignon Blanc
+Topic 83,Pinot Grigio
+Topic 83,Riesling
+Topic 83,Chardonnay
+Topic 83,Pinot Grigio
+Topic 83,Riesling
+Topic 83,Chardonnay
+Topic 83,Nebbiolo
+Topic 83,Riesling
+Topic 83,Viognier
+Topic 83,Portuguese White
+Topic 83,Cabernet Sauvignon
+Topic 83,Sauvignon Blanc
+Topic 83,Riesling
+Topic 83,Chenin Blanc
+Topic 83,Rhône-style White Blend
+Topic 83,Viognier
+Topic 83,Chardonnay
+Topic 83,Pinot Noir
+Topic 83,Port
+Topic 83,Sangiovese Grosso
+Topic 84,Pinot Noir
+Topic 84,Malvasia Istriana
+Topic 84,Chardonnay
+Topic 84,Chardonnay
+Topic 84,Bordeaux-style Red Blend
+Topic 84,Pinot Noir
+Topic 84,Syrah
+Topic 84,Sparkling Blend
+Topic 84,Chardonnay
+Topic 84,Cabernet Franc
+Topic 84,Chardonnay
+Topic 84,Silvaner
+Topic 84,Chardonnay
+Topic 84,Rosé
+Topic 84,Sauvignon Blanc
+Topic 84,Chardonnay
+Topic 84,Pinot Noir
+Topic 84,Chardonnay
+Topic 84,Chardonnay
+Topic 84,Bordeaux-style Red Blend
+Topic 84,Tannat-Cabernet
+Topic 84,Chardonnay
+Topic 84,Chardonnay
+Topic 84,Riesling
+Topic 84,Traminer
+Topic 85,Pinot Noir
+Topic 85,Chardonnay
+Topic 85,Gewürztraminer
+Topic 85,Riesling
+Topic 85,Chardonnay
+Topic 85,Pinot Noir
+Topic 85,Zinfandel
+Topic 85,Prugnolo Gentile
+Topic 85,Sauvignon Blanc
+Topic 85,Pinot Noir
+Topic 85,Portuguese Red
+Topic 85,Nebbiolo
+Topic 85,Chardonnay
+Topic 85,Chenin Blanc
+Topic 85,Sauvignon Blanc
+Topic 85,Chardonnay
+Topic 85,Champagne Blend
+Topic 85,Portuguese Red
+Topic 85,Cabernet Sauvignon
+Topic 85,Bordeaux-style Red Blend
+Topic 85,Bordeaux-style Red Blend
+Topic 85,Cabernet Sauvignon
+Topic 85,Grüner Veltliner
+Topic 85,Merlot
+Topic 85,Red Blend
+Topic 86,Mourvèdre
+Topic 86,Gamay
+Topic 86,Pinot Noir
+Topic 86,Port
+Topic 86,Syrah
+Topic 86,Red Blend
+Topic 86,Chardonnay
+Topic 86,Cabernet Sauvignon
+Topic 86,Viognier
+Topic 86,Petite Sirah
+Topic 86,Sparkling Blend
+Topic 86,Chardonnay
+Topic 86,Pinot Noir
+Topic 86,Pinot Noir
+Topic 86,Tempranillo
+Topic 86,Red Blend
+Topic 86,Cabernet Sauvignon
+Topic 86,Sauvignon Blanc
+Topic 86,Portuguese Red
+Topic 86,Cabernet Sauvignon
+Topic 86,Rhône-style White Blend
+Topic 86,Cabernet Sauvignon
+Topic 86,Bordeaux-style Red Blend
+Topic 86,Bordeaux-style White Blend
+Topic 86,Chardonnay
+Topic 87,Chardonnay
+Topic 87,Vidal Blanc
+Topic 87,Chardonnay
+Topic 87,Pinot Grigio
+Topic 87,Petit Manseng
+Topic 87,Sémillon
+Topic 87,Viognier
+Topic 87,Merlot
+Topic 87,Rosé
+Topic 87,Chardonnay
+Topic 87,Riesling
+Topic 87,Rosé
+Topic 87,Riesling
+Topic 87,Rosé
+Topic 87,Grenache
+Topic 87,Zinfandel
+Topic 87,Chardonnay
+Topic 87,White Blend
+Topic 87,Chardonnay
+Topic 87,Chardonnay
+Topic 87,Rosé
+Topic 87,Riesling
+Topic 87,Chardonnay
+Topic 87,Red Blend
+Topic 87,Red Blend
+Topic 88,Riesling
+Topic 88,Cabernet Sauvignon-Syrah
+Topic 88,Pinot Blanc
+Topic 88,Pinot Noir
+Topic 88,Petite Sirah
+Topic 88,Chardonnay
+Topic 88,Pinot Noir
+Topic 88,Port
+Topic 88,Pinot Noir
+Topic 88,Red Blend
+Topic 88,Chardonnay
+Topic 88,Barbera
+Topic 88,Red Blend
+Topic 88,Pinot Noir
+Topic 88,Pinot Noir
+Topic 88,Tempranillo
+Topic 88,G-S-M
+Topic 88,Pinot Noir
+Topic 88,Tempranillo
+Topic 88,Red Blend
+Topic 88,Chardonnay
+Topic 88,Riesling
+Topic 88,Tempranillo Blend
+Topic 88,Barbera
+Topic 88,Pinot Noir
+Topic 89,Greco
+Topic 89,Chardonnay
+Topic 89,Pinot Gris
+Topic 89,Pinot Noir
+Topic 89,Chardonnay
+Topic 89,Riesling
+Topic 89,Müller-Thurgau
+Topic 89,Bordeaux-style Red Blend
+Topic 89,Viura
+Topic 89,Sparkling Blend
+Topic 89,Chardonnay
+Topic 89,Sauvignon Blanc
+Topic 89,Pinot Gris
+Topic 89,Riesling
+Topic 89,Pinot Gris
+Topic 89,Chardonnay-Viognier
+Topic 89,Verdejo
+Topic 89,Zinfandel
+Topic 89,Vespaiolo
+Topic 89,Bordeaux-style White Blend
+Topic 89,Godello
+Topic 89,Pinot Gris
+Topic 89,Sauvignon Blanc
+Topic 89,Chardonnay
+Topic 89,Chenin Blanc
+Topic 90,Pinot Noir
+Topic 90,Gamay
+Topic 90,Chardonnay
+Topic 90,Chardonnay
+Topic 90,Chardonnay
+Topic 90,Bordeaux-style Red Blend
+Topic 90,Pinot Noir
+Topic 90,Champagne Blend
+Topic 90,Petite Sirah
+Topic 90,Nebbiolo
+Topic 90,Bordeaux-style Red Blend
+Topic 90,Cabernet Sauvignon
+Topic 90,Pinot Noir
+Topic 90,Rhône-style Red Blend
+Topic 90,Pinot Noir
+Topic 90,Riesling
+Topic 90,Malbec
+Topic 90,Gewürztraminer
+Topic 90,Melon
+Topic 90,Godello
+Topic 90,Grüner Veltliner
+Topic 90,White Blend
+Topic 90,Bordeaux-style White Blend
+Topic 90,Chardonnay
+Topic 90,Tempranillo
+Topic 91,Cabernet Sauvignon
+Topic 91,Cabernet Sauvignon
+Topic 91,Cabernet Sauvignon
+Topic 91,Sangiovese Grosso
+Topic 91,Sangiovese Grosso
+Topic 91,Bordeaux-style Red Blend
+Topic 91,Cabernet Sauvignon
+Topic 91,Cabernet Sauvignon
+Topic 91,Cabernet Sauvignon
+Topic 91,Cabernet Blend
+Topic 91,Chardonnay
+Topic 91,Bordeaux-style Red Blend
+Topic 91,Cabernet Sauvignon
+Topic 91,Tempranillo-Cabernet Sauvignon
+Topic 91,Cabernet Sauvignon
+Topic 91,Albariño
+Topic 91,Nebbiolo
+Topic 91,Bordeaux-style Red Blend
+Topic 91,"Corvina, Rondinella, Molinara"
+Topic 91,Pinot Noir
+Topic 91,Syrah
+Topic 91,Sauvignon Blanc
+Topic 91,Bordeaux-style Red Blend
+Topic 91,Pinot Noir
+Topic 91,Cabernet Sauvignon
+Topic 92,Sauvignon Blanc
+Topic 92,Chardonnay
+Topic 92,Sauvignon Blanc
+Topic 92,Pinot Noir
+Topic 92,Grenache
+Topic 92,Bordeaux-style Red Blend
+Topic 92,Cabernet Franc
+Topic 92,Albana
+Topic 92,Sauvignon Blanc
+Topic 92,Champagne Blend
+Topic 92,Riesling
+Topic 92,Chardonnay
+Topic 92,Pinot Noir
+Topic 92,Chardonnay
+Topic 92,Torrontés
+Topic 92,Prugnolo Gentile
+Topic 92,Sauvignon Blanc
+Topic 92,Pinot Noir
+Topic 92,Chardonnay
+Topic 92,Chardonnay
+Topic 92,Cabernet Franc
+Topic 92,Riesling
+Topic 92,Port
+Topic 92,Port
+Topic 92,Cabernet Sauvignon
+Topic 93,Gewürztraminer
+Topic 93,Rhône-style Red Blend
+Topic 93,Chardonnay
+Topic 93,Bordeaux-style Red Blend
+Topic 93,Blaufränkisch
+Topic 93,Riesling
+Topic 93,Riesling
+Topic 93,Grüner Veltliner
+Topic 93,Riesling
+Topic 93,Bordeaux-style Red Blend
+Topic 93,Gewürztraminer
+Topic 93,Champagne Blend
+Topic 93,Chardonnay
+Topic 93,Champagne Blend
+Topic 93,Pinot Noir
+Topic 93,Bordeaux-style Red Blend
+Topic 93,Pinot Gris
+Topic 93,Syrah
+Topic 93,Sangiovese
+Topic 93,Pinot Gris
+Topic 93,Champagne Blend
+Topic 93,White Blend
+Topic 93,Champagne Blend
+Topic 93,Merlot
+Topic 93,Syrah
+Topic 94,Cabernet Sauvignon
+Topic 94,Pinot Gris
+Topic 94,Pinot Noir
+Topic 94,Bordeaux-style Red Blend
+Topic 94,Verdejo
+Topic 94,Malbec
+Topic 94,Cabernet Sauvignon
+Topic 94,Syrah
+Topic 94,Merlot
+Topic 94,Red Blend
+Topic 94,Grüner Veltliner
+Topic 94,Merlot
+Topic 94,Zinfandel
+Topic 94,Pinot Noir
+Topic 94,Malbec
+Topic 94,Red Blend
+Topic 94,Bordeaux-style White Blend
+Topic 94,Chardonnay
+Topic 94,Portuguese White
+Topic 94,Pinot Grigio
+Topic 94,Pinot Noir
+Topic 94,Merlot
+Topic 94,Bordeaux-style White Blend
+Topic 94,Alvarinho
+Topic 94,Pinot Noir
+Topic 95,Riesling
+Topic 95,Malbec-Cabernet Sauvignon
+Topic 95,Cabernet Sauvignon-Syrah
+Topic 95,Zinfandel
+Topic 95,Pinot Noir
+Topic 95,Chardonnay
+Topic 95,Pinot Blanc
+Topic 95,Nebbiolo
+Topic 95,Zinfandel
+Topic 95,Sangiovese
+Topic 95,Mencía
+Topic 95,Pinot Noir
+Topic 95,Tempranillo
+Topic 95,Rhône-style Red Blend
+Topic 95,Bordeaux-style Red Blend
+Topic 95,Merlot
+Topic 95,Chardonnay
+Topic 95,Tinta de Toro
+Topic 95,Portuguese Red
+Topic 95,Malbec
+Topic 95,Chardonnay
+Topic 95,Pinot Noir
+Topic 95,Grüner Veltliner
+Topic 95,Red Blend
+Topic 95,Cabernet Sauvignon
+Topic 96,Bordeaux-style Red Blend
+Topic 96,Riesling
+Topic 96,Cabernet Sauvignon
+Topic 96,Grüner Veltliner
+Topic 96,Sauvignon Blanc
+Topic 96,Bordeaux-style Red Blend
+Topic 96,Chardonnay
+Topic 96,Chardonnay
+Topic 96,Sauvignon Blanc
+Topic 96,Pinot Noir
+Topic 96,Champagne Blend
+Topic 96,Bordeaux-style Red Blend
+Topic 96,Bordeaux-style Red Blend
+Topic 96,Riesling
+Topic 96,White Blend
+Topic 96,Portuguese Red
+Topic 96,Verdelho
+Topic 96,Portuguese Red
+Topic 96,Riesling
+Topic 96,Portuguese Sparkling
+Topic 96,Pinot Gris
+Topic 96,Portuguese Sparkling
+Topic 96,Gewürztraminer
+Topic 96,Bordeaux-style Red Blend
+Topic 96,Bordeaux-style Red Blend
+Topic 97,Sparkling Blend
+Topic 97,Sauvignon Blanc
+Topic 97,Bordeaux-style Red Blend
+Topic 97,Chardonnay
+Topic 97,Kekfrankos
+Topic 97,Pinot Noir
+Topic 97,Cabernet Sauvignon
+Topic 97,Syrah
+Topic 97,Merlot
+Topic 97,Malbec
+Topic 97,Tinta de Toro
+Topic 97,Portuguese Sparkling
+Topic 97,Tempranillo
+Topic 97,Pinot Noir
+Topic 97,Bordeaux-style Red Blend
+Topic 97,Red Blend
+Topic 97,Pinot Noir
+Topic 97,Cabernet Sauvignon
+Topic 97,Sangiovese
+Topic 97,Cabernet Sauvignon
+Topic 97,Riesling
+Topic 97,Pinot Noir
+Topic 97,Cabernet Sauvignon
+Topic 97,Pinot Noir
+Topic 97,Port
+Topic 98,Sauvignon Blanc
+Topic 98,Pinot Noir
+Topic 98,Riesling
+Topic 98,Chardonnay
+Topic 98,Sauvignon Blanc
+Topic 98,Pinot Noir
+Topic 98,Chardonnay
+Topic 98,Malbec
+Topic 98,Chardonnay
+Topic 98,Riesling
+Topic 98,Champagne Blend
+Topic 98,Port
+Topic 98,Red Blend
+Topic 98,Red Blend
+Topic 98,Chardonnay
+Topic 98,Red Blend
+Topic 98,Cabernet Sauvignon
+Topic 98,Petite Sirah
+Topic 98,Rosé
+Topic 98,Pinot Noir
+Topic 98,Portuguese White
+Topic 98,Bordeaux-style White Blend
+Topic 98,Merlot
+Topic 98,Sauvignon Blanc
+Topic 98,Merlot
+Topic 99,White Blend
+Topic 99,Champagne Blend
+Topic 99,Bordeaux-style Red Blend
+Topic 99,Port
+Topic 99,Rosé
+Topic 99,Sauvignon Blanc
+Topic 99,Pinot Noir
+Topic 99,Verdejo
+Topic 99,Champagne Blend
+Topic 99,White Blend
+Topic 99,Bordeaux-style Red Blend
+Topic 99,Sauvignon Blanc
+Topic 99,Sauvignon Blanc
+Topic 99,Rosé
+Topic 99,Grenache
+Topic 99,Rosé
+Topic 99,Chardonnay
+Topic 99,Chardonnay
+Topic 99,Rosé
+Topic 99,"Corvina, Rondinella, Molinara"
+Topic 99,Portuguese White
+Topic 99,Pinot Noir
+Topic 99,Rosé
+Topic 99,Cabernet Sauvignon
+Topic 99,Pinot Noir
+Topic 100,Zinfandel
+Topic 100,Chardonnay
+Topic 100,Chardonnay
+Topic 100,Pinot Grigio
+Topic 100,Loureiro
+Topic 100,Sauvignon Blanc
+Topic 100,Sémillon
+Topic 100,Chardonnay
+Topic 100,Semillon-Sauvignon Blanc
+Topic 100,Verdelho
+Topic 100,Sauvignon Blanc
+Topic 100,Pinot Noir
+Topic 100,Merlot
+Topic 100,White Blend
+Topic 100,Sauvignon Blanc
+Topic 100,Pinot Noir
+Topic 100,Viognier
+Topic 100,Sparkling Blend
+Topic 100,Shiraz
+Topic 100,Pinot Noir
+Topic 100,Bordeaux-style Red Blend
+Topic 100,Pinot Noir
+Topic 100,Malbec-Syrah
+Topic 100,Nebbiolo
+Topic 100,Sauvignon Blanc
+Topic 101,Pinot Noir
+Topic 101,Pinot Noir
+Topic 101,Red Blend
+Topic 101,Torrontés
+Topic 101,Chardonnay
+Topic 101,Cabernet Sauvignon
+Topic 101,Red Blend
+Topic 101,G-S-M
+Topic 101,Cabernet Sauvignon
+Topic 101,Rhône-style Red Blend
+Topic 101,Cabernet Franc
+Topic 101,Portuguese Red
+Topic 101,Cabernet Sauvignon
+Topic 101,Pinot Grigio
+Topic 101,Torrontés
+Topic 101,Albariño
+Topic 101,Pinot Noir
+Topic 101,Syrah
+Topic 101,Sauvignon Blanc
+Topic 101,Viura
+Topic 101,Garnacha
+Topic 101,Müller-Thurgau
+Topic 101,Chardonnay
+Topic 101,Riesling
+Topic 101,Cabernet Sauvignon
+Topic 102,Bordeaux-style Red Blend
+Topic 102,White Blend
+Topic 102,Pedro Ximénez
+Topic 102,Sparkling Blend
+Topic 102,Riesling
+Topic 102,Tinta de Toro
+Topic 102,Pinot Noir
+Topic 102,Sauvignon Blanc
+Topic 102,Red Blend
+Topic 102,Chardonnay
+Topic 102,Bonarda
+Topic 102,Viognier
+Topic 102,Chardonnay
+Topic 102,Chardonnay
+Topic 102,Sauvignon Blanc
+Topic 102,Bordeaux-style Red Blend
+Topic 102,Garganega
+Topic 102,Chardonnay
+Topic 102,Zinfandel
+Topic 102,White Blend
+Topic 102,Pinot Noir
+Topic 102,Nebbiolo
+Topic 102,Primitivo
+Topic 102,Pinot Noir
+Topic 102,Cabernet Sauvignon
+Topic 103,Portuguese White
+Topic 103,Rosé
+Topic 103,Chardonnay
+Topic 103,Rosé
+Topic 103,Chardonnay
+Topic 103,Tempranillo
+Topic 103,Riesling
+Topic 103,Cabernet Sauvignon
+Topic 103,Sauvignon Blanc
+Topic 103,Marsanne
+Topic 103,Gewürztraminer
+Topic 103,Pinot Noir
+Topic 103,Pinot Noir
+Topic 103,Sémillon
+Topic 103,Müller-Thurgau
+Topic 103,Portuguese White
+Topic 103,Sauvignon Blanc
+Topic 103,Chardonnay
+Topic 103,Viura
+Topic 103,Chardonnay
+Topic 103,White Blend
+Topic 103,Chardonnay
+Topic 103,Chardonnay
+Topic 103,Viognier
+Topic 103,Red Blend
+Topic 104,Portuguese Red
+Topic 104,Pinot Noir
+Topic 104,Zinfandel
+Topic 104,Shiraz-Viognier
+Topic 104,Rhône-style Red Blend
+Topic 104,Petite Sirah
+Topic 104,Merlot
+Topic 104,Red Blend
+Topic 104,Xinomavro
+Topic 104,Zinfandel
+Topic 104,Cabernet Sauvignon
+Topic 104,Cabernet Sauvignon
+Topic 104,Cabernet Sauvignon
+Topic 104,Zinfandel
+Topic 104,Cabernet Sauvignon-Syrah
+Topic 104,Merlot
+Topic 104,Cabernet Franc
+Topic 104,Shiraz
+Topic 104,Port
+Topic 104,Portuguese Red
+Topic 104,Merlot
+Topic 104,Malbec
+Topic 104,Merlot
+Topic 104,Syrah
+Topic 104,Red Blend
+Topic 105,Syrah
+Topic 105,Portuguese Red
+Topic 105,Bordeaux-style Red Blend
+Topic 105,Syrah
+Topic 105,Cabernet Franc
+Topic 105,Pinot Noir
+Topic 105,Sparkling Blend
+Topic 105,Red Blend
+Topic 105,Syrah
+Topic 105,Sauvignon Blanc
+Topic 105,Syrah
+Topic 105,Merlot
+Topic 105,Merlot
+Topic 105,Bordeaux-style Red Blend
+Topic 105,Red Blend
+Topic 105,Zinfandel
+Topic 105,Syrah
+Topic 105,Malbec
+Topic 105,Viura
+Topic 105,Chardonnay
+Topic 105,Pinot Noir
+Topic 105,Sangiovese
+Topic 105,Bordeaux-style Red Blend
+Topic 105,Pinot Noir
+Topic 105,Johannisberg Riesling
+Topic 106,Sangiovese
+Topic 106,Gamay
+Topic 106,Cabernet Sauvignon
+Topic 106,Port
+Topic 106,Cabernet Sauvignon
+Topic 106,Pinot Noir
+Topic 106,Agiorgitiko
+Topic 106,Rhône-style Red Blend
+Topic 106,Merlot
+Topic 106,Cabernet Sauvignon
+Topic 106,Syrah
+Topic 106,Sangiovese
+Topic 106,Rosé
+Topic 106,Pinot Noir
+Topic 106,White Blend
+Topic 106,Garnacha
+Topic 106,Rosé
+Topic 106,Pinot Noir
+Topic 106,Gamay
+Topic 106,Rosé
+Topic 106,Merlot
+Topic 106,Tempranillo
+Topic 106,Portuguese Red
+Topic 106,Sangiovese
+Topic 106,Cabernet Sauvignon
+Topic 107,Rhône-style White Blend
+Topic 107,Roussanne
+Topic 107,Pinot Grigio
+Topic 107,Champagne Blend
+Topic 107,Pinot Noir
+Topic 107,Riesling
+Topic 107,Carignan
+Topic 107,Sauvignon Blanc
+Topic 107,Chardonnay
+Topic 107,Red Blend
+Topic 107,Tempranillo Blend
+Topic 107,Tempranillo
+Topic 107,Sangiovese
+Topic 107,Chardonnay
+Topic 107,Viura
+Topic 107,Bordeaux-style Red Blend
+Topic 107,Rosé
+Topic 107,Syrah
+Topic 107,Pinot Noir
+Topic 107,Carmenère
+Topic 107,Malbec
+Topic 107,Grüner Veltliner
+Topic 107,Malbec
+Topic 107,Merlot
+Topic 107,Sauvignon Blanc
+Topic 108,Gewürztraminer
+Topic 108,Rosé
+Topic 108,Weissburgunder
+Topic 108,Viognier
+Topic 108,Riesling
+Topic 108,Gewürztraminer
+Topic 108,Portuguese White
+Topic 108,Pinot Grigio
+Topic 108,Cabernet Franc
+Topic 108,Bordeaux-style White Blend
+Topic 108,Bordeaux-style Red Blend
+Topic 108,Bordeaux-style White Blend
+Topic 108,Mavrodaphne
+Topic 108,Bordeaux-style Red Blend
+Topic 108,Red Blend
+Topic 108,Sauvignon Blanc
+Topic 108,Sparkling Blend
+Topic 108,Rosé
+Topic 108,Bordeaux-style Red Blend
+Topic 108,Riesling
+Topic 108,Red Blend
+Topic 108,Petit Manseng
+Topic 108,Bordeaux-style Red Blend
+Topic 108,Muscat
+Topic 108,Chardonnay
+Topic 109,Vidal
+Topic 109,Cabernet Sauvignon
+Topic 109,Port
+Topic 109,Zinfandel
+Topic 109,Barbera
+Topic 109,Red Blend
+Topic 109,Gewürztraminer-Riesling
+Topic 109,Sherry
+Topic 109,Sauvignon Blanc
+Topic 109,Pinot Noir
+Topic 109,Bordeaux-style Red Blend
+Topic 109,Gewürztraminer
+Topic 109,Pinot Gris
+Topic 109,Port
+Topic 109,Cabernet Sauvignon
+Topic 109,Portuguese White
+Topic 109,Sauvignon Blanc
+Topic 109,Pinot Noir
+Topic 109,Sauvignon Blanc
+Topic 109,Cabernet Sauvignon
+Topic 109,Pinot Noir
+Topic 109,Champagne Blend
+Topic 109,Cabernet Sauvignon
+Topic 109,Pinot Noir
+Topic 109,Bordeaux-style Red Blend
+Topic 110,Syrah
+Topic 110,Riesling
+Topic 110,Rosé
+Topic 110,Sparkling Blend
+Topic 110,Pinot Noir
+Topic 110,Sangiovese Grosso
+Topic 110,Portuguese Red
+Topic 110,Portuguese White
+Topic 110,Sauvignon Blanc
+Topic 110,Champagne Blend
+Topic 110,Sparkling Blend
+Topic 110,Garnacha
+Topic 110,Port
+Topic 110,White Blend
+Topic 110,Chardonnay
+Topic 110,Port
+Topic 110,Shiraz
+Topic 110,Syrah
+Topic 110,Rosé
+Topic 110,Pinot Grigio
+Topic 110,Pinot Noir
+Topic 110,Gamay
+Topic 110,Pinot Noir
+Topic 110,Rosé
+Topic 110,Tempranillo
+Topic 111,Rosé
+Topic 111,Pinot Noir
+Topic 111,Champagne Blend
+Topic 111,Portuguese White
+Topic 111,Meritage
+Topic 111,Chardonnay
+Topic 111,Pinot Noir
+Topic 111,Chenin Blanc
+Topic 111,Cabernet Sauvignon
+Topic 111,Port
+Topic 111,Sauvignon Blanc
+Topic 111,Sauvignon Blanc
+Topic 111,Cabernet Blend
+Topic 111,Rosé
+Topic 111,Sauvignon Blanc
+Topic 111,Bordeaux-style White Blend
+Topic 111,Red Blend
+Topic 111,Monastrell
+Topic 111,Port
+Topic 111,Chardonnay
+Topic 111,Red Blend
+Topic 111,Bordeaux-style Red Blend
+Topic 111,Bordeaux-style Red Blend
+Topic 111,Bordeaux-style Red Blend
+Topic 111,Portuguese White
+Topic 112,Sangiovese
+Topic 112,Bordeaux-style Red Blend
+Topic 112,Cabernet Sauvignon
+Topic 112,Gamay
+Topic 112,Merlot
+Topic 112,Cabernet Sauvignon
+Topic 112,Zinfandel
+Topic 112,Barbera
+Topic 112,Cabernet Sauvignon
+Topic 112,Red Blend
+Topic 112,Portuguese Red
+Topic 112,Mencía
+Topic 112,Zinfandel
+Topic 112,Rhône-style White Blend
+Topic 112,Grüner Veltliner
+Topic 112,Merlot
+Topic 112,Bordeaux-style White Blend
+Topic 112,Chardonnay
+Topic 112,Cabernet Sauvignon
+Topic 112,Merlot
+Topic 112,Rosé
+Topic 112,Pinot Noir
+Topic 112,Champagne Blend
+Topic 112,Red Blend
+Topic 112,Red Blend
+Topic 113,Sauvignon Blanc
+Topic 113,Cabernet Sauvignon
+Topic 113,Torrontés
+Topic 113,Sauvignon Blanc
+Topic 113,Rosé
+Topic 113,Merlot
+Topic 113,Rosé
+Topic 113,Pinot Noir
+Topic 113,Red Blend
+Topic 113,Malbec
+Topic 113,Chardonnay
+Topic 113,Rosé
+Topic 113,Nebbiolo
+Topic 113,Rosé
+Topic 113,Sauvignon Blanc
+Topic 113,Chardonnay
+Topic 113,Red Blend
+Topic 113,Bordeaux-style Red Blend
+Topic 113,Cabernet Sauvignon-Syrah
+Topic 113,Malbec
+Topic 113,Chardonnay
+Topic 113,Portuguese White
+Topic 113,Cabernet Sauvignon
+Topic 113,Rosé
+Topic 113,Cabernet Sauvignon
+Topic 114,Pinot Noir
+Topic 114,Portuguese White
+Topic 114,White Blend
+Topic 114,Red Blend
+Topic 114,Cabernet Sauvignon
+Topic 114,Garnacha
+Topic 114,Blaufränkisch
+Topic 114,Chardonnay-Semillon
+Topic 114,Cabernet Sauvignon
+Topic 114,Rhône-style White Blend
+Topic 114,Pinot Grigio
+Topic 114,Mencía
+Topic 114,Albariño
+Topic 114,Sauvignon Blanc
+Topic 114,Tempranillo-Shiraz
+Topic 114,Tempranillo
+Topic 114,Cabernet Sauvignon
+Topic 114,Pinot Noir
+Topic 114,Bordeaux-style Red Blend
+Topic 114,White Blend
+Topic 114,Pinot Noir
+Topic 114,Garnacha
+Topic 114,Sauvignon Blanc
+Topic 114,Xarel-lo
+Topic 114,Garganega
+Topic 115,Cabernet Sauvignon
+Topic 115,Bordeaux-style Red Blend
+Topic 115,Pinot Noir
+Topic 115,Gamay
+Topic 115,Cabernet Sauvignon
+Topic 115,Cabernet Sauvignon
+Topic 115,Meritage
+Topic 115,Cabernet Sauvignon
+Topic 115,Cabernet Sauvignon
+Topic 115,Merlot
+Topic 115,Pinot Noir
+Topic 115,Merlot
+Topic 115,Pinot Noir
+Topic 115,Red Blend
+Topic 115,Cabernet Sauvignon
+Topic 115,Pinot Noir
+Topic 115,Shiraz
+Topic 115,Merlot
+Topic 115,Merlot
+Topic 115,Portuguese White
+Topic 115,Pinot Noir
+Topic 115,Cabernet Sauvignon
+Topic 115,Cabernet Sauvignon
+Topic 115,Tempranillo Blend
+Topic 115,Merlot
+Topic 116,Chardonnay
+Topic 116,Weissburgunder
+Topic 116,Zinfandel
+Topic 116,Sauvignon Blanc
+Topic 116,Riesling
+Topic 116,Sparkling Blend
+Topic 116,Bordeaux-style White Blend
+Topic 116,Syrah
+Topic 116,Red Blend
+Topic 116,Grenache
+Topic 116,Grenache Blanc
+Topic 116,Dolcetto
+Topic 116,Chardonnay
+Topic 116,Bordeaux-style Red Blend
+Topic 116,Syrah
+Topic 116,Bordeaux-style Red Blend
+Topic 116,Chardonnay
+Topic 116,White Blend
+Topic 116,Riesling
+Topic 116,Sauvignon Blanc
+Topic 116,Gamay
+Topic 116,Rosé
+Topic 116,Riesling
+Topic 116,Port
+Topic 116,Viognier
+Topic 117,Sangiovese
+Topic 117,Riesling
+Topic 117,Cabernet Sauvignon
+Topic 117,Syrah
+Topic 117,Sparkling Blend
+Topic 117,Cabernet Sauvignon
+Topic 117,Sparkling Blend
+Topic 117,Bordeaux-style Red Blend
+Topic 117,Pinot Noir
+Topic 117,Sangiovese
+Topic 117,Gamay
+Topic 117,Portuguese Red
+Topic 117,Albariño
+Topic 117,Garganega
+Topic 117,"Corvina, Rondinella, Molinara"
+Topic 117,Bonarda
+Topic 117,White Blend
+Topic 117,Chardonnay
+Topic 117,Pinot Noir
+Topic 117,Grüner Veltliner
+Topic 117,Pinot Grigio
+Topic 117,Bordeaux-style Red Blend
+Topic 117,Bordeaux-style Red Blend
+Topic 117,Pinot Noir
+Topic 117,Syrah
+Topic 118,Syrah
+Topic 118,Chardonnay
+Topic 118,Pinot Noir
+Topic 118,Zinfandel
+Topic 118,Tannat
+Topic 118,Rosé
+Topic 118,Cabernet Sauvignon
+Topic 118,Pinot Grigio
+Topic 118,Pinot Noir
+Topic 118,Bordeaux-style Red Blend
+Topic 118,Pinot Noir
+Topic 118,Pinot Noir
+Topic 118,Malvasia Istriana
+Topic 118,Pinot Noir
+Topic 118,Pinot Gris
+Topic 118,Cabernet Sauvignon
+Topic 118,Rhône-style White Blend
+Topic 118,Bordeaux-style Red Blend
+Topic 118,Syrah
+Topic 118,Rosé
+Topic 118,Gamay
+Topic 118,Roussanne
+Topic 118,Tempranillo Blend
+Topic 118,Red Blend
+Topic 118,Portuguese Red
+Topic 119,Pinot Noir
+Topic 119,Port
+Topic 119,Sauvignon Blanc
+Topic 119,Sauvignon Blanc
+Topic 119,Aragonês
+Topic 119,Merlot
+Topic 119,Sauvignon Blanc
+Topic 119,Merlot
+Topic 119,Cabernet Sauvignon
+Topic 119,Port
+Topic 119,Malbec
+Topic 119,Viognier
+Topic 119,Sauvignon Blanc
+Topic 119,Red Blend
+Topic 119,Pinot Noir
+Topic 119,Sauvignon Blanc
+Topic 119,Riesling
+Topic 119,Pinot Noir
+Topic 119,Bordeaux-style Red Blend
+Topic 119,Tempranillo Blend
+Topic 119,Port
+Topic 119,Albariño
+Topic 119,Syrah
+Topic 119,Pinot Noir
+Topic 119,Bordeaux-style White Blend
+Topic 120,Gamay
+Topic 120,Grüner Veltliner
+Topic 120,Cabernet Franc
+Topic 120,Bordeaux-style Red Blend
+Topic 120,Agiorgitiko
+Topic 120,Chardonnay
+Topic 120,Bordeaux-style Red Blend
+Topic 120,Gamay
+Topic 120,Bordeaux-style Red Blend
+Topic 120,Bordeaux-style Red Blend
+Topic 120,Chardonnay
+Topic 120,Pinot Noir
+Topic 120,Bordeaux-style Red Blend
+Topic 120,Chardonnay
+Topic 120,Pinot Noir
+Topic 120,Mencía
+Topic 120,Portuguese Red
+Topic 120,Cabernet Franc
+Topic 120,Gamay
+Topic 120,Bordeaux-style Red Blend
+Topic 120,Bordeaux-style Red Blend
+Topic 120,Chardonnay
+Topic 120,Bordeaux-style Red Blend
+Topic 120,Sauvignon Blanc
+Topic 120,Bordeaux-style Red Blend
+Topic 121,Sauvignon Blanc
+Topic 121,Merlot
+Topic 121,Merlot
+Topic 121,Merlot
+Topic 121,Cabernet Sauvignon
+Topic 121,Pinot Noir
+Topic 121,Merlot
+Topic 121,Merlot
+Topic 121,Sauvignon Blanc
+Topic 121,Red Blend
+Topic 121,Merlot
+Topic 121,Merlot
+Topic 121,Pinot Noir
+Topic 121,Syrah
+Topic 121,Malbec
+Topic 121,Sauvignon Blanc
+Topic 121,G-S-M
+Topic 121,Cabernet Sauvignon
+Topic 121,Pinot Noir
+Topic 121,Pinot Noir
+Topic 121,Sauvignon Blanc
+Topic 121,Merlot
+Topic 121,Rosé
+Topic 121,Sauvignon Blanc
+Topic 121,Chardonnay
+Topic 122,Bordeaux-style White Blend
+Topic 122,Zinfandel
+Topic 122,Chardonnay
+Topic 122,Zinfandel
+Topic 122,Cabernet Sauvignon
+Topic 122,Zinfandel
+Topic 122,Cabernet Sauvignon
+Topic 122,Pinot Gris
+Topic 122,Merlot
+Topic 122,Pinot Noir
+Topic 122,Pinot Noir
+Topic 122,Tempranillo Blend
+Topic 122,Chardonnay
+Topic 122,Cabernet Sauvignon
+Topic 122,Merlot
+Topic 122,Cabernet Franc
+Topic 122,Cabernet Sauvignon
+Topic 122,Petite Sirah
+Topic 122,Red Blend
+Topic 122,Riesling
+Topic 122,Cabernet Sauvignon
+Topic 122,Zinfandel
+Topic 122,Pinot Gris
+Topic 122,Cabernet Sauvignon
+Topic 122,Cabernet Sauvignon
+Topic 123,Pinot Noir
+Topic 123,Merlot
+Topic 123,Cabernet Sauvignon
+Topic 123,Pinot Noir
+Topic 123,Pinot Noir
+Topic 123,Cabernet Sauvignon
+Topic 123,Syrah
+Topic 123,Cabernet Sauvignon
+Topic 123,Cabernet Sauvignon
+Topic 123,Red Blend
+Topic 123,Cabernet Sauvignon
+Topic 123,Cabernet Sauvignon
+Topic 123,Meritage
+Topic 123,Zinfandel
+Topic 123,Barbera
+Topic 123,Pinot Noir
+Topic 123,Merlot
+Topic 123,Zinfandel
+Topic 123,Shiraz
+Topic 123,Cabernet Sauvignon
+Topic 123,Bordeaux-style Red Blend
+Topic 123,Bordeaux-style Red Blend
+Topic 123,Bordeaux-style Red Blend
+Topic 123,Pinot Noir
+Topic 123,Cabernet Sauvignon
+Topic 124,Port
+Topic 124,Bordeaux-style Red Blend
+Topic 124,Bordeaux-style White Blend
+Topic 124,Zinfandel
+Topic 124,Pinot Noir
+Topic 124,Sauvignon Blanc
+Topic 124,Bordeaux-style Red Blend
+Topic 124,Bordeaux-style White Blend
+Topic 124,Pinot Noir
+Topic 124,Pinot Noir
+Topic 124,Bordeaux-style Red Blend
+Topic 124,Pinot Noir
+Topic 124,Bordeaux-style Red Blend
+Topic 124,Rosé
+Topic 124,Chardonnay
+Topic 124,Pinot Noir
+Topic 124,Sauvignon Blanc
+Topic 124,Sauvignon Blanc
+Topic 124,Pinot Noir
+Topic 124,Syrah
+Topic 124,Cabernet Sauvignon
+Topic 124,Zinfandel
+Topic 124,Riesling
+Topic 124,Malbec
+Topic 124,Syrah
+Topic 125,Tempranillo
+Topic 125,Grenache
+Topic 125,Nebbiolo
+Topic 125,Cabernet Sauvignon
+Topic 125,Petite Sirah
+Topic 125,Monica
+Topic 125,Red Blend
+Topic 125,Sangiovese
+Topic 125,Tempranillo
+Topic 125,Red Blend
+Topic 125,Touriga Nacional
+Topic 125,Pinot Noir
+Topic 125,Bordeaux-style Red Blend
+Topic 125,Riesling
+Topic 125,Merlot
+Topic 125,Malbec
+Topic 125,Tannat
+Topic 125,Pinot Noir
+Topic 125,Shiraz-Cabernet Sauvignon
+Topic 125,Red Blend
+Topic 125,Bordeaux-style Red Blend
+Topic 125,Pinot Noir
+Topic 125,Pinot Noir
+Topic 125,Bonarda
+Topic 125,Cabernet Sauvignon
+Topic 126,Chardonnay
+Topic 126,Gamay
+Topic 126,White Blend
+Topic 126,Port
+Topic 126,Portuguese Red
+Topic 126,Pinot Noir
+Topic 126,Pinot Noir
+Topic 126,Chardonnay
+Topic 126,Chardonnay
+Topic 126,Chardonnay
+Topic 126,Chardonnay
+Topic 126,Bordeaux-style Red Blend
+Topic 126,Chardonnay
+Topic 126,Pinot Noir
+Topic 126,Bordeaux-style Red Blend
+Topic 126,Sauvignon Blanc
+Topic 126,Cabernet Sauvignon
+Topic 126,Nebbiolo
+Topic 126,Red Blend
+Topic 126,Portuguese Red
+Topic 126,White Blend
+Topic 126,Baco Noir
+Topic 126,"Corvina, Rondinella, Molinara"
+Topic 126,Port
+Topic 126,Portuguese Red
+Topic 127,Grüner Veltliner
+Topic 127,Bordeaux-style Red Blend
+Topic 127,Petite Sirah
+Topic 127,Cabernet Sauvignon
+Topic 127,Port
+Topic 127,Gewürztraminer
+Topic 127,Pinot Noir
+Topic 127,Port
+Topic 127,Pinot Noir
+Topic 127,Bordeaux-style Red Blend
+Topic 127,Pinot Noir
+Topic 127,Roussanne
+Topic 127,Bordeaux-style White Blend
+Topic 127,Grüner Veltliner
+Topic 127,White Blend
+Topic 127,Gewürztraminer
+Topic 127,Cabernet Sauvignon
+Topic 127,Pinot Noir
+Topic 127,White Blend
+Topic 127,Pinot Gris
+Topic 127,Cabernet Sauvignon-Syrah
+Topic 127,Merlot
+Topic 127,Pinot Noir
+Topic 127,Petit Verdot
+Topic 127,Chardonnay
+Topic 128,Port
+Topic 128,Red Blend
+Topic 128,Bordeaux-style Red Blend
+Topic 128,Rosé
+Topic 128,Syrah
+Topic 128,Dolcetto
+Topic 128,Pinot Noir
+Topic 128,Bordeaux-style Red Blend
+Topic 128,Chardonnay
+Topic 128,Chardonnay
+Topic 128,Pinot Gris
+Topic 128,Chardonnay
+Topic 128,Pinot Noir
+Topic 128,Bordeaux-style White Blend
+Topic 128,Portuguese Red
+Topic 128,Alsace white blend
+Topic 128,Chardonnay
+Topic 128,Sauvignon Blanc
+Topic 128,Cabernet Sauvignon
+Topic 128,Sauvignon Blanc
+Topic 128,Casavecchia
+Topic 128,Gamay
+Topic 128,Merlot
+Topic 128,Rhône-style Red Blend
+Topic 128,Nebbiolo
+Topic 129,Viognier
+Topic 129,Montepulciano
+Topic 129,Cabernet Franc
+Topic 129,Zinfandel
+Topic 129,Vermentino
+Topic 129,Sangiovese
+Topic 129,Red Blend
+Topic 129,Barbera
+Topic 129,Petite Sirah
+Topic 129,Zinfandel
+Topic 129,Red Blend
+Topic 129,Red Blend
+Topic 129,Pinot Noir
+Topic 129,Sauvignon Blanc
+Topic 129,Zinfandel
+Topic 129,Riesling
+Topic 129,Tempranillo Blend
+Topic 129,Zinfandel
+Topic 129,Red Blend
+Topic 129,Zinfandel
+Topic 129,Petite Sirah
+Topic 129,Rhône-style Red Blend
+Topic 129,Syrah
+Topic 129,Verdicchio
+Topic 129,Pinot Noir
+Topic 130,Cabernet Sauvignon
+Topic 130,Port
+Topic 130,Malbec
+Topic 130,Gamay
+Topic 130,Sauvignon Blanc
+Topic 130,Portuguese White
+Topic 130,White Blend
+Topic 130,Sauvignon Blanc
+Topic 130,Verdejo
+Topic 130,Albariño
+Topic 130,Rhône-style Red Blend
+Topic 130,Torrontés
+Topic 130,Sauvignon Blanc
+Topic 130,Merlot
+Topic 130,Sauvignon Blanc
+Topic 130,Bordeaux-style Red Blend
+Topic 130,Chardonnay
+Topic 130,Bordeaux-style Red Blend
+Topic 130,Sauvignon Blanc
+Topic 130,Shiraz
+Topic 130,Viognier
+Topic 130,Chardonnay
+Topic 130,Tempranillo Blanco
+Topic 130,Tempranillo
+Topic 130,Sherry
+Topic 131,Tinto del Pais
+Topic 131,Chardonnay
+Topic 131,"Corvina, Rondinella, Molinara"
+Topic 131,Portuguese White
+Topic 131,Cabernet Sauvignon
+Topic 131,Merlot
+Topic 131,Merlot
+Topic 131,Chardonnay
+Topic 131,Chardonnay
+Topic 131,Gamay
+Topic 131,Champagne Blend
+Topic 131,Syrah
+Topic 131,Chardonnay
+Topic 131,Bordeaux-style Red Blend
+Topic 131,Merlot
+Topic 131,Rosé
+Topic 131,Syrah
+Topic 131,Syrah
+Topic 131,Cabernet Sauvignon
+Topic 131,Bordeaux-style Red Blend
+Topic 131,Rosato
+Topic 131,Bordeaux-style Red Blend
+Topic 131,Marzemino
+Topic 131,Chardonnay
+Topic 131,Riesling
+Topic 132,Bordeaux-style Red Blend
+Topic 132,Cabernet Sauvignon
+Topic 132,Nero d'Avola
+Topic 132,Merlot
+Topic 132,Sangiovese
+Topic 132,Nebbiolo
+Topic 132,Gamay
+Topic 132,Tempranillo
+Topic 132,Merlot
+Topic 132,Red Blend
+Topic 132,Rosé
+Topic 132,Rosé
+Topic 132,Zinfandel
+Topic 132,Red Blend
+Topic 132,Zinfandel
+Topic 132,Red Blend
+Topic 132,Gamay
+Topic 132,Champagne Blend
+Topic 132,Rosé
+Topic 132,Cabernet Sauvignon
+Topic 132,Cabernet Sauvignon
+Topic 132,Cabernet Sauvignon
+Topic 132,Red Blend
+Topic 132,White Blend
+Topic 132,Rhône-style Red Blend
+Topic 133,Grüner Veltliner
+Topic 133,Red Blend
+Topic 133,Malbec
+Topic 133,Grüner Veltliner
+Topic 133,Shiraz
+Topic 133,Chardonnay
+Topic 133,Rosé
+Topic 133,Cabernet Sauvignon
+Topic 133,Sauvignon Blanc
+Topic 133,Bordeaux-style Red Blend
+Topic 133,Tempranillo Blend
+Topic 133,Riesling
+Topic 133,Portuguese Red
+Topic 133,Pinot Noir
+Topic 133,Port
+Topic 133,Pinot Noir
+Topic 133,Riesling
+Topic 133,Pinot Gris
+Topic 133,Chardonnay
+Topic 133,Bordeaux-style White Blend
+Topic 133,Sangiovese
+Topic 133,Zinfandel
+Topic 133,Champagne Blend
+Topic 133,Cabernet Sauvignon
+Topic 133,Chardonnay
+Topic 134,Merlot
+Topic 134,Vidal
+Topic 134,Zinfandel
+Topic 134,Zinfandel
+Topic 134,Syrah
+Topic 134,Red Blend
+Topic 134,Merlot
+Topic 134,Chardonnay
+Topic 134,Sherry
+Topic 134,Syrah
+Topic 134,Müller-Thurgau
+Topic 134,Cabernet Sauvignon
+Topic 134,White Riesling
+Topic 134,Gewürztraminer
+Topic 134,Cabernet Sauvignon
+Topic 134,Riesling
+Topic 134,Riesling
+Topic 134,Chardonnay
+Topic 134,Riesling
+Topic 134,Viognier
+Topic 134,Sauvignon Blanc
+Topic 134,Gewürztraminer
+Topic 134,Pinot Noir
+Topic 134,Chardonnay
+Topic 134,Sherry
+Topic 135,Riesling
+Topic 135,Red Blend
+Topic 135,Pinot Noir
+Topic 135,Chardonnay
+Topic 135,Rosé
+Topic 135,Pinot Noir
+Topic 135,Riesling
+Topic 135,Bordeaux-style White Blend
+Topic 135,Chardonnay
+Topic 135,Malbec
+Topic 135,Rosé
+Topic 135,Portuguese White
+Topic 135,Portuguese White
+Topic 135,Red Blend
+Topic 135,Garnacha
+Topic 135,St. Laurent
+Topic 135,Chardonnay
+Topic 135,Pinot Noir
+Topic 135,Rosé
+Topic 135,Rosé
+Topic 135,Rosé
+Topic 135,Sparkling Blend
+Topic 135,Bordeaux-style White Blend
+Topic 135,Chardonnay
+Topic 135,Bordeaux-style White Blend
+Topic 136,Cabernet Sauvignon
+Topic 136,Negroamaro
+Topic 136,Gewürztraminer
+Topic 136,Riesling
+Topic 136,Pinot Gris
+Topic 136,Syrah
+Topic 136,Aglianico
+Topic 136,Garganega
+Topic 136,Petit Verdot
+Topic 136,Chardonnay
+Topic 136,Bordeaux-style White Blend
+Topic 136,Viognier
+Topic 136,Riesling
+Topic 136,Verdicchio
+Topic 136,Cabernet Sauvignon
+Topic 136,Red Blend
+Topic 136,Riesling
+Topic 136,Pinot Gris
+Topic 136,Pinot Noir
+Topic 136,Red Blend
+Topic 136,Muscat
+Topic 136,Pinot Grigio
+Topic 136,Pinot Noir
+Topic 136,Gewürztraminer
+Topic 136,Alsace white blend
+Topic 137,Chardonnay
+Topic 137,Cabernet Sauvignon-Merlot
+Topic 137,Bordeaux-style Red Blend
+Topic 137,Rosé
+Topic 137,Gamay
+Topic 137,Port
+Topic 137,Portuguese White
+Topic 137,Tempranillo Blend
+Topic 137,Malbec
+Topic 137,Tempranillo
+Topic 137,Malbec
+Topic 137,Verdejo
+Topic 137,Bordeaux-style Red Blend
+Topic 137,Malbec
+Topic 137,Chardonnay
+Topic 137,Bordeaux-style Red Blend
+Topic 137,Pinot Noir
+Topic 137,Sauvignon Blanc
+Topic 137,Zinfandel
+Topic 137,Sauvignon Blanc
+Topic 137,Red Blend
+Topic 137,Riesling
+Topic 137,Sauvignon Blanc
+Topic 137,Cabernet Sauvignon
+Topic 137,Merlot
+Topic 138,Rosé
+Topic 138,Tempranillo
+Topic 138,Red Blend
+Topic 138,Cabernet Sauvignon
+Topic 138,Chardonnay
+Topic 138,Petite Sirah
+Topic 138,Cabernet Sauvignon
+Topic 138,Zinfandel
+Topic 138,Portuguese Red
+Topic 138,Red Blend
+Topic 138,Zinfandel
+Topic 138,Montepulciano
+Topic 138,Cabernet Sauvignon
+Topic 138,Gamay
+Topic 138,Sangiovese
+Topic 138,Zinfandel
+Topic 138,Zinfandel
+Topic 138,Sangiovese Grosso
+Topic 138,Verdejo
+Topic 138,Chardonnay
+Topic 138,Bordeaux-style Red Blend
+Topic 138,Merlot
+Topic 138,Grenache-Syrah
+Topic 138,Cabernet Sauvignon
+Topic 138,Sauvignon Blanc
+Topic 139,Melon
+Topic 139,Pinot Noir
+Topic 139,Pinot Noir
+Topic 139,G-S-M
+Topic 139,Merlot
+Topic 139,Sauvignon Blanc
+Topic 139,Merlot
+Topic 139,Pinot Noir
+Topic 139,Pinot Noir
+Topic 139,Zinfandel
+Topic 139,Pinot Noir
+Topic 139,Sauvignon Blanc
+Topic 139,Merlot
+Topic 139,Chardonnay
+Topic 139,Merlot
+Topic 139,Chardonnay
+Topic 139,Tempranillo
+Topic 139,Pinot Noir
+Topic 139,Merlot
+Topic 139,Sauvignon Blanc
+Topic 139,Pinot Grigio
+Topic 139,Red Blend
+Topic 139,Pinot Noir
+Topic 139,Port
+Topic 139,Malbec
+Topic 140,Chardonnay
+Topic 140,Chardonnay
+Topic 140,Rosé
+Topic 140,Bordeaux-style Red Blend
+Topic 140,Cabernet Sauvignon-Merlot
+Topic 140,Red Blend
+Topic 140,Portuguese Red
+Topic 140,Pinot Noir
+Topic 140,Cabernet Sauvignon
+Topic 140,Garnacha
+Topic 140,Merlot
+Topic 140,Pinot Grigio
+Topic 140,Portuguese White
+Topic 140,Norton
+Topic 140,Merlot
+Topic 140,Riesling
+Topic 140,Bordeaux-style White Blend
+Topic 140,Pinot Noir
+Topic 140,Sauvignon Blanc
+Topic 140,Chardonnay
+Topic 140,Malbec
+Topic 140,Tempranillo
+Topic 140,Portuguese White
+Topic 140,Portuguese White
+Topic 140,Cabernet Sauvignon-Merlot
+Topic 141,Pinot Noir
+Topic 141,G-S-M
+Topic 141,Pinot Noir
+Topic 141,Pinot Noir
+Topic 141,Sauvignon Blanc
+Topic 141,Zinfandel
+Topic 141,Zinfandel
+Topic 141,Tempranillo
+Topic 141,Cabernet Sauvignon
+Topic 141,Merlot
+Topic 141,Merlot
+Topic 141,Merlot
+Topic 141,Pinot Noir
+Topic 141,Cabernet Franc
+Topic 141,Zinfandel
+Topic 141,Cabernet Sauvignon
+Topic 141,Pinot Noir
+Topic 141,Chardonnay
+Topic 141,Sangiovese
+Topic 141,Rosé
+Topic 141,Pinot Noir
+Topic 141,Merlot
+Topic 141,Syrah
+Topic 141,Cabernet Sauvignon
+Topic 141,Viognier
+Topic 142,Portuguese Red
+Topic 142,Red Blend
+Topic 142,Viognier
+Topic 142,White Blend
+Topic 142,Merlot
+Topic 142,Red Blend
+Topic 142,Pinot Noir
+Topic 142,Viognier
+Topic 142,Zinfandel
+Topic 142,Red Blend
+Topic 142,Pinot Gris
+Topic 142,Red Blend
+Topic 142,"Corvina, Rondinella, Molinara"
+Topic 142,Bordeaux-style White Blend
+Topic 142,Sangiovese
+Topic 142,Merlot
+Topic 142,Sauvignon Blanc
+Topic 142,Chardonnay
+Topic 142,Pinot Noir
+Topic 142,Malbec
+Topic 142,Riesling
+Topic 142,Cabernet Sauvignon
+Topic 142,Cabernet Sauvignon
+Topic 142,"Corvina, Rondinella, Molinara"
+Topic 142,Montepulciano
+Topic 143,Cabernet Sauvignon
+Topic 143,Rosé
+Topic 143,Zinfandel
+Topic 143,Sangiovese
+Topic 143,Cabernet Sauvignon
+Topic 143,Syrah
+Topic 143,Cabernet Sauvignon
+Topic 143,Tempranillo
+Topic 143,Pinotage
+Topic 143,Red Blend
+Topic 143,Negroamaro
+Topic 143,Red Blend
+Topic 143,Pinot Noir
+Topic 143,Grenache
+Topic 143,Red Blend
+Topic 143,Malbec
+Topic 143,Syrah
+Topic 143,Cabernet Sauvignon
+Topic 143,Cabernet Sauvignon
+Topic 143,Viognier
+Topic 143,Cabernet Sauvignon
+Topic 143,Garnacha
+Topic 143,Chardonnay
+Topic 143,Sangiovese
+Topic 143,St. Laurent
+Topic 144,"Corvina, Rondinella, Molinara"
+Topic 144,Red Blend
+Topic 144,Groppello
+Topic 144,Bordeaux-style Red Blend
+Topic 144,Sangiovese Grosso
+Topic 144,Gamay
+Topic 144,Gamay
+Topic 144,Portuguese Red
+Topic 144,Red Blend
+Topic 144,Chardonnay
+Topic 144,Sangiovese
+Topic 144,Rosé
+Topic 144,Syrah
+Topic 144,Bordeaux-style White Blend
+Topic 144,White Blend
+Topic 144,Portuguese White
+Topic 144,Red Blend
+Topic 144,Merlot
+Topic 144,Red Blend
+Topic 144,Cabernet Sauvignon
+Topic 144,Rosé
+Topic 144,Gamay
+Topic 144,Chardonnay
+Topic 144,White Blend
+Topic 144,Rosé
+Topic 145,Pinot Noir
+Topic 145,Chardonnay
+Topic 145,Chardonnay
+Topic 145,Chardonnay
+Topic 145,Sauvignon Blanc
+Topic 145,Grenache-Shiraz
+Topic 145,Cabernet Sauvignon
+Topic 145,Merlot
+Topic 145,Riesling
+Topic 145,Chardonnay
+Topic 145,Sauvignon Blanc
+Topic 145,Riesling
+Topic 145,Barbera
+Topic 145,Sauvignon Blanc
+Topic 145,Riesling
+Topic 145,Chardonnay
+Topic 145,Pinot Noir
+Topic 145,Bordeaux-style Red Blend
+Topic 145,Riesling
+Topic 145,Cabernet Sauvignon
+Topic 145,Pinot Noir
+Topic 145,Nero d'Avola
+Topic 145,Chardonnay
+Topic 145,Merlot
+Topic 145,Chardonnay
+Topic 146,Muscat
+Topic 146,Moscato Giallo
+Topic 146,Carricante
+Topic 146,Riesling
+Topic 146,Pinot Bianco
+Topic 146,Chardonnay
+Topic 146,Nerello Mascalese
+Topic 146,Riesling
+Topic 146,Riesling
+Topic 146,White Blend
+Topic 146,Garganega
+Topic 146,Grillo
+Topic 146,Sangiovese Grosso
+Topic 146,Riesling
+Topic 146,Chardonnay
+Topic 146,Viognier
+Topic 146,Moscato
+Topic 146,Riesling
+Topic 146,White Blend
+Topic 146,Garganega
+Topic 146,Riesling
+Topic 146,Riesling
+Topic 146,White Blend
+Topic 146,Lambrusco
+Topic 146,Sauvignon Blanc
+Topic 147,Rosé
+Topic 147,Sauvignon Blanc
+Topic 147,Merlot
+Topic 147,Garganega
+Topic 147,Chardonnay
+Topic 147,Bordeaux-style Red Blend
+Topic 147,Rosé
+Topic 147,Pinot Grigio
+Topic 147,Red Blend
+Topic 147,Nero d'Avola
+Topic 147,Cabernet Sauvignon
+Topic 147,Rosé
+Topic 147,Chardonnay
+Topic 147,Portuguese White
+Topic 147,Chardonnay
+Topic 147,Gamay
+Topic 147,Falanghina
+Topic 147,"Corvina, Rondinella, Molinara"
+Topic 147,Pinot Noir
+Topic 147,Gamay
+Topic 147,Chenin Blanc
+Topic 147,Rosé
+Topic 147,Sauvignon Blanc
+Topic 147,Cabernet Sauvignon
+Topic 147,Riesling
+Topic 148,Riesling
+Topic 148,Garnacha-Syrah
+Topic 148,Sparkling Blend
+Topic 148,Sauvignon Blanc
+Topic 148,Champagne Blend
+Topic 148,Merlot
+Topic 148,Sangiovese Grosso
+Topic 148,Riesling
+Topic 148,Pinot Noir
+Topic 148,Sémillon
+Topic 148,Garnacha
+Topic 148,Pinot Noir
+Topic 148,Chardonnay
+Topic 148,Pinot Grigio
+Topic 148,Cabernet Sauvignon
+Topic 148,Sauvignon Blanc
+Topic 148,Syrah
+Topic 148,Grenache
+Topic 148,Sparkling Blend
+Topic 148,Cabernet Sauvignon
+Topic 148,Cabernet Sauvignon
+Topic 148,Coda di Volpe
+Topic 148,Moscato
+Topic 148,Zinfandel
+Topic 148,Grillo
+Topic 149,Rosé
+Topic 149,Malbec
+Topic 149,Champagne Blend
+Topic 149,Riesling
+Topic 149,Riesling
+Topic 149,Red Blend
+Topic 149,Chardonnay
+Topic 149,Pinot Noir
+Topic 149,Cabernet Sauvignon
+Topic 149,Zweigelt
+Topic 149,Merlot
+Topic 149,Dolcetto
+Topic 149,Cortese
+Topic 149,Gamay
+Topic 149,Portuguese Red
+Topic 149,Cabernet Sauvignon
+Topic 149,Pinot Noir
+Topic 149,Rosé
+Topic 149,Cabernet Sauvignon
+Topic 149,Falanghina
+Topic 149,Syrah
+Topic 149,Riesling
+Topic 149,Chardonnay
+Topic 149,Merlot
+Topic 149,Chardonnay
+Topic 150,Cabernet Sauvignon
+Topic 150,Pinot Noir
+Topic 150,Syrah
+Topic 150,Zinfandel
+Topic 150,Tempranillo Blend
+Topic 150,Pinotage
+Topic 150,Sangiovese
+Topic 150,Rhône-style Red Blend
+Topic 150,"Corvina, Rondinella, Molinara"
+Topic 150,Pinot Noir
+Topic 150,Sangiovese
+Topic 150,Chardonnay
+Topic 150,Merlot
+Topic 150,Pinot Noir
+Topic 150,Pinot Noir
+Topic 150,Red Blend
+Topic 150,Zinfandel
+Topic 150,Pinot Noir
+Topic 150,Red Blend
+Topic 150,Syrah
+Topic 150,Red Blend
+Topic 150,Red Blend
+Topic 150,Merlot
+Topic 150,Shiraz-Tempranillo
+Topic 150,Red Blend
+Topic 151,Red Blend
+Topic 151,Bordeaux-style Red Blend
+Topic 151,Pinot Noir
+Topic 151,Riesling
+Topic 151,Cabernet Sauvignon
+Topic 151,Bordeaux-style Red Blend
+Topic 151,Pinot Gris
+Topic 151,Bordeaux-style Red Blend
+Topic 151,Riesling
+Topic 151,Riesling
+Topic 151,Chardonnay
+Topic 151,Bordeaux-style Red Blend
+Topic 151,Chardonnay
+Topic 151,Pinot Noir
+Topic 151,Furmint
+Topic 151,Gelber Muskateller
+Topic 151,Sauvignon Blanc
+Topic 151,Petite Sirah
+Topic 151,Chardonnay
+Topic 151,Pinot Grigio
+Topic 151,Syrah
+Topic 151,Chardonnay
+Topic 151,Champagne Blend
+Topic 151,Syrah
+Topic 151,Syrah-Cabernet
+Topic 152,Pinot Noir
+Topic 152,Zinfandel
+Topic 152,Chardonnay
+Topic 152,White Blend
+Topic 152,Chardonnay
+Topic 152,Chardonnay
+Topic 152,Merlot
+Topic 152,Chardonnay
+Topic 152,Chardonnay
+Topic 152,Bordeaux-style Red Blend
+Topic 152,Shiraz
+Topic 152,Syrah
+Topic 152,Syrah-Cabernet
+Topic 152,White Blend
+Topic 152,Tempranillo
+Topic 152,Chardonnay
+Topic 152,Chardonnay
+Topic 152,Grillo
+Topic 152,Shiraz
+Topic 152,Chardonnay
+Topic 152,Chardonnay
+Topic 152,Muscat
+Topic 152,Pinot Noir
+Topic 152,Red Blend
+Topic 152,Chardonnay
+Topic 153,White Blend
+Topic 153,Bordeaux-style White Blend
+Topic 153,Red Blend
+Topic 153,Cortese
+Topic 153,Syrah
+Topic 153,Chardonnay
+Topic 153,White Blend
+Topic 153,Viognier
+Topic 153,Cabernet Sauvignon
+Topic 153,Chardonnay
+Topic 153,Chardonnay
+Topic 153,Cabernet Sauvignon
+Topic 153,Cabernet Sauvignon
+Topic 153,Chardonnay
+Topic 153,Viognier
+Topic 153,Pinot Noir
+Topic 153,Chardonnay
+Topic 153,Riesling
+Topic 153,Sauvignon Blanc
+Topic 153,Chardonnay
+Topic 153,Syrah
+Topic 153,Chardonnay
+Topic 153,Bordeaux-style Red Blend
+Topic 153,Chardonnay
+Topic 153,Chardonnay
+Topic 154,Portuguese Red
+Topic 154,Portuguese Red
+Topic 154,Viognier
+Topic 154,Merlot
+Topic 154,Merlot
+Topic 154,Sangiovese
+Topic 154,Red Blend
+Topic 154,Red Blend
+Topic 154,Merlot
+Topic 154,Shiraz
+Topic 154,Pinot Noir
+Topic 154,Meritage
+Topic 154,Sauvignon Blanc
+Topic 154,Cabernet Sauvignon
+Topic 154,Sauvignon Blanc
+Topic 154,Red Blend
+Topic 154,Pinot Noir
+Topic 154,Pinot Noir
+Topic 154,Nebbiolo
+Topic 154,Red Blend
+Topic 154,Pinot Noir
+Topic 154,Pinot Noir
+Topic 154,Rhône-style Red Blend
+Topic 154,Syrah
+Topic 154,Pinot Gris
+Topic 155,Viognier
+Topic 155,Portuguese Red
+Topic 155,Portuguese Red
+Topic 155,Port
+Topic 155,Chardonnay
+Topic 155,Grüner Veltliner
+Topic 155,Portuguese Red
+Topic 155,Portuguese Red
+Topic 155,Portuguese Red
+Topic 155,Syrah
+Topic 155,Red Blend
+Topic 155,Chardonnay
+Topic 155,Portuguese Red
+Topic 155,Pinot Noir
+Topic 155,Pinot Noir
+Topic 155,Grüner Veltliner
+Topic 155,Pinot Noir
+Topic 155,Cabernet Sauvignon
+Topic 155,Pinot Noir
+Topic 155,Gamay
+Topic 155,Merlot
+Topic 155,Rosé
+Topic 155,Malbec
+Topic 155,Nebbiolo
+Topic 155,Cabernet Sauvignon
+Topic 156,Chardonnay
+Topic 156,Cabernet Sauvignon
+Topic 156,Pinot Noir
+Topic 156,Chardonnay
+Topic 156,Cinsault
+Topic 156,Chardonnay
+Topic 156,Rosé
+Topic 156,Cabernet Sauvignon
+Topic 156,Portuguese Red
+Topic 156,Rosé
+Topic 156,Pinot Grigio
+Topic 156,Bordeaux-style Red Blend
+Topic 156,Pinot Noir
+Topic 156,Pinot Noir
+Topic 156,Pinot Noir
+Topic 156,Rosé
+Topic 156,Champagne Blend
+Topic 156,Zinfandel
+Topic 156,Grillo
+Topic 156,Portuguese Red
+Topic 156,Malbec
+Topic 156,Pinot Noir
+Topic 156,Pinot Noir
+Topic 156,Port
+Topic 156,Pinot Noir
+Topic 157,White Blend
+Topic 157,Bordeaux-style Red Blend
+Topic 157,Rosé
+Topic 157,Portuguese Red
+Topic 157,St. Laurent
+Topic 157,Tannat-Cabernet
+Topic 157,Primitivo
+Topic 157,White Blend
+Topic 157,Grüner Veltliner
+Topic 157,Pinot Noir
+Topic 157,Cabernet Sauvignon
+Topic 157,White Blend
+Topic 157,Zinfandel
+Topic 157,Dolcetto
+Topic 157,Malbec
+Topic 157,Welschriesling
+Topic 157,Pinot Noir
+Topic 157,Viognier
+Topic 157,Sangiovese
+Topic 157,Sparkling Blend
+Topic 157,Portuguese White
+Topic 157,Bordeaux-style White Blend
+Topic 157,Aglianico
+Topic 157,Sangiovese
+Topic 157,Bordeaux-style Red Blend
+Topic 158,Rosé
+Topic 158,Syrah
+Topic 158,Grenache
+Topic 158,Petite Sirah
+Topic 158,Syrah
+Topic 158,Rosé
+Topic 158,Gewürztraminer
+Topic 158,Sherry
+Topic 158,Chardonnay
+Topic 158,Riesling
+Topic 158,Chardonnay
+Topic 158,Chardonnay
+Topic 158,Portuguese Red
+Topic 158,Rosé
+Topic 158,Rosé
+Topic 158,White Blend
+Topic 158,Port
+Topic 158,Cabernet Sauvignon
+Topic 158,Verduzzo
+Topic 158,Chardonnay
+Topic 158,Grolleau
+Topic 158,Cabernet Sauvignon
+Topic 158,Chardonnay
+Topic 158,Port
+Topic 158,Rosé
+Topic 159,Chardonnay
+Topic 159,Chardonnay
+Topic 159,Melon
+Topic 159,Grüner Veltliner
+Topic 159,Bordeaux-style Red Blend
+Topic 159,Portuguese White
+Topic 159,Portuguese Red
+Topic 159,Bordeaux-style Red Blend
+Topic 159,Sauvignon Blanc
+Topic 159,Bordeaux-style White Blend
+Topic 159,Chardonnay
+Topic 159,Riesling
+Topic 159,Chardonnay
+Topic 159,Portuguese Red
+Topic 159,Pinot Noir
+Topic 159,Chardonnay
+Topic 159,Touriga Nacional-Cabernet Sauvignon
+Topic 159,Chardonnay
+Topic 159,Touriga Nacional Blend
+Topic 159,Bordeaux-style Red Blend
+Topic 159,Portuguese Red
+Topic 159,Red Blend
+Topic 159,Cabernet Sauvignon
+Topic 159,Pinot Noir
+Topic 159,Chardonnay
+Topic 160,Pinot Noir
+Topic 160,Cabernet Sauvignon
+Topic 160,Pinot Noir
+Topic 160,Grenache
+Topic 160,Pinot Noir
+Topic 160,Nebbiolo
+Topic 160,Pinot Noir
+Topic 160,Malbec
+Topic 160,Pinot Noir
+Topic 160,Grenache
+Topic 160,Pinot Noir
+Topic 160,Nebbiolo
+Topic 160,Merlot
+Topic 160,Riesling
+Topic 160,Red Blend
+Topic 160,Red Blend
+Topic 160,Pinot Noir
+Topic 160,Pinot Noir
+Topic 160,Rhône-style Red Blend
+Topic 160,Gewürztraminer
+Topic 160,Cabernet Sauvignon
+Topic 160,Nero d'Avola
+Topic 160,Red Blend
+Topic 160,Tempranillo Blend
+Topic 160,Riesling
+Topic 161,Bordeaux-style Red Blend
+Topic 161,Tempranillo Blend
+Topic 161,Bordeaux-style Red Blend
+Topic 161,Bordeaux-style Red Blend
+Topic 161,Syrah-Cabernet
+Topic 161,Pinot Grigio
+Topic 161,Pinot Noir
+Topic 161,Gewürztraminer
+Topic 161,Sauvignon Blanc
+Topic 161,Chardonnay
+Topic 161,Red Blend
+Topic 161,Pinot Noir
+Topic 161,Gewürztraminer
+Topic 161,Red Blend
+Topic 161,Bordeaux-style Red Blend
+Topic 161,Rhône-style Red Blend
+Topic 161,Chardonnay
+Topic 161,Pinot Noir
+Topic 161,Syrah
+Topic 161,White Blend
+Topic 161,Sauvignon Blanc
+Topic 161,Garnacha
+Topic 161,Chardonnay
+Topic 161,Pinot Noir
+Topic 161,Bordeaux-style Red Blend
+Topic 162,Merlot
+Topic 162,Bordeaux-style Red Blend
+Topic 162,Riesling
+Topic 162,Grüner Veltliner
+Topic 162,Trebbiano
+Topic 162,Syrah
+Topic 162,Merlot
+Topic 162,Tempranillo Blend
+Topic 162,Cabernet Franc
+Topic 162,Tempranillo
+Topic 162,Cabernet Sauvignon
+Topic 162,Red Blend
+Topic 162,Syrah
+Topic 162,Garganega
+Topic 162,Fiano
+Topic 162,Tempranillo
+Topic 162,Malbec
+Topic 162,Merlot
+Topic 162,Pinot Noir
+Topic 162,Zinfandel
+Topic 162,Chardonnay
+Topic 162,Chardonnay
+Topic 162,Pinot Noir
+Topic 162,Pinot Noir
+Topic 162,Baga
+Topic 163,Zinfandel
+Topic 163,St. Laurent
+Topic 163,Pinot Noir
+Topic 163,Pinot Noir
+Topic 163,Primitivo
+Topic 163,Rosé
+Topic 163,Sauvignon Blanc
+Topic 163,White Blend
+Topic 163,Portuguese Red
+Topic 163,Champagne Blend
+Topic 163,Arinto
+Topic 163,Cabernet Sauvignon
+Topic 163,Pinot Noir
+Topic 163,Chardonnay
+Topic 163,Cabernet Sauvignon
+Topic 163,Pinot Noir
+Topic 163,Chardonnay
+Topic 163,Pinot Noir
+Topic 163,Riesling
+Topic 163,Pinot Grigio
+Topic 163,Bordeaux-style Red Blend
+Topic 163,Syrah
+Topic 163,Zinfandel
+Topic 163,Zinfandel
+Topic 163,Pinot Noir
+Topic 164,Red Blend
+Topic 164,Zinfandel
+Topic 164,Sauvignon Blanc
+Topic 164,Cabernet Sauvignon
+Topic 164,Red Blend
+Topic 164,Chardonnay
+Topic 164,Red Blend
+Topic 164,Syrah
+Topic 164,Pinot Noir
+Topic 164,Petite Sirah
+Topic 164,Merlot
+Topic 164,Petite Sirah
+Topic 164,Pinot Noir
+Topic 164,Chardonnay
+Topic 164,Pinot Noir
+Topic 164,Cabernet Sauvignon
+Topic 164,Bordeaux-style Red Blend
+Topic 164,Chardonnay
+Topic 164,Portuguese Red
+Topic 164,Pinot Noir
+Topic 164,Sangiovese
+Topic 164,Torrontés
+Topic 164,Chenin Blanc
+Topic 164,Red Blend
+Topic 164,Cabernet Sauvignon
+Topic 165,Syrah
+Topic 165,Cabernet Sauvignon
+Topic 165,Chardonnay
+Topic 165,Syrah
+Topic 165,Pinot Noir
+Topic 165,Merlot
+Topic 165,Cabernet Sauvignon
+Topic 165,Chardonnay
+Topic 165,Red Blend
+Topic 165,Chardonnay
+Topic 165,Chardonnay
+Topic 165,Cabernet Sauvignon
+Topic 165,Grenache
+Topic 165,Cabernet Sauvignon
+Topic 165,Rhône-style Red Blend
+Topic 165,Chardonnay
+Topic 165,Arneis
+Topic 165,Sauvignon Blanc
+Topic 165,Chardonnay
+Topic 165,Cabernet Sauvignon
+Topic 165,Roussanne
+Topic 165,Rhône-style Red Blend
+Topic 165,Zinfandel
+Topic 165,Cabernet Franc
+Topic 165,Pinot Noir
+Topic 166,Pinot Noir
+Topic 166,Pinot Noir
+Topic 166,Syrah
+Topic 166,Chardonnay
+Topic 166,Cabernet Sauvignon
+Topic 166,Syrah
+Topic 166,Merlot
+Topic 166,Sparkling Blend
+Topic 166,Pinot Noir
+Topic 166,Cabernet Sauvignon
+Topic 166,Cabernet Sauvignon
+Topic 166,Bordeaux-style Red Blend
+Topic 166,Zinfandel
+Topic 166,Cabernet Sauvignon
+Topic 166,Müller-Thurgau
+Topic 166,Rosé
+Topic 166,Cabernet Sauvignon
+Topic 166,Pinot Noir
+Topic 166,Syrah
+Topic 166,Chardonnay
+Topic 166,Bordeaux-style Red Blend
+Topic 166,Zinfandel
+Topic 166,Zinfandel
+Topic 166,Tannat
+Topic 166,Chardonnay
+Topic 167,Sangiovese
+Topic 167,Red Blend
+Topic 167,Zinfandel
+Topic 167,Pinot Noir
+Topic 167,Cabernet Sauvignon
+Topic 167,Merlot
+Topic 167,Petite Sirah
+Topic 167,White Blend
+Topic 167,Malbec
+Topic 167,Portuguese Red
+Topic 167,Merlot
+Topic 167,Merlot
+Topic 167,Pinot Noir
+Topic 167,Cabernet Sauvignon
+Topic 167,Syrah
+Topic 167,Cabernet Sauvignon
+Topic 167,Red Blend
+Topic 167,Bordeaux-style Red Blend
+Topic 167,Cabernet Sauvignon
+Topic 167,Red Blend
+Topic 167,Merlot
+Topic 167,Malbec
+Topic 167,Red Blend
+Topic 167,Pinot Noir
+Topic 167,Merlot
+Topic 168,Cabernet Franc
+Topic 168,Verdejo
+Topic 168,Sauvignon Blanc
+Topic 168,Grillo
+Topic 168,Grüner Veltliner
+Topic 168,Pinot Noir
+Topic 168,Sangiovese
+Topic 168,Tempranillo
+Topic 168,Chardonnay
+Topic 168,Pinot Noir
+Topic 168,Tempranillo Blend
+Topic 168,Malbec
+Topic 168,Syrah
+Topic 168,Syrah
+Topic 168,Cabernet Sauvignon
+Topic 168,Cabernet Sauvignon
+Topic 168,Merlot
+Topic 168,Malbec
+Topic 168,Merlot
+Topic 168,Primitivo
+Topic 168,Primitivo
+Topic 168,Syrah
+Topic 168,Albariño
+Topic 168,Nero d'Avola
+Topic 168,Pinot Blanc
+Topic 169,Riesling
+Topic 169,Bordeaux-style Red Blend
+Topic 169,Cabernet Sauvignon
+Topic 169,White Blend
+Topic 169,Grillo
+Topic 169,Cabernet Sauvignon
+Topic 169,Pinot Noir
+Topic 169,Gewürztraminer
+Topic 169,Red Blend
+Topic 169,Zinfandel
+Topic 169,Gamay
+Topic 169,Riesling
+Topic 169,Pinot Noir
+Topic 169,Cabernet Blend
+Topic 169,Friulano
+Topic 169,Pinot Noir
+Topic 169,Nebbiolo
+Topic 169,Cabernet Sauvignon
+Topic 169,Merlot
+Topic 169,Grignolino
+Topic 169,Fer Servadou
+Topic 169,Riesling
+Topic 169,Sauvignon Blanc
+Topic 169,Bordeaux-style Red Blend
+Topic 169,Portuguese Red
+Topic 170,Pinot Noir
+Topic 170,Pinot Noir
+Topic 170,Cabernet Sauvignon
+Topic 170,Red Blend
+Topic 170,"Corvina, Rondinella, Molinara"
+Topic 170,Chardonnay
+Topic 170,Verdicchio
+Topic 170,Chardonnay
+Topic 170,Vidal Blanc
+Topic 170,Chardonnay
+Topic 170,"Corvina, Rondinella, Molinara"
+Topic 170,Petit Verdot
+Topic 170,Pinot Noir
+Topic 170,Torrontés
+Topic 170,Chardonnay
+Topic 170,Chardonnay
+Topic 170,Pinot Noir
+Topic 170,Syrah
+Topic 170,Bordeaux-style Red Blend
+Topic 170,Sangiovese Grosso
+Topic 170,Cabernet Sauvignon
+Topic 170,Cabernet Sauvignon
+Topic 170,Tempranillo
+Topic 170,Syrah
+Topic 170,Petit Verdot
+Topic 171,Port
+Topic 171,Cabernet Franc
+Topic 171,Grüner Veltliner
+Topic 171,Red Blend
+Topic 171,Tempranillo
+Topic 171,Red Blend
+Topic 171,Cabernet Sauvignon
+Topic 171,Tinta de Toro
+Topic 171,Grüner Veltliner
+Topic 171,Riesling
+Topic 171,Chardonnay
+Topic 171,Grüner Veltliner
+Topic 171,Chardonnay
+Topic 171,Tempranillo
+Topic 171,Cabernet Sauvignon
+Topic 171,Cabernet Sauvignon
+Topic 171,Mencía
+Topic 171,Cabernet Franc
+Topic 171,Pinot Noir
+Topic 171,Cabernet Sauvignon
+Topic 171,Cabernet Franc
+Topic 171,Red Blend
+Topic 171,Sauvignon Blanc
+Topic 171,Chardonnay
+Topic 171,Riesling
+Topic 172,Cabernet Franc
+Topic 172,Rhône-style Red Blend
+Topic 172,Zinfandel
+Topic 172,Syrah
+Topic 172,Pinot Noir
+Topic 172,Pinot Noir
+Topic 172,Grenache
+Topic 172,Syrah
+Topic 172,Cabernet Sauvignon-Merlot
+Topic 172,Syrah
+Topic 172,Albana
+Topic 172,Sangiovese
+Topic 172,Pinot Noir
+Topic 172,Syrah
+Topic 172,Pinot Noir
+Topic 172,Syrah
+Topic 172,Pinot Noir
+Topic 172,Rosé
+Topic 172,Shiraz
+Topic 172,Syrah
+Topic 172,Chardonnay
+Topic 172,Cabernet Sauvignon
+Topic 172,Pinot Noir
+Topic 172,Red Blend
+Topic 172,Cabernet Sauvignon
+Topic 173,Chardonnay
+Topic 173,Cabernet Sauvignon
+Topic 173,Sauvignon Blanc
+Topic 173,Petite Sirah
+Topic 173,Bordeaux-style Red Blend
+Topic 173,Tempranillo
+Topic 173,Cabernet Sauvignon
+Topic 173,Merlot
+Topic 173,Syrah
+Topic 173,Sauvignon Blanc
+Topic 173,Merlot
+Topic 173,Sauvignon Blanc
+Topic 173,Pinot Noir
+Topic 173,Merlot
+Topic 173,Pinot Blanc
+Topic 173,Syrah
+Topic 173,Petite Sirah
+Topic 173,Chardonnay
+Topic 173,Sangiovese
+Topic 173,Merlot
+Topic 173,Cabernet Sauvignon
+Topic 173,Malbec
+Topic 173,Zinfandel
+Topic 173,Nebbiolo
+Topic 173,Tempranillo
+Topic 174,Cabernet Sauvignon
+Topic 174,Tempranillo
+Topic 174,Zinfandel
+Topic 174,Chardonnay
+Topic 174,Carmenère
+Topic 174,Chardonnay
+Topic 174,Cabernet Sauvignon
+Topic 174,Merlot
+Topic 174,Zinfandel
+Topic 174,Garnacha
+Topic 174,Red Blend
+Topic 174,Bonarda
+Topic 174,Chardonnay
+Topic 174,Chardonnay
+Topic 174,Chardonnay
+Topic 174,Merlot
+Topic 174,Pinot Noir
+Topic 174,Pinot Noir
+Topic 174,Pinot Noir
+Topic 174,Chardonnay
+Topic 174,Syrah
+Topic 174,Chardonnay
+Topic 174,Chardonnay
+Topic 174,Chardonnay
+Topic 174,Garnacha
+Topic 175,Arneis
+Topic 175,Merlot
+Topic 175,Cortese
+Topic 175,Merlot
+Topic 175,Bordeaux-style Red Blend
+Topic 175,Chardonnay
+Topic 175,Rhône-style Red Blend
+Topic 175,Arneis
+Topic 175,Muscat Blanc
+Topic 175,Cortese
+Topic 175,Merlot
+Topic 175,Bordeaux-style Red Blend
+Topic 175,Cabernet Sauvignon
+Topic 175,Cabernet Sauvignon
+Topic 175,Chardonnay
+Topic 175,Sauvignon Blanc
+Topic 175,Pinot Grigio
+Topic 175,Merlot
+Topic 175,Cabernet Sauvignon-Syrah
+Topic 175,Merlot
+Topic 175,Pinot Noir
+Topic 175,Marsanne
+Topic 175,Chardonnay
+Topic 175,Montepulciano
+Topic 175,Cabernet Franc
+Topic 176,Cabernet Sauvignon
+Topic 176,Syrah
+Topic 176,Pinot Gris
+Topic 176,Portuguese White
+Topic 176,Pinot Grigio
+Topic 176,Petit Verdot
+Topic 176,Cabernet Sauvignon
+Topic 176,Mourvèdre
+Topic 176,Sparkling Blend
+Topic 176,Cabernet Sauvignon
+Topic 176,Cabernet Sauvignon
+Topic 176,Zinfandel
+Topic 176,Pinot Noir
+Topic 176,Pinot Noir
+Topic 176,Pinot Noir
+Topic 176,Chardonnay
+Topic 176,Arneis
+Topic 176,Champagne Blend
+Topic 176,Chardonnay
+Topic 176,Pinot Noir
+Topic 176,Cabernet Sauvignon
+Topic 176,Sauvignon Blanc
+Topic 176,Sauvignon Blanc
+Topic 176,Bordeaux-style Red Blend
+Topic 176,Chenin Blanc
+Topic 177,Sangiovese
+Topic 177,Tempranillo
+Topic 177,Rosé
+Topic 177,Malbec
+Topic 177,Red Blend
+Topic 177,Barbera
+Topic 177,Pinot Noir
+Topic 177,Pinot Noir
+Topic 177,Zinfandel
+Topic 177,Red Blend
+Topic 177,Syrah
+Topic 177,Cabernet Sauvignon
+Topic 177,Pinot Gris
+Topic 177,Red Blend
+Topic 177,Merlot
+Topic 177,Sangiovese
+Topic 177,Syrah
+Topic 177,Syrah
+Topic 177,Merlot
+Topic 177,Syrah
+Topic 177,Zinfandel
+Topic 177,Barbera
+Topic 177,Champagne Blend
+Topic 177,Red Blend
+Topic 177,Pinot Noir
+Topic 178,Portuguese Red
+Topic 178,Sangiovese
+Topic 178,Petit Verdot
+Topic 178,Grenache
+Topic 178,Pinot Noir
+Topic 178,Sauvignon Blanc
+Topic 178,Cabernet Sauvignon
+Topic 178,Malbec
+Topic 178,Merlot
+Topic 178,Tempranillo
+Topic 178,Red Blend
+Topic 178,Syrah
+Topic 178,Zinfandel
+Topic 178,Merlot
+Topic 178,Malbec
+Topic 178,Red Blend
+Topic 178,Pinot Noir
+Topic 178,Red Blend
+Topic 178,Merlot
+Topic 178,Malbec
+Topic 178,Bordeaux-style Red Blend
+Topic 178,Cabernet Sauvignon
+Topic 178,Carmenère
+Topic 178,Rosé
+Topic 178,Merlot
+Topic 179,Cabernet Sauvignon
+Topic 179,Colombard-Sauvignon Blanc
+Topic 179,Cabernet Sauvignon
+Topic 179,Zinfandel
+Topic 179,Merlot
+Topic 179,Syrah
+Topic 179,Bordeaux-style Red Blend
+Topic 179,Merlot
+Topic 179,Rosé
+Topic 179,Sparkling Blend
+Topic 179,Sparkling Blend
+Topic 179,Pinot Noir
+Topic 179,Red Blend
+Topic 179,Port
+Topic 179,Chardonnay
+Topic 179,Chardonnay
+Topic 179,Red Blend
+Topic 179,Riesling
+Topic 179,Portuguese Red
+Topic 179,Petite Sirah
+Topic 179,Portuguese White
+Topic 179,Vermentino
+Topic 179,White Blend
+Topic 179,Cabernet Sauvignon
+Topic 179,Sparkling Blend
+Topic 180,Grüner Veltliner
+Topic 180,Colombard-Sauvignon Blanc
+Topic 180,Syrah
+Topic 180,Sauvignon Blanc
+Topic 180,Riesling
+Topic 180,Grüner Veltliner
+Topic 180,Riesling
+Topic 180,Grüner Veltliner
+Topic 180,Chenin Blanc
+Topic 180,Rosé
+Topic 180,Riesling
+Topic 180,Pinot Gris
+Topic 180,Sangiovese
+Topic 180,Blaufränkisch
+Topic 180,Chardonnay
+Topic 180,Negrette
+Topic 180,Sauvignon Blanc
+Topic 180,Sauvignon Blanc
+Topic 180,Pinot Blanc
+Topic 180,Chardonnay
+Topic 180,Grüner Veltliner
+Topic 180,Red Blend
+Topic 180,Chardonnay
+Topic 180,Pinot Grigio
+Topic 180,Portuguese White
+Topic 181,Grüner Veltliner
+Topic 181,Chardonnay
+Topic 181,Bordeaux-style Red Blend
+Topic 181,Bordeaux-style Red Blend
+Topic 181,Bordeaux-style Red Blend
+Topic 181,Cabernet Sauvignon
+Topic 181,Red Blend
+Topic 181,Bordeaux-style Red Blend
+Topic 181,Rosé
+Topic 181,Malbec
+Topic 181,Chardonnay
+Topic 181,Bordeaux-style Red Blend
+Topic 181,Syrah
+Topic 181,Malbec
+Topic 181,Cabernet Sauvignon
+Topic 181,Sauvignon Blanc
+Topic 181,Red Blend
+Topic 181,Bordeaux-style Red Blend
+Topic 181,Portuguese Red
+Topic 181,Grüner Veltliner
+Topic 181,Grenache
+Topic 181,Pinot Noir
+Topic 181,Syrah
+Topic 181,Rosé
+Topic 181,Malbec
+Topic 182,Riesling
+Topic 182,Pinot Gris
+Topic 182,Cabernet Sauvignon
+Topic 182,Chardonnay
+Topic 182,Cabernet Sauvignon
+Topic 182,Pinot Noir
+Topic 182,Red Blend
+Topic 182,Champagne Blend
+Topic 182,Pinot Noir
+Topic 182,Tinta de Toro
+Topic 182,Bonarda
+Topic 182,Shiraz-Grenache
+Topic 182,Pinot Noir
+Topic 182,Red Blend
+Topic 182,Chardonnay
+Topic 182,Cabernet Franc
+Topic 182,Cabernet Sauvignon
+Topic 182,Pinot Blanc
+Topic 182,Mencía
+Topic 182,Cabernet Franc
+Topic 182,Shiraz
+Topic 182,Pinot Noir
+Topic 182,Cabernet Sauvignon
+Topic 182,Sémillon
+Topic 182,White Blend
+Topic 183,Cabernet Sauvignon
+Topic 183,Cabernet Sauvignon
+Topic 183,Chardonnay
+Topic 183,Barbera
+Topic 183,Bordeaux-style White Blend
+Topic 183,Riesling
+Topic 183,Chardonnay
+Topic 183,Bordeaux-style Red Blend
+Topic 183,Chardonnay
+Topic 183,Riesling
+Topic 183,Riesling
+Topic 183,Carmenère-Cabernet Sauvignon
+Topic 183,Bordeaux-style Red Blend
+Topic 183,Chardonnay
+Topic 183,Bordeaux-style Red Blend
+Topic 183,Chardonnay
+Topic 183,Grüner Veltliner
+Topic 183,Red Blend
+Topic 183,Pinot Nero
+Topic 183,Chardonnay-Viognier
+Topic 183,Gamay
+Topic 183,Malbec
+Topic 183,Portuguese Red
+Topic 183,Portuguese Red
+Topic 183,Chenin Blanc
+Topic 184,Chardonnay
+Topic 184,Syrah
+Topic 184,Chardonnay
+Topic 184,White Blend
+Topic 184,Riesling
+Topic 184,Portuguese White
+Topic 184,Sangiovese
+Topic 184,Cabernet Sauvignon
+Topic 184,Tempranillo
+Topic 184,Merlot
+Topic 184,Roussanne
+Topic 184,Cabernet Sauvignon
+Topic 184,Viognier
+Topic 184,Sauvignon Blanc
+Topic 184,Tempranillo
+Topic 184,Grüner Veltliner
+Topic 184,Riesling
+Topic 184,Carmenère
+Topic 184,Portuguese Red
+Topic 184,Red Blend
+Topic 184,Pinot Noir
+Topic 184,Pinot Gris
+Topic 184,Riesling
+Topic 184,Zinfandel
+Topic 184,Cabernet Sauvignon
+Topic 185,Malbec
+Topic 185,Syrah
+Topic 185,Sauvignon Blanc
+Topic 185,Rosé
+Topic 185,Chardonnay
+Topic 185,Malbec
+Topic 185,Portuguese White
+Topic 185,Sangiovese
+Topic 185,Red Blend
+Topic 185,Sauvignon Blanc
+Topic 185,Red Blend
+Topic 185,Cabernet Sauvignon
+Topic 185,Zinfandel
+Topic 185,Grillo
+Topic 185,White Blend
+Topic 185,Rhône-style Red Blend
+Topic 185,Cabernet Sauvignon
+Topic 185,Riesling
+Topic 185,Merlot
+Topic 185,Zinfandel
+Topic 185,Cabernet Sauvignon
+Topic 185,Chardonnay
+Topic 185,Sparkling Blend
+Topic 185,Syrah
+Topic 185,Chardonnay
+Topic 186,Grüner Veltliner
+Topic 186,Sauvignon Blanc
+Topic 186,Colombard-Sauvignon Blanc
+Topic 186,Prugnolo Gentile
+Topic 186,Riesling
+Topic 186,Rosé
+Topic 186,Siria
+Topic 186,Riesling
+Topic 186,Lemberger
+Topic 186,White Blend
+Topic 186,Sauvignon Blanc
+Topic 186,Chardonnay
+Topic 186,Glera
+Topic 186,Pinot Noir
+Topic 186,Portuguese White
+Topic 186,Vernaccia
+Topic 186,Ansonica
+Topic 186,Chenin Blanc
+Topic 186,Champagne Blend
+Topic 186,Pinot Blanc
+Topic 186,Portuguese White
+Topic 186,Pinot Noir
+Topic 186,Chardonnay
+Topic 186,Rosé
+Topic 186,Frappato
+Topic 187,Chardonnay
+Topic 187,Pinot Noir
+Topic 187,Riesling
+Topic 187,Syrah
+Topic 187,Pinot Gris
+Topic 187,Portuguese Red
+Topic 187,Pinot Noir
+Topic 187,Bonarda
+Topic 187,Cabernet Sauvignon
+Topic 187,Cabernet Sauvignon
+Topic 187,Pinot Noir
+Topic 187,Pinot Noir
+Topic 187,Chardonnay
+Topic 187,Portuguese Red
+Topic 187,Pinot Blanc
+Topic 187,Cabernet Sauvignon
+Topic 187,Sauvignon Blanc
+Topic 187,White Blend
+Topic 187,Chardonnay
+Topic 187,Pinot Noir
+Topic 187,Zinfandel
+Topic 187,Cabernet Sauvignon
+Topic 187,Riesling
+Topic 187,Sangiovese
+Topic 187,Bordeaux-style Red Blend
+Topic 188,Malbec
+Topic 188,Syrah-Grenache
+Topic 188,Syrah
+Topic 188,Shiraz
+Topic 188,Malbec
+Topic 188,Portuguese Red
+Topic 188,Red Blend
+Topic 188,Rhône-style Red Blend
+Topic 188,Petite Sirah
+Topic 188,Cabernet Sauvignon
+Topic 188,Merlot
+Topic 188,Red Blend
+Topic 188,Garnacha
+Topic 188,Merlot
+Topic 188,Syrah
+Topic 188,Merlot
+Topic 188,Red Blend
+Topic 188,Petite Sirah
+Topic 188,Shiraz
+Topic 188,Malbec
+Topic 188,Zinfandel
+Topic 188,Shiraz
+Topic 188,Rhône-style Red Blend
+Topic 188,Syrah
+Topic 188,Syrah
+Topic 189,Pinot Noir
+Topic 189,Rosé
+Topic 189,Chardonnay
+Topic 189,Grüner Veltliner
+Topic 189,Riesling
+Topic 189,Sauvignon Blanc
+Topic 189,Gewürztraminer
+Topic 189,Chardonnay
+Topic 189,Chardonnay
+Topic 189,Blaufränkisch
+Topic 189,Chardonnay
+Topic 189,Grüner Veltliner
+Topic 189,Grüner Veltliner
+Topic 189,Alicante Bouschet
+Topic 189,Grüner Veltliner
+Topic 189,Grüner Veltliner
+Topic 189,Chardonnay
+Topic 189,Códega do Larinho
+Topic 189,"Corvina, Rondinella, Molinara"
+Topic 189,Pinot Blanc
+Topic 189,Tannat
+Topic 189,Chardonnay
+Topic 189,Malbec
+Topic 189,Bordeaux-style Red Blend
+Topic 189,Pinot Blanc
+Topic 190,Fumé Blanc
+Topic 190,Cabernet Sauvignon
+Topic 190,Chardonnay
+Topic 190,Pinot Noir
+Topic 190,Syrah
+Topic 190,Chardonnay
+Topic 190,Sangiovese Grosso
+Topic 190,Syrah
+Topic 190,Cabernet Sauvignon
+Topic 190,Rosé
+Topic 190,Syrah
+Topic 190,Sauvignon Blanc
+Topic 190,Meritage
+Topic 190,Tempranillo Blend
+Topic 190,Cabernet Sauvignon
+Topic 190,Chardonnay
+Topic 190,Sauvignon Blanc
+Topic 190,Sauvignon Blanc
+Topic 190,Syrah
+Topic 190,Chardonnay
+Topic 190,Grüner Veltliner
+Topic 190,Pinot Noir
+Topic 190,Pinot Grigio
+Topic 190,Syrah
+Topic 190,Port
+Topic 191,Chardonnay
+Topic 191,Friulano
+Topic 191,Fiano
+Topic 191,Chardonnay
+Topic 191,Shiraz
+Topic 191,Bordeaux-style Red Blend
+Topic 191,Red Blend
+Topic 191,Zinfandel
+Topic 191,Grüner Veltliner
+Topic 191,Sangiovese
+Topic 191,Sangiovese
+Topic 191,Barbera
+Topic 191,Syrah
+Topic 191,Grüner Veltliner
+Topic 191,Chardonnay
+Topic 191,Grenache
+Topic 191,Barbera
+Topic 191,Gewürztraminer
+Topic 191,Syrah
+Topic 191,Portuguese Red
+Topic 191,Shiraz
+Topic 191,Sauvignon Blanc
+Topic 191,Red Blend
+Topic 191,Alicante Bouschet
+Topic 191,Syrah
+Topic 192,Sauvignon Blanc
+Topic 192,Viura
+Topic 192,Sauvignon Blanc
+Topic 192,Syrah
+Topic 192,Rosé
+Topic 192,Riesling
+Topic 192,Sauvignon Blanc
+Topic 192,Rosé
+Topic 192,Red Blend
+Topic 192,Bordeaux-style White Blend
+Topic 192,Pinot Noir
+Topic 192,Chardonnay
+Topic 192,Rhône-style Red Blend
+Topic 192,Riesling
+Topic 192,Red Blend
+Topic 192,Friulano
+Topic 192,White Blend
+Topic 192,Bordeaux-style White Blend
+Topic 192,Riesling
+Topic 192,Syrah
+Topic 192,Melon
+Topic 192,Tempranillo
+Topic 192,Greco
+Topic 192,Cabernet Franc
+Topic 192,Malbec
+Topic 193,Pinot Noir
+Topic 193,Lambrusco
+Topic 193,Pinot Noir
+Topic 193,Tempranillo
+Topic 193,Dolcetto
+Topic 193,Sagrantino
+Topic 193,Cabernet Sauvignon
+Topic 193,Sangiovese Grosso
+Topic 193,Sauvignon
+Topic 193,Gewürztraminer
+Topic 193,Lambrusco
+Topic 193,Garnacha
+Topic 193,Shiraz
+Topic 193,White Blend
+Topic 193,Shiraz
+Topic 193,Petit Verdot
+Topic 193,Touriga Nacional
+Topic 193,Red Blend
+Topic 193,Syrah
+Topic 193,Red Blend
+Topic 193,Rhône-style White Blend
+Topic 193,Red Blend
+Topic 193,Pinot Noir
+Topic 193,Bordeaux-style Red Blend
+Topic 193,Red Blend
+Topic 194,Merlot
+Topic 194,Portuguese Red
+Topic 194,Pinot Noir
+Topic 194,Cabernet Sauvignon
+Topic 194,Red Blend
+Topic 194,Red Blend
+Topic 194,Garganega
+Topic 194,Petite Sirah
+Topic 194,Cabernet Sauvignon
+Topic 194,Merlot
+Topic 194,Viognier-Marsanne
+Topic 194,Prieto Picudo
+Topic 194,Cabernet Sauvignon
+Topic 194,Cabernet Sauvignon
+Topic 194,Zinfandel
+Topic 194,Merlot
+Topic 194,Cabernet Sauvignon
+Topic 194,Petite Verdot
+Topic 194,Red Blend
+Topic 194,Syrah
+Topic 194,Baga
+Topic 194,Merlot
+Topic 194,Pinot Noir
+Topic 194,Pinot Noir
+Topic 194,Zinfandel
+Topic 195,Rosé
+Topic 195,Riesling
+Topic 195,Sauvignon Blanc
+Topic 195,Portuguese White
+Topic 195,Shiraz
+Topic 195,Malbec
+Topic 195,Riesling
+Topic 195,Rosé
+Topic 195,Rosé
+Topic 195,Malbec
+Topic 195,Melon
+Topic 195,"Corvina, Rondinella, Molinara"
+Topic 195,Provence white blend
+Topic 195,White Blend
+Topic 195,Red Blend
+Topic 195,Bordeaux-style White Blend
+Topic 195,Champagne Blend
+Topic 195,Viognier
+Topic 195,White Blend
+Topic 195,Pinot Blanc
+Topic 195,Sylvaner
+Topic 195,Red Blend
+Topic 195,Zinfandel
+Topic 195,Red Blend
+Topic 195,Syrah
+Topic 196,Fumé Blanc
+Topic 196,Chardonnay
+Topic 196,Chardonnay
+Topic 196,Rosé
+Topic 196,Petite Sirah
+Topic 196,Cabernet Sauvignon
+Topic 196,Cabernet Sauvignon
+Topic 196,Syrah
+Topic 196,Cabernet Sauvignon
+Topic 196,Syrah
+Topic 196,Merlot
+Topic 196,Zinfandel
+Topic 196,Pinot Noir
+Topic 196,Pinot Noir
+Topic 196,Chardonnay
+Topic 196,Zinfandel
+Topic 196,Red Blend
+Topic 196,Bordeaux-style Red Blend
+Topic 196,Chardonnay
+Topic 196,Chardonnay
+Topic 196,Cabernet Sauvignon
+Topic 196,Petite Sirah
+Topic 196,Cabernet Sauvignon
+Topic 196,Grüner Veltliner
+Topic 196,Sauvignon Blanc
+Topic 197,Pinot Noir
+Topic 197,Moscato
+Topic 197,Malbec
+Topic 197,Prosecco
+Topic 197,Sparkling Blend
+Topic 197,White Blend
+Topic 197,Red Blend
+Topic 197,Chardonnay
+Topic 197,Shiraz
+Topic 197,Bordeaux-style Red Blend
+Topic 197,Pinot Noir
+Topic 197,Cabernet Sauvignon
+Topic 197,Cabernet Sauvignon
+Topic 197,Montepulciano
+Topic 197,Cabernet Sauvignon
+Topic 197,Sangiovese Grosso
+Topic 197,Zinfandel
+Topic 197,Syrah
+Topic 197,Red Blend
+Topic 197,Chardonnay
+Topic 197,Chardonnay
+Topic 197,Chardonnay
+Topic 197,Bordeaux-style Red Blend
+Topic 197,Riesling
+Topic 197,Sauvignon Blanc
+Topic 198,Pinot Nero
+Topic 198,Zinfandel
+Topic 198,Zinfandel
+Topic 198,Tintilia 
+Topic 198,Sparkling Blend
+Topic 198,Syrah
+Topic 198,Pinot Noir
+Topic 198,Syrah
+Topic 198,Friulano
+Topic 198,Sangiovese Grosso
+Topic 198,Fiano
+Topic 198,Pinot Noir
+Topic 198,Trebbiano
+Topic 198,Riesling
+Topic 198,Chardonnay
+Topic 198,Cabernet Sauvignon
+Topic 198,Cabernet Franc
+Topic 198,Syrah
+Topic 198,Cabernet Sauvignon
+Topic 198,Sangiovese Grosso
+Topic 198,Sangiovese
+Topic 198,Chardonnay
+Topic 198,Pinot Blanc
+Topic 198,Sangiovese
+Topic 198,Cabernet Franc
+Topic 199,Syrah
+Topic 199,Red Blend
+Topic 199,Pinot Noir
+Topic 199,Red Blend
+Topic 199,Rosé
+Topic 199,Sangiovese
+Topic 199,Red Blend
+Topic 199,Bordeaux-style Red Blend
+Topic 199,Pinot Noir
+Topic 199,Riesling
+Topic 199,Pinot Gris
+Topic 199,Pinot Noir
+Topic 199,Red Blend
+Topic 199,Syrah
+Topic 199,Barbera
+Topic 199,Pinot Bianco
+Topic 199,White Blend
+Topic 199,Fumé Blanc
+Topic 199,Red Blend
+Topic 199,Nebbiolo
+Topic 199,Incrocio Manzoni
+Topic 199,Cabernet Franc
+Topic 199,Pinot Noir
+Topic 199,Pinot Noir
+Topic 199,Chardonnay
+Topic 200,Pinot Noir
+Topic 200,Portuguese Red
+Topic 200,Sparkling Blend
+Topic 200,Bordeaux-style White Blend
+Topic 200,Rosé
+Topic 200,Chardonnay
+Topic 200,Bordeaux-style White Blend
+Topic 200,White Blend
+Topic 200,Pinot Noir
+Topic 200,Cayuga
+Topic 200,Chardonnay
+Topic 200,Portuguese Red
+Topic 200,Colombard
+Topic 200,Pinot Gris
+Topic 200,Bordeaux-style White Blend
+Topic 200,Pinot Noir
+Topic 200,Grauburgunder
+Topic 200,Cabernet Sauvignon
+Topic 200,Bordeaux-style White Blend
+Topic 200,Chardonnay
+Topic 200,Red Blend
+Topic 200,Bordeaux-style White Blend
+Topic 200,Verdelho
+Topic 200,Riesling
+Topic 200,Sauvignon Blanc
+Topic 201,Nebbiolo
+Topic 201,Syrah
+Topic 201,Friulano
+Topic 201,Chenin Blanc
+Topic 201,Riesling
+Topic 201,Pinot Noir
+Topic 201,Moscadello
+Topic 201,Rosé
+Topic 201,Riesling
+Topic 201,Sangiovese Grosso
+Topic 201,Bordeaux-style White Blend
+Topic 201,Chardonnay
+Topic 201,Champagne Blend
+Topic 201,Pinot Noir
+Topic 201,Sangiovese Grosso
+Topic 201,Sangiovese Grosso
+Topic 201,Carricante
+Topic 201,Xynisteri
+Topic 201,Pinot Noir
+Topic 201,Champagne Blend
+Topic 201,Plavac Mali
+Topic 201,Cabernet Franc
+Topic 201,Sangiovese Grosso
+Topic 201,Merlot
+Topic 201,Sangiovese
+Topic 202,Chardonnay
+Topic 202,Sauvignon Blanc
+Topic 202,Aragonês
+Topic 202,Red Blend
+Topic 202,Tinta Roriz
+Topic 202,Barbera
+Topic 202,Cabernet Sauvignon
+Topic 202,Riesling
+Topic 202,Zierfandler-Rotgipfler
+Topic 202,Rosé
+Topic 202,Portuguese Red
+Topic 202,Falanghina
+Topic 202,Tempranillo
+Topic 202,Pinot Noir
+Topic 202,Pinot Noir
+Topic 202,Portuguese Red
+Topic 202,Cabernet Blend
+Topic 202,"Corvina, Rondinella, Molinara"
+Topic 202,Riesling
+Topic 202,Riesling
+Topic 202,Sauvignon Blanc
+Topic 202,Pinot Noir
+Topic 202,Sauvignon Blanc
+Topic 202,Pinot Grigio
+Topic 202,Chardonnay
+Topic 203,Bordeaux-style Red Blend
+Topic 203,Merlot
+Topic 203,Cabernet Blend
+Topic 203,Cabernet Sauvignon
+Topic 203,Pinot Noir
+Topic 203,Bordeaux-style Red Blend
+Topic 203,Riesling
+Topic 203,Nerello Mascalese
+Topic 203,Merlot
+Topic 203,Shiraz
+Topic 203,Tempranillo
+Topic 203,Cabernet Sauvignon
+Topic 203,Riesling
+Topic 203,Bordeaux-style Red Blend
+Topic 203,Carmenère-Cabernet Sauvignon
+Topic 203,Pinot Noir
+Topic 203,Zinfandel
+Topic 203,Nebbiolo
+Topic 203,Zinfandel
+Topic 203,Aglianico
+Topic 203,Grüner Veltliner
+Topic 203,Shiraz
+Topic 203,Zinfandel
+Topic 203,Portuguese Red
+Topic 203,Weissburgunder
+Topic 204,Merlot
+Topic 204,Tempranillo Blend
+Topic 204,Syrah
+Topic 204,Port
+Topic 204,Arinto
+Topic 204,Merlot
+Topic 204,Syrah
+Topic 204,Red Blend
+Topic 204,Cabernet Sauvignon
+Topic 204,Portuguese Red
+Topic 204,Riesling
+Topic 204,Shiraz
+Topic 204,Rosé
+Topic 204,Blaufränkisch
+Topic 204,Portuguese Rosé
+Topic 204,Petite Sirah
+Topic 204,Sangiovese
+Topic 204,Pinot Noir
+Topic 204,Cabernet Sauvignon
+Topic 204,Pinot Noir
+Topic 204,Red Blend
+Topic 204,Red Blend
+Topic 204,Shiraz
+Topic 204,Portuguese Red
+Topic 204,Red Blend
+Topic 205,Nebbiolo
+Topic 205,Pinot Bianco
+Topic 205,Loureiro
+Topic 205,Aglianico
+Topic 205,White Blend
+Topic 205,Syrah
+Topic 205,Sangiovese
+Topic 205,Zinfandel
+Topic 205,Sparkling Blend
+Topic 205,"Corvina, Rondinella, Molinara"
+Topic 205,Carmenère
+Topic 205,Alicante Bouschet
+Topic 205,Groppello
+Topic 205,Red Blend
+Topic 205,Tannat
+Topic 205,Aglianico
+Topic 205,Sagrantino
+Topic 205,Bordeaux-style Red Blend
+Topic 205,Aglianico
+Topic 205,Pinot Noir
+Topic 205,Cabernet Sauvignon
+Topic 205,Encruzado
+Topic 205,Cabernet Franc
+Topic 205,Red Blend
+Topic 205,Sauvignon Blanc
+Topic 206,Cabernet Sauvignon
+Topic 206,Zinfandel
+Topic 206,Merlot
+Topic 206,Riesling
+Topic 206,Pinot Noir
+Topic 206,Riesling
+Topic 206,Port
+Topic 206,Cabernet Sauvignon
+Topic 206,Pinot Noir
+Topic 206,Plavac Mali
+Topic 206,Riesling
+Topic 206,Glera
+Topic 206,Riesling
+Topic 206,Mondeuse
+Topic 206,Red Blend
+Topic 206,Zweigelt
+Topic 206,"Corvina, Rondinella, Molinara"
+Topic 206,Sparkling Blend
+Topic 206,Bordeaux-style Red Blend
+Topic 206,Traminer
+Topic 206,Bordeaux-style Red Blend
+Topic 206,Sauvignon Blanc
+Topic 206,Cabernet Sauvignon
+Topic 206,Bordeaux-style Red Blend
+Topic 206,Merlot
+Topic 207,Merlot
+Topic 207,Pinot Noir
+Topic 207,Red Blend
+Topic 207,Syrah
+Topic 207,Dolcetto
+Topic 207,Cabernet Sauvignon
+Topic 207,Cabernet Sauvignon
+Topic 207,Sangiovese
+Topic 207,Chardonnay
+Topic 207,Syrah
+Topic 207,Syrah
+Topic 207,Pinot Noir
+Topic 207,Sparkling Blend
+Topic 207,Garganega
+Topic 207,Cabernet Sauvignon
+Topic 207,Pinot Noir
+Topic 207,Merlot
+Topic 207,Gewürztraminer
+Topic 207,Rhône-style Red Blend
+Topic 207,Garnacha
+Topic 207,Bordeaux-style Red Blend
+Topic 207,Pinot Gris
+Topic 207,Riesling
+Topic 207,Nebbiolo
+Topic 207,Pinot Noir
+Topic 208,Sauvignon Blanc
+Topic 208,Chardonnay
+Topic 208,Sauvignon Gris
+Topic 208,White Blend
+Topic 208,Pinot Noir
+Topic 208,Chardonnay
+Topic 208,Barbera
+Topic 208,Chardonnay
+Topic 208,Pinot Noir
+Topic 208,Inzolia
+Topic 208,Cabernet Sauvignon
+Topic 208,Chardonnay
+Topic 208,Cabernet Sauvignon
+Topic 208,Tempranillo
+Topic 208,Chardonnay
+Topic 208,Chardonnay
+Topic 208,Chardonnay
+Topic 208,Syrah
+Topic 208,Bordeaux-style Red Blend
+Topic 208,Pinot Gris
+Topic 208,Chardonnay
+Topic 208,Syrah
+Topic 208,Pinot Noir
+Topic 208,Sauvignon Blanc
+Topic 208,Prieto Picudo
+Topic 209,Sauvignon Blanc
+Topic 209,Chardonnay
+Topic 209,Syrah
+Topic 209,Pinot Grigio
+Topic 209,Pinot Noir
+Topic 209,Chardonnay
+Topic 209,Chardonnay
+Topic 209,Malbec
+Topic 209,Riesling
+Topic 209,Pinot Noir
+Topic 209,Sauvignon Blanc
+Topic 209,Cabernet Sauvignon
+Topic 209,Merlot
+Topic 209,Red Blend
+Topic 209,Cabernet Sauvignon-Carmenère
+Topic 209,Pinot Noir
+Topic 209,Meritage
+Topic 209,Sauvignon Blanc
+Topic 209,Chardonnay
+Topic 209,Chardonnay
+Topic 209,Pinot Noir
+Topic 209,Zinfandel
+Topic 209,Tempranillo
+Topic 209,Merlot
+Topic 209,Zinfandel
+Topic 210,Merlot
+Topic 210,Red Blend
+Topic 210,Red Blend
+Topic 210,Riesling
+Topic 210,Bordeaux-style White Blend
+Topic 210,Portuguese Red
+Topic 210,Portuguese Red
+Topic 210,Champagne Blend
+Topic 210,Chardonnay
+Topic 210,Bordeaux-style Red Blend
+Topic 210,Cabernet Sauvignon
+Topic 210,Cabernet Sauvignon
+Topic 210,Riesling
+Topic 210,Sauvignon Blanc
+Topic 210,Rosé
+Topic 210,Sauvignon Blanc
+Topic 210,Champagne Blend
+Topic 210,Syrah
+Topic 210,Rosé
+Topic 210,Gamay
+Topic 210,Bordeaux-style Red Blend
+Topic 210,Riesling
+Topic 210,Cabernet Sauvignon-Sangiovese
+Topic 210,Sauvignon Blanc
+Topic 210,Pinot Noir
+Topic 211,Chardonnay
+Topic 211,Sauvignon Blanc
+Topic 211,Pinot Noir
+Topic 211,Pinot Noir
+Topic 211,Viognier
+Topic 211,Pinot Grigio
+Topic 211,Pinot Noir
+Topic 211,Chardonnay
+Topic 211,Chardonnay
+Topic 211,Touriga Nacional
+Topic 211,Pinot Noir
+Topic 211,Verdejo
+Topic 211,Verdejo
+Topic 211,Merlot
+Topic 211,Sangiovese
+Topic 211,Pinot Noir
+Topic 211,Pinot Noir
+Topic 211,Pinot Noir
+Topic 211,Chardonnay
+Topic 211,Petite Sirah
+Topic 211,Tempranillo
+Topic 211,Pinot Noir
+Topic 211,Sangiovese
+Topic 211,Syrah
+Topic 211,Teroldego
+Topic 212,Tannat
+Topic 212,Syrah
+Topic 212,Tinta de Toro
+Topic 212,Cabernet Sauvignon
+Topic 212,Bonarda
+Topic 212,Petite Sirah
+Topic 212,Syrah
+Topic 212,Rhône-style Red Blend
+Topic 212,Malbec
+Topic 212,Pinot Noir
+Topic 212,Tinta Roriz
+Topic 212,Cabernet Sauvignon
+Topic 212,Red Blend
+Topic 212,Shiraz
+Topic 212,Red Blend
+Topic 212,Tinta de Toro
+Topic 212,Dolcetto
+Topic 212,Colorino
+Topic 212,Tannat
+Topic 212,Sangiovese Grosso
+Topic 212,Loureiro
+Topic 212,Syrah-Cabernet
+Topic 212,Grignolino
+Topic 212,Pinot Blanc
+Topic 212,Shiraz
+Topic 213,Kinali Yapincak
+Topic 213,Chardonnay
+Topic 213,Rosé
+Topic 213,Pinot Nero
+Topic 213,Cabernet Sauvignon
+Topic 213,Chardonnay
+Topic 213,Pinot Noir
+Topic 213,Chardonnay
+Topic 213,Pinot Noir
+Topic 213,Syrah
+Topic 213,Riesling
+Topic 213,Chardonnay
+Topic 213,Chardonnay
+Topic 213,Pinot Noir
+Topic 213,Bordeaux-style Red Blend
+Topic 213,Syrah
+Topic 213,Pinot Noir
+Topic 213,Sangiovese
+Topic 213,Red Blend
+Topic 213,Pinot Noir
+Topic 213,Tempranillo
+Topic 213,Chardonnay
+Topic 213,Zinfandel
+Topic 213,Portuguese White
+Topic 213,Mourvèdre
+Topic 214,Sangiovese
+Topic 214,Bordeaux-style Red Blend
+Topic 214,Chardonnay
+Topic 214,Pinot Noir
+Topic 214,Chardonnay
+Topic 214,Shiraz
+Topic 214,Picapoll
+Topic 214,Cabernet Sauvignon
+Topic 214,Pinot Grigio
+Topic 214,Chardonnay
+Topic 214,Chardonnay
+Topic 214,Bordeaux-style Red Blend
+Topic 214,Sauvignon Blanc
+Topic 214,Syrah-Cabernet
+Topic 214,Chardonnay
+Topic 214,Chardonnay
+Topic 214,Merlot
+Topic 214,Sauvignon Blanc
+Topic 214,Merlot
+Topic 214,Chardonnay
+Topic 214,Cabernet Sauvignon
+Topic 214,Rosé
+Topic 214,Bordeaux-style Red Blend
+Topic 214,Pinot Noir
+Topic 214,Sauvignon Blanc
+Topic 215,Pinot Noir
+Topic 215,Syrah
+Topic 215,Aglianico
+Topic 215,Red Blend
+Topic 215,Tempranillo Blend
+Topic 215,Cabernet Sauvignon
+Topic 215,Bordeaux-style Red Blend
+Topic 215,Red Blend
+Topic 215,Zinfandel
+Topic 215,Pinotage
+Topic 215,Pinot Gris
+Topic 215,Syrah-Grenache
+Topic 215,Cabernet Sauvignon
+Topic 215,Sauvignon Blanc
+Topic 215,Merlot
+Topic 215,Chardonnay
+Topic 215,Pinot Gris
+Topic 215,Roussanne
+Topic 215,Red Blend
+Topic 215,Merlot
+Topic 215,Tempranillo
+Topic 215,Red Blend
+Topic 215,Sauvignon Blanc
+Topic 215,Viognier
+Topic 215,Red Blend
+Topic 216,Champagne Blend
+Topic 216,Sauvignon Blanc
+Topic 216,Sauvignon Blanc
+Topic 216,Weissburgunder
+Topic 216,Chardonnay
+Topic 216,Grüner Veltliner
+Topic 216,Champagne Blend
+Topic 216,Sauvignon Blanc
+Topic 216,Garnacha
+Topic 216,Chardonnay
+Topic 216,Sauvignon Blanc
+Topic 216,Sangiovese
+Topic 216,Sangiovese
+Topic 216,Riesling
+Topic 216,Riesling
+Topic 216,Chardonnay
+Topic 216,Riesling
+Topic 216,Grüner Veltliner
+Topic 216,Riesling
+Topic 216,Rosé
+Topic 216,Prosecco
+Topic 216,Rkatsiteli
+Topic 216,Chenin Blanc
+Topic 216,Red Blend
+Topic 216,Tempranillo Blend
+Topic 217,Bordeaux-style Red Blend
+Topic 217,Rosé
+Topic 217,Cabernet Sauvignon
+Topic 217,Shiraz
+Topic 217,Bordeaux-style Red Blend
+Topic 217,Shiraz-Viognier
+Topic 217,Cabernet Sauvignon
+Topic 217,Moscatel
+Topic 217,Pinot Noir
+Topic 217,Chardonnay
+Topic 217,Red Blend
+Topic 217,Cabernet Sauvignon
+Topic 217,Syrah
+Topic 217,Chardonnay
+Topic 217,Red Blend
+Topic 217,Malbec
+Topic 217,Cabernet Sauvignon
+Topic 217,Carmenère
+Topic 217,Syrah-Cabernet
+Topic 217,Merlot
+Topic 217,Chardonnay
+Topic 217,Carmenère
+Topic 217,Pinot Noir
+Topic 217,Sangiovese
+Topic 217,Red Blend
+Topic 218,Cabernet Sauvignon
+Topic 218,Melon
+Topic 218,Bordeaux-style Red Blend
+Topic 218,Red Blend
+Topic 218,Pinot Gris
+Topic 218,Pinot Gris
+Topic 218,Aragonês
+Topic 218,Red Blend
+Topic 218,Cabernet Sauvignon
+Topic 218,Pinot Noir
+Topic 218,Chardonnay
+Topic 218,Negroamaro
+Topic 218,Tempranillo
+Topic 218,Petite Sirah
+Topic 218,Chardonnay
+Topic 218,Riesling
+Topic 218,Chardonnay
+Topic 218,Pinot Gris
+Topic 218,Sauvignon Blanc
+Topic 218,Sauvignon Blanc
+Topic 218,Touriga Nacional Blend
+Topic 218,Arinto
+Topic 218,Sangiovese Grosso
+Topic 218,Chardonnay
+Topic 218,Sangiovese Grosso
+Topic 219,Torrontés
+Topic 219,Cabernet Sauvignon-Malbec
+Topic 219,Bordeaux-style Red Blend
+Topic 219,Portuguese Red
+Topic 219,Syrah
+Topic 219,Sauvignon Blanc
+Topic 219,Chardonnay
+Topic 219,Zinfandel
+Topic 219,Red Blend
+Topic 219,Sparkling Blend
+Topic 219,Cabernet Sauvignon
+Topic 219,Tempranillo-Garnacha
+Topic 219,Tempranillo Blend
+Topic 219,Sparkling Blend
+Topic 219,Cabernet Sauvignon
+Topic 219,Red Blend
+Topic 219,Portuguese White
+Topic 219,Cabernet Sauvignon
+Topic 219,Pinot Noir
+Topic 219,Rosé
+Topic 219,Pinot Noir
+Topic 219,Pinot Grigio
+Topic 219,Primitivo
+Topic 219,Sauvignon Blanc
+Topic 219,Pinot Noir
+Topic 220,Rosé
+Topic 220,Zinfandel
+Topic 220,Cabernet Sauvignon
+Topic 220,Sauvignon Blanc
+Topic 220,Carmenère
+Topic 220,Red Blend
+Topic 220,Sauvignon Blanc
+Topic 220,Cabernet Sauvignon
+Topic 220,Red Blend
+Topic 220,Rosé
+Topic 220,Riesling
+Topic 220,Arinto
+Topic 220,Syrah
+Topic 220,Grüner Veltliner
+Topic 220,Chardonnay
+Topic 220,Neuburger
+Topic 220,Red Blend
+Topic 220,Merlot
+Topic 220,Sauvignon Blanc
+Topic 220,Gros and Petit Manseng
+Topic 220,Syrah
+Topic 220,Bordeaux-style Red Blend
+Topic 220,Chardonnay
+Topic 220,Chardonnay
+Topic 220,Riesling
+Topic 221,Cabernet Sauvignon
+Topic 221,Cabernet Sauvignon
+Topic 221,Bordeaux-style Red Blend
+Topic 221,Cabernet Sauvignon
+Topic 221,White Blend
+Topic 221,Portuguese White
+Topic 221,Red Blend
+Topic 221,Cabernet Sauvignon
+Topic 221,Portuguese Red
+Topic 221,Riesling
+Topic 221,Sauvignon Blanc
+Topic 221,Bordeaux-style Red Blend
+Topic 221,Red Blend
+Topic 221,Pinot Noir
+Topic 221,Sangiovese
+Topic 221,Pinot Noir
+Topic 221,Riesling
+Topic 221,Primitivo
+Topic 221,Bordeaux-style Red Blend
+Topic 221,Riesling
+Topic 221,Shiraz
+Topic 221,Pinot Noir
+Topic 221,Red Blend
+Topic 221,Pinot Noir
+Topic 221,Portuguese White
+Topic 222,Sangiovese
+Topic 222,Sauvignon Blanc
+Topic 222,Riesling
+Topic 222,Cabernet Sauvignon
+Topic 222,Barbera
+Topic 222,Pinot Noir
+Topic 222,Cabernet Sauvignon
+Topic 222,Riesling
+Topic 222,Bordeaux-style Red Blend
+Topic 222,Cabernet Sauvignon
+Topic 222,Sauvignon Blanc
+Topic 222,Malbec
+Topic 222,Syrah
+Topic 222,Chardonnay
+Topic 222,Malbec
+Topic 222,Rosé
+Topic 222,Zinfandel
+Topic 222,Merlot
+Topic 222,Bordeaux-style Red Blend
+Topic 222,Merlot
+Topic 222,Meritage
+Topic 222,Chardonnay
+Topic 222,Cabernet Sauvignon
+Topic 222,Torrontés
+Topic 222,Malbec-Tempranillo
+Topic 223,Chardonnay
+Topic 223,White Blend
+Topic 223,Sauvignon Blanc
+Topic 223,Tempranillo
+Topic 223,Grüner Veltliner
+Topic 223,Meritage
+Topic 223,Sauvignon Blanc
+Topic 223,Pinot Noir
+Topic 223,Sauvignon Blanc
+Topic 223,Riesling
+Topic 223,Alvarinho
+Topic 223,Grenache
+Topic 223,Syrah
+Topic 223,Shiraz
+Topic 223,Sauvignon Blanc
+Topic 223,Bordeaux-style Red Blend
+Topic 223,Riesling
+Topic 223,Tempranillo Blend
+Topic 223,Bordeaux-style Red Blend
+Topic 223,Riesling
+Topic 223,Merlot
+Topic 223,Shiraz
+Topic 223,Cabernet Sauvignon
+Topic 223,Zinfandel
+Topic 223,Gamay
+Topic 224,Portuguese Red
+Topic 224,Port
+Topic 224,Pinot Noir
+Topic 224,Muscat
+Topic 224,Chardonnay
+Topic 224,Riesling
+Topic 224,Bordeaux-style Red Blend
+Topic 224,Grenache
+Topic 224,Bordeaux-style Red Blend
+Topic 224,Bordeaux-style White Blend
+Topic 224,Merlot
+Topic 224,Sangiovese Grosso
+Topic 224,Tempranillo
+Topic 224,Bordeaux-style Red Blend
+Topic 224,Cabernet Franc
+Topic 224,Rhône-style Red Blend
+Topic 224,Nebbiolo
+Topic 224,Port
+Topic 224,Riesling
+Topic 224,Bordeaux-style Red Blend
+Topic 224,Bordeaux-style Red Blend
+Topic 224,Nebbiolo
+Topic 224,Sauvignon Blanc
+Topic 224,Rosé
+Topic 224,Bordeaux-style Red Blend
+Topic 225,Cabernet Sauvignon
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Red Blend
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Meritage
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Cabernet Sauvignon
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Meritage
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Red Blend
+Topic 225,Bordeaux-style White Blend
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Cabernet Sauvignon
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Bordeaux-style Red Blend
+Topic 225,Bordeaux-style Red Blend
+Topic 226,Cabernet Sauvignon
+Topic 226,Merlot
+Topic 226,Portuguese Red
+Topic 226,Cabernet Franc
+Topic 226,Cabernet Sauvignon
+Topic 226,Zinfandel
+Topic 226,Riesling
+Topic 226,Nebbiolo
+Topic 226,Bordeaux-style Red Blend
+Topic 226,Touriga Nacional
+Topic 226,Pinot Noir
+Topic 226,Pinot Noir
+Topic 226,Champagne Blend
+Topic 226,Merlot
+Topic 226,Gamay
+Topic 226,Riesling
+Topic 226,Red Blend
+Topic 226,Bordeaux-style Red Blend
+Topic 226,Bordeaux-style Red Blend
+Topic 226,Malbec
+Topic 226,Meritage
+Topic 226,Portuguese Red
+Topic 226,Sauvignon Blanc
+Topic 226,Pinot Grigio
+Topic 226,Pinot Noir
+Topic 227,Cabernet Sauvignon
+Topic 227,Cabernet Franc
+Topic 227,Cabernet Sauvignon
+Topic 227,Cabernet Sauvignon
+Topic 227,Riesling
+Topic 227,Sangiovese Grosso
+Topic 227,Bordeaux-style Red Blend
+Topic 227,Bordeaux-style Red Blend
+Topic 227,Portuguese White
+Topic 227,Red Blend
+Topic 227,Red Blend
+Topic 227,Red Blend
+Topic 227,Bordeaux-style Red Blend
+Topic 227,Bordeaux-style Red Blend
+Topic 227,Bordeaux-style Red Blend
+Topic 227,Bordeaux-style Red Blend
+Topic 227,Pinot Noir
+Topic 227,Red Blend
+Topic 227,Bordeaux-style Red Blend
+Topic 227,Bordeaux-style Red Blend
+Topic 227,Red Blend
+Topic 227,Syrah
+Topic 227,Grillo
+Topic 227,Syrah
+Topic 227,Sauvignon
+Topic 228,Garnacha
+Topic 228,Malbec
+Topic 228,Merlot
+Topic 228,Red Blend
+Topic 228,Red Blend
+Topic 228,Monastrell
+Topic 228,Merlot
+Topic 228,Shiraz
+Topic 228,Cabernet Sauvignon
+Topic 228,Malbec-Cabernet Sauvignon
+Topic 228,Red Blend
+Topic 228,Chardonnay
+Topic 228,Montepulciano
+Topic 228,Sangiovese Grosso
+Topic 228,Monastrell-Syrah
+Topic 228,Bordeaux-style Red Blend
+Topic 228,Merlot
+Topic 228,Syrah
+Topic 228,Red Blend
+Topic 228,Shiraz
+Topic 228,Malbec
+Topic 228,Tempranillo Blend
+Topic 228,Tempranillo Blend
+Topic 228,Pinot Noir
+Topic 228,Riesling
+Topic 229,Fiano
+Topic 229,Pinot Noir
+Topic 229,Pinot Noir
+Topic 229,Merlot
+Topic 229,Portuguese Red
+Topic 229,Sangiovese Grosso
+Topic 229,Pinot Noir
+Topic 229,Cabernet Sauvignon
+Topic 229,Sangiovese Grosso
+Topic 229,Garganega
+Topic 229,Portuguese Red
+Topic 229,Sangiovese
+Topic 229,Pinot Noir
+Topic 229,Garnacha
+Topic 229,Tinta de Toro
+Topic 229,Bordeaux-style Red Blend
+Topic 229,Red Blend
+Topic 229,Gewürztraminer
+Topic 229,White Blend
+Topic 229,Riesling
+Topic 229,Pinot Noir
+Topic 229,"Corvina, Rondinella, Molinara"
+Topic 229,Portuguese Red
+Topic 229,Cabernet Sauvignon
+Topic 229,Pinot Noir
+Topic 230,Bordeaux-style Red Blend
+Topic 230,Gamay
+Topic 230,Merlot
+Topic 230,Chardonnay
+Topic 230,Chardonnay
+Topic 230,Merlot
+Topic 230,Cabernet Sauvignon
+Topic 230,Bordeaux-style White Blend
+Topic 230,Pinot Noir
+Topic 230,Chardonnay
+Topic 230,Pinot Noir
+Topic 230,Rosé
+Topic 230,Bordeaux-style Red Blend
+Topic 230,Bordeaux-style Red Blend
+Topic 230,Grenache
+Topic 230,Syrah
+Topic 230,Bordeaux-style Red Blend
+Topic 230,Bordeaux-style Red Blend
+Topic 230,Rkatsiteli
+Topic 230,Pinot Noir
+Topic 230,Pinot Gris
+Topic 230,Chardonnay
+Topic 230,Bordeaux-style Red Blend
+Topic 230,Cabernet Sauvignon
+Topic 230,Rosé
+Topic 231,Monastrell
+Topic 231,Malbec
+Topic 231,Garnacha
+Topic 231,Red Blend
+Topic 231,Bordeaux-style Red Blend
+Topic 231,Red Blend
+Topic 231,Barbera
+Topic 231,Red Blend
+Topic 231,Malbec
+Topic 231,Riesling
+Topic 231,Red Blend
+Topic 231,Monastrell-Syrah
+Topic 231,Red Blend
+Topic 231,Shiraz
+Topic 231,Bordeaux-style Red Blend
+Topic 231,Cabernet Sauvignon
+Topic 231,Pinot Gris
+Topic 231,Cabernet Sauvignon
+Topic 231,Chardonnay
+Topic 231,Red Blend
+Topic 231,Merlot
+Topic 231,Montepulciano
+Topic 231,"Corvina, Rondinella, Molinara"
+Topic 231,Shiraz
+Topic 231,Cabernet Sauvignon
+Topic 232,Bordeaux-style Red Blend
+Topic 232,Bordeaux-style Red Blend
+Topic 232,Pinot Noir
+Topic 232,"Corvina, Rondinella, Molinara"
+Topic 232,Barbera
+Topic 232,Bordeaux-style Red Blend
+Topic 232,Sangiovese
+Topic 232,Sauvignon Blanc
+Topic 232,Cabernet Sauvignon
+Topic 232,Grenache Blanc
+Topic 232,Cabernet Sauvignon
+Topic 232,Bordeaux-style Red Blend
+Topic 232,"Corvina, Rondinella, Molinara"
+Topic 232,Bordeaux-style Red Blend
+Topic 232,Sangiovese
+Topic 232,Chardonnay
+Topic 232,Albariño
+Topic 232,Red Blend
+Topic 232,Cabernet Sauvignon
+Topic 232,Aglianico
+Topic 232,"Corvina, Rondinella, Molinara"
+Topic 232,"Corvina, Rondinella, Molinara"
+Topic 232,Cabernet Franc
+Topic 232,Red Blend
+Topic 232,Red Blend
+Topic 233,Chardonnay
+Topic 233,Red Blend
+Topic 233,Malbec
+Topic 233,Merlot
+Topic 233,Pinot Noir
+Topic 233,Chenin Blanc
+Topic 233,Nebbiolo
+Topic 233,Cabernet Sauvignon
+Topic 233,Red Blend
+Topic 233,Merlot
+Topic 233,Sangiovese
+Topic 233,Pinot Noir
+Topic 233,Graciano
+Topic 233,Chardonnay
+Topic 233,Cabernet Sauvignon
+Topic 233,Chardonnay
+Topic 233,Cabernet Sauvignon
+Topic 233,Chardonnay
+Topic 233,Pinot Noir
+Topic 233,Cabernet Sauvignon
+Topic 233,Sauvignon Blanc
+Topic 233,Cabernet Sauvignon
+Topic 233,"Corvina, Rondinella, Molinara"
+Topic 233,Bordeaux-style Red Blend
+Topic 233,Cabernet Sauvignon
+Topic 234,Cabernet Sauvignon
+Topic 234,Pinot Noir
+Topic 234,Chardonnay
+Topic 234,Portuguese Red
+Topic 234,Merlot
+Topic 234,Bordeaux-style Red Blend
+Topic 234,Sauvignon Blanc
+Topic 234,Portuguese Red
+Topic 234,Red Blend
+Topic 234,Rosé
+Topic 234,Roussanne-Viognier
+Topic 234,Merlot
+Topic 234,Merlot
+Topic 234,Cabernet Sauvignon
+Topic 234,Cabernet Sauvignon
+Topic 234,Blaufränkisch
+Topic 234,Rosé
+Topic 234,Syrah
+Topic 234,Cabernet Sauvignon
+Topic 234,Syrah
+Topic 234,Syrah
+Topic 234,Cabernet Sauvignon
+Topic 234,Chardonnay
+Topic 234,Bordeaux-style Red Blend
+Topic 234,Cabernet Sauvignon-Malbec
+Topic 235,Chardonnay
+Topic 235,Red Blend
+Topic 235,Pinot Bianco
+Topic 235,Port
+Topic 235,Portuguese White
+Topic 235,Chardonnay
+Topic 235,Nebbiolo
+Topic 235,Portuguese Red
+Topic 235,Pinot Noir
+Topic 235,Portuguese White
+Topic 235,Pinot Noir
+Topic 235,Pinot Noir
+Topic 235,Portuguese Red
+Topic 235,Pinot Noir
+Topic 235,Piedirosso
+Topic 235,Syrah
+Topic 235,Syrah
+Topic 235,Cabernet Sauvignon-Syrah
+Topic 235,Champagne Blend
+Topic 235,Pinot Noir
+Topic 235,Zweigelt
+Topic 235,Cabernet Blend
+Topic 235,Cabernet Sauvignon
+Topic 235,Sangiovese
+Topic 235,"Corvina, Rondinella, Molinara"
+Topic 236,Graciano
+Topic 236,Red Blend
+Topic 236,Zinfandel
+Topic 236,Garnacha
+Topic 236,Carmenère
+Topic 236,Nebbiolo
+Topic 236,Cabernet Sauvignon
+Topic 236,Cabernet Sauvignon
+Topic 236,Chardonnay
+Topic 236,Cabernet Sauvignon
+Topic 236,Tinta de Toro
+Topic 236,Malbec
+Topic 236,Montepulciano
+Topic 236,Zinfandel
+Topic 236,Zinfandel
+Topic 236,Cabernet Sauvignon
+Topic 236,Tinto Fino
+Topic 236,Tempranillo
+Topic 236,Red Blend
+Topic 236,Zinfandel
+Topic 236,Tempranillo Blend
+Topic 236,Tempranillo Blend
+Topic 236,Sagrantino
+Topic 236,Barbera
+Topic 236,Merlot
+Topic 237,Sherry
+Topic 237,Merlot
+Topic 237,Zinfandel
+Topic 237,Zinfandel
+Topic 237,Petite Sirah
+Topic 237,Merlot
+Topic 237,Zinfandel
+Topic 237,Gewürztraminer
+Topic 237,Cabernet Sauvignon
+Topic 237,Red Blend
+Topic 237,Nebbiolo
+Topic 237,Cabernet Sauvignon
+Topic 237,Monastrell
+Topic 237,Zinfandel
+Topic 237,Tempranillo Blend
+Topic 237,Negroamaro
+Topic 237,Sparkling Blend
+Topic 237,Tinta de Toro
+Topic 237,Merlot
+Topic 237,Red Blend
+Topic 237,Riesling
+Topic 237,Red Blend
+Topic 237,Zinfandel
+Topic 237,Pinot Noir
+Topic 237,Zinfandel
+Topic 238,Pinot Noir
+Topic 238,Port
+Topic 238,Syrah
+Topic 238,Rhône-style Red Blend
+Topic 238,Merlot
+Topic 238,Sauvignon Blanc
+Topic 238,Meritage
+Topic 238,Cabernet Sauvignon
+Topic 238,Pinot Noir
+Topic 238,Furmint
+Topic 238,Grillo
+Topic 238,Zinfandel
+Topic 238,Merlot
+Topic 238,Red Blend
+Topic 238,Sangiovese
+Topic 238,Cabernet Sauvignon
+Topic 238,Petite Sirah
+Topic 238,Blaufränkisch
+Topic 238,Zinfandel
+Topic 238,"Corvina, Rondinella, Molinara"
+Topic 238,Red Blend
+Topic 238,Xinomavro
+Topic 238,Grenache
+Topic 238,Syrah
+Topic 238,Red Blend
+Topic 239,Plavac Mali
+Topic 239,Cabernet Franc
+Topic 239,Bordeaux-style Red Blend
+Topic 239,Zinfandel
+Topic 239,Chardonnay
+Topic 239,Red Blend
+Topic 239,Sangiovese
+Topic 239,Merlot
+Topic 239,Barbera
+Topic 239,Malbec
+Topic 239,St. Laurent
+Topic 239,Red Blend
+Topic 239,Champagne Blend
+Topic 239,Pinot Noir
+Topic 239,Bordeaux-style Red Blend
+Topic 239,Chardonnay
+Topic 239,Sauvignon Blanc
+Topic 239,Chardonnay
+Topic 239,Pinot Noir
+Topic 239,Zinfandel
+Topic 239,Dornfelder
+Topic 239,Red Blend
+Topic 239,Merlot
+Topic 239,Chardonnay
+Topic 239,Sangiovese
+Topic 240,Red Blend
+Topic 240,Red Blend
+Topic 240,Zinfandel
+Topic 240,Red Blend
+Topic 240,Zinfandel
+Topic 240,Tempranillo Blend
+Topic 240,Nebbiolo
+Topic 240,Dolcetto
+Topic 240,Zinfandel
+Topic 240,Merlot
+Topic 240,Rhône-style Red Blend
+Topic 240,Nebbiolo
+Topic 240,Merlot
+Topic 240,Merlot
+Topic 240,Garganega
+Topic 240,Tinta de Toro
+Topic 240,Zinfandel
+Topic 240,Roussanne
+Topic 240,Tempranillo Blend
+Topic 240,Cabernet Sauvignon
+Topic 240,Red Blend
+Topic 240,Graciano
+Topic 240,Shiraz-Tempranillo
+Topic 240,Tempranillo
+Topic 240,Zinfandel
+Topic 241,Merlot
+Topic 241,Pinot Noir
+Topic 241,Pinot Noir
+Topic 241,Zinfandel
+Topic 241,Red Blend
+Topic 241,Merlot
+Topic 241,Pinot Noir
+Topic 241,Pinot Gris
+Topic 241,Pinot Noir
+Topic 241,Portuguese Red
+Topic 241,Bordeaux-style Red Blend
+Topic 241,Chardonnay
+Topic 241,Bordeaux-style Red Blend
+Topic 241,Red Blend
+Topic 241,Bordeaux-style Red Blend
+Topic 241,Bordeaux-style Red Blend
+Topic 241,Bordeaux-style Red Blend
+Topic 241,Red Blend
+Topic 241,Cabernet Sauvignon
+Topic 241,Pinot Noir
+Topic 241,Cabernet Sauvignon
+Topic 241,Chardonnay
+Topic 241,Syrah
+Topic 241,Viognier
+Topic 241,Zinfandel
+Topic 242,Bordeaux-style Red Blend
+Topic 242,Red Blend
+Topic 242,Cabernet Franc
+Topic 242,Merlot
+Topic 242,Syrah
+Topic 242,Malbec
+Topic 242,Cabernet Sauvignon
+Topic 242,Merlot
+Topic 242,Rhône-style Red Blend
+Topic 242,Rhône-style Red Blend
+Topic 242,Merlot
+Topic 242,Petit Verdot
+Topic 242,Charbono
+Topic 242,Meritage
+Topic 242,Kalecik Karasi
+Topic 242,Cabernet Sauvignon
+Topic 242,Shiraz
+Topic 242,Cabernet Franc
+Topic 242,Cabernet Sauvignon
+Topic 242,Cabernet Sauvignon
+Topic 242,Xinomavro
+Topic 242,Zinfandel
+Topic 242,Pinot Noir
+Topic 242,Zinfandel
+Topic 242,Syrah
+Topic 243,Cabernet Sauvignon
+Topic 243,Cabernet Sauvignon
+Topic 243,Zinfandel
+Topic 243,Zinfandel
+Topic 243,Cabernet Sauvignon
+Topic 243,Merlot
+Topic 243,Merlot
+Topic 243,Syrah
+Topic 243,Syrah
+Topic 243,Cabernet Sauvignon
+Topic 243,Zinfandel
+Topic 243,Dolcetto
+Topic 243,Cabernet Sauvignon
+Topic 243,Cabernet Sauvignon
+Topic 243,Chardonnay
+Topic 243,Cabernet Sauvignon
+Topic 243,Zinfandel
+Topic 243,Cabernet Sauvignon
+Topic 243,Zinfandel
+Topic 243,Cabernet Sauvignon
+Topic 243,Cabernet Sauvignon
+Topic 243,Roditis
+Topic 243,Sauvignon Blanc
+Topic 243,Cabernet Sauvignon
+Topic 243,Merlot
+Topic 244,Cabernet Sauvignon
+Topic 244,Zinfandel
+Topic 244,Cabernet Franc
+Topic 244,Pinot Noir
+Topic 244,Cabernet Sauvignon
+Topic 244,Zinfandel
+Topic 244,Pinot Noir
+Topic 244,Shiraz
+Topic 244,Pinot Noir
+Topic 244,Cabernet Franc
+Topic 244,Pinot Noir
+Topic 244,Pinot Noir
+Topic 244,Riesling
+Topic 244,Merlot
+Topic 244,Zinfandel
+Topic 244,Shiraz-Cabernet Sauvignon
+Topic 244,Pinot Noir
+Topic 244,Zinfandel
+Topic 244,Cabernet Sauvignon
+Topic 244,Riesling
+Topic 244,Riesling
+Topic 244,Pinot Noir
+Topic 244,Syrah
+Topic 244,Zinfandel
+Topic 244,Pinot Noir
+Topic 245,Bordeaux-style Red Blend
+Topic 245,Syrah
+Topic 245,Pinot Noir
+Topic 245,Cabernet Sauvignon
+Topic 245,Chardonnay
+Topic 245,Prosecco
+Topic 245,Pinot Noir
+Topic 245,White Blend
+Topic 245,Sangiovese Grosso
+Topic 245,Red Blend
+Topic 245,Cabernet Sauvignon
+Topic 245,Syrah-Grenache
+Topic 245,Tempranillo
+Topic 245,Pinot Noir
+Topic 245,Sparkling Blend
+Topic 245,Portuguese Red
+Topic 245,Carignan-Grenache
+Topic 245,Merlot
+Topic 245,Austrian Red Blend
+Topic 245,Red Blend
+Topic 245,Pinot Noir
+Topic 245,Tempranillo
+Topic 245,Red Blend
+Topic 245,Red Blend
+Topic 245,Petite Sirah
+Topic 246,Merlot
+Topic 246,Cabernet Sauvignon
+Topic 246,Sangiovese
+Topic 246,Syrah
+Topic 246,Merlot
+Topic 246,Cabernet Sauvignon
+Topic 246,Red Blend
+Topic 246,Port
+Topic 246,Cabernet Sauvignon
+Topic 246,Rhône-style Red Blend
+Topic 246,Bordeaux-style White Blend
+Topic 246,Syrah
+Topic 246,Pinot Noir
+Topic 246,Cabernet Sauvignon
+Topic 246,Petite Sirah
+Topic 246,Riesling
+Topic 246,Cabernet Sauvignon
+Topic 246,Cabernet Sauvignon
+Topic 246,Pinot Noir
+Topic 246,Chardonnay
+Topic 246,Zinfandel
+Topic 246,Zinfandel
+Topic 246,Red Blend
+Topic 246,Chardonnay
+Topic 246,Cabernet Sauvignon
+Topic 247,Merlot
+Topic 247,Cabernet Sauvignon
+Topic 247,Cabernet Sauvignon
+Topic 247,Cabernet Sauvignon
+Topic 247,Merlot
+Topic 247,Sangiovese
+Topic 247,Merlot
+Topic 247,Syrah
+Topic 247,Cabernet Sauvignon
+Topic 247,Port
+Topic 247,Bordeaux-style Red Blend
+Topic 247,Merlot
+Topic 247,Chardonnay
+Topic 247,Red Blend
+Topic 247,Pinot Noir
+Topic 247,Bordeaux-style Red Blend
+Topic 247,Cabernet Sauvignon
+Topic 247,Pinot Noir
+Topic 247,Zinfandel
+Topic 247,Red Blend
+Topic 247,Chardonnay
+Topic 247,Bordeaux-style Red Blend
+Topic 247,Chardonnay
+Topic 247,Red Blend
+Topic 247,Rosé
+Topic 248,Cabernet Sauvignon
+Topic 248,Red Blend
+Topic 248,Merlot
+Topic 248,Red Blend
+Topic 248,Red Blend
+Topic 248,Chardonnay
+Topic 248,Zinfandel
+Topic 248,Cabernet Sauvignon
+Topic 248,Merlot
+Topic 248,Petite Sirah
+Topic 248,Merlot
+Topic 248,Cabernet Sauvignon
+Topic 248,Chardonnay
+Topic 248,Cabernet Sauvignon
+Topic 248,Sauvignon Blanc
+Topic 248,Cabernet Sauvignon
+Topic 248,Cabernet Sauvignon
+Topic 248,Merlot
+Topic 248,Bordeaux-style Red Blend
+Topic 248,Chardonnay
+Topic 248,Merlot
+Topic 248,Pinot Noir
+Topic 248,Cabernet Sauvignon
+Topic 248,Sparkling Blend
+Topic 248,Cabernet Sauvignon
+Topic 249,Chenin Blanc
+Topic 249,Malbec
+Topic 249,Nebbiolo
+Topic 249,Riesling
+Topic 249,Pinot Blanc
+Topic 249,Cabernet Sauvignon
+Topic 249,White Blend
+Topic 249,"Corvina, Rondinella, Molinara"
+Topic 249,Red Blend
+Topic 249,Pinot Noir
+Topic 249,Merlot
+Topic 249,Dolcetto
+Topic 249,Pinot Grigio
+Topic 249,Merlot
+Topic 249,Pinot Noir
+Topic 249,Glera
+Topic 249,Sauvignon Blanc
+Topic 249,Sparkling Blend
+Topic 249,Red Blend
+Topic 249,Chambourcin
+Topic 249,Garganega
+Topic 249,Merlot
+Topic 249,Chardonnay
+Topic 249,Pinot Noir
+Topic 249,Barbera
