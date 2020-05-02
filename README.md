@@ -31,7 +31,7 @@ Have you ever wondered if paying more for a bottle of wine means you’ll get a 
   
 ![alt text](https://github.com/LBusalacchi/msds696/blob/master/Images/9.png)
   
-An interesting further use of this dataset might be examining whether this correlation is the same at all price points, or if certain price ranges are more likely to worth your money. 
+An interesting further use of this dataset might be examining whether this correlation is the same at all price points, or if certain price ranges are more likely to be worth your money. 
   
   
 ## Step 2
