@@ -91,7 +91,7 @@ To explore these many topics further, or start looking for a new wine to try, ch
   
 There’s a lot of potential reasons for this, which gives us many ideas for refining this LSA project in the future. 
   
-..* There are a lot of groups, and one of the most obvious methods to pare this down is to pare down the dataset. This could easily be done by price, rating, wine variety, country of origin, or so on. 
+  * There are a lot of groups, and one of the most obvious methods to pare this down is to pare down the dataset. This could easily be done by price, rating, wine variety, country of origin, or so on. 
   
-..* Another way to reduce the groups would be to optimize the number of words our model has to analyze. It’s clear that after looking over the existing topics for awhile that there are more stop words that are highly specific to a wine review that we could remove. We could also lemmatize the words, so that words such as smoke and smoky are considered the same. 
+  * Another way to reduce the groups would be to optimize the number of words our model has to analyze. It’s clear that after looking over the existing topics for awhile that there are more stop words that are highly specific to a wine review that we could remove. We could also lemmatize the words, so that words such as smoke and smoky are considered the same. 
 
