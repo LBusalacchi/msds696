@@ -1,7 +1,7 @@
 # Wine Review Classification
 There's so many wines out there today, and often time a trip to the grocery store to pick up a quick drink to go with dinner can take longer than expected. Even when you know the type of wine you like, there's so many different wineries, and let's not even start on the years. Even wanting to try something new can be daunting, what if you spend $15 dollars just to find out you can't stand more than one sip?!
 Luckily, there's sommeliers in the world... unluckily, they probably aren't hanging around your local grocery or liquor store. Classification beyond the wine types could prove valuable in this case! Using machine learning and a hefty data source of sommelier's reviews, I plan to perform LSA text classification to find groups of wine, possibly with more in common than just being the same type!
-To watch a video presentation of the below topic, please go [here]().
+To watch a video presentation of the below topic, please go [here](https://www.youtube.com/watch?v=_dDJ1Zmqpeg).
   
 ## Step 1  
 ## Exploratory Data Analysis  
